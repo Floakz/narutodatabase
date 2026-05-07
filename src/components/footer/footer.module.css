@@ -1,0 +1,23 @@
+.footer {
+    background-color: #411801;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 5px;
+    font-size: 0.7em;
+    color: white;
+    padding: 40px 40px 80px 40px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.innerFooter {
+    max-width: 1440px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.innerFooter img {
+    width: 150px;
+}

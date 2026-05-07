@@ -1,0 +1,1107 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Samehada",
+            "category": "Weapon",
+            "description": "A living sword covered in scales that absorbs chakra from anyone it touches. Bonded to Kisame and considered the most terrifying of the Seven Swords of the Mist.",
+            "associatedCharacters": [
+                {
+                    "id": 17,
+                    "name": "Kisame Hoshigaki"
+                },
+                {
+                    "id": 100,
+                    "name": "Fuguki Suikazan"
+                }
+            ],
+            "associatedClans": [
+                {
+                    "id": 14,
+                    "name": "Hoshigaki"
+                }
+            ],
+            "images": {
+                "profile": "src/assets/items/1.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 2,
+            "name": "Kubikiribōchō",
+            "category": "Weapon",
+            "description": "A massive executioner's blade that can regenerate itself using the iron from the blood of those it cuts. One of the Seven Swords of the Mist, famously wielded by Zabuza.",
+            "associatedCharacters": [
+                {
+                    "id": 65,
+                    "name": "Zabuza Momochi"
+                },
+                {
+                    "id": 67,
+                    "name": "Suigetsu Hozuki"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "src/assets/items/2.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 3,
+            "name": "Hiramekarei",
+            "category": "Weapon",
+            "description": "A double-handled sword that stores chakra and can release it in various forms including a giant hammer or sharp blade. One of the Seven Swords of the Mist.",
+            "associatedCharacters": [
+                {
+                    "id": 96,
+                    "name": "Chojuro"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "src/assets/items/3.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 4,
+            "name": "Nuibari",
+            "category": "Weapon",
+            "description": "A long needle-like sword paired with an endless thread of wire. Used to pierce and stitch enemies together. One of the Seven Swords of the Mist.",
+            "associatedCharacters": [
+                {
+                    "id": 98,
+                    "name": "Kushimaru Kuriarare"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "src/assets/items/4.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 5,
+            "name": "Shibuki",
+            "category": "Weapon",
+            "description": "A sword embedded with explosive tags along its blade. Each slash triggers an explosion. One of the Seven Swords of the Mist.",
+            "associatedCharacters": [
+                {
+                    "id": 99,
+                    "name": "Jinpachi Munashi"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "src/assets/items/5.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 6,
+            "name": "Sword of Kusanagi",
+            "category": "Weapon",
+            "description": "A legendary blade stored inside Orochimaru's body. Can extend its length and cut through nearly any defense. Associated with the Grass Country and ancient myth.",
+            "associatedCharacters": [
+                {
+                    "id": 9,
+                    "name": "Orochimaru"
+                },
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "src/assets/items/6.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 7,
+            "name": "Gunbai",
+            "category": "Weapon",
+            "description": "Madara Uchiha's massive war fan used both as a weapon and a shield. Can reflect and redirect ninjutsu attacks. Passed down to Obito.",
+            "associatedCharacters": [
+                {
+                    "id": 10,
+                    "name": "Madara Uchiha"
+                },
+                {
+                    "id": 16,
+                    "name": "Obito Uchiha"
+                }
+            ],
+            "associatedClans": [
+                {
+                    "id": 1,
+                    "name": "Uchiha"
+                }
+            ],
+            "images": {
+                "profile": "src/assets/items/7.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 8,
+            "name": "Asuma's Chakra Blades",
+            "category": "Weapon",
+            "description": "A pair of trench knives that can be infused with wind chakra to extend and sharpen their cutting edge to lethal precision.",
+            "associatedCharacters": [
+                {
+                    "id": 56,
+                    "name": "Asuma Sarutobi"
+                },
+                {
+                    "id": 28,
+                    "name": "Shikamaru Nara"
+                }
+            ],
+            "associatedClans": [
+                {
+                    "id": 10,
+                    "name": "Sarutobi"
+                }
+            ],
+            "images": {
+                "profile": "src/assets/items/8.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 9,
+            "name": "Kunai",
+            "category": "Weapon",
+            "description": "The standard multi-purpose throwing blade used by all shinobi. Can be used as a melee weapon, thrown as a projectile, or combined with explosive tags.",
+            "associatedCharacters": [],
+            "associatedClans": [],
+            "images": {
+                "profile": "src/assets/items/9.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 10,
+            "name": "Shuriken",
+            "category": "Weapon",
+            "description": "Four-pointed throwing stars used for ranged attacks. A staple of every shinobi's arsenal, usable alone or in combination with jutsu.",
+            "associatedCharacters": [],
+            "associatedClans": [],
+            "images": {
+                "profile": "src/assets/items/10.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 11,
+            "name": "Senbon",
+            "category": "Weapon",
+            "description": "Long thin needles used with extreme precision to hit pressure points or vital areas. Favored by medical ninja and assassination specialists.",
+            "associatedCharacters": [
+                {
+                    "id": 66,
+                    "name": "Haku"
+                },
+                {
+                    "id": 75,
+                    "name": "Genma Shiranui"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "src/assets/items/11.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 12,
+            "name": "Explosive Tag",
+            "category": "Item",
+            "description": "Paper slips inscribed with a sealing formula that detonates on command. One of the most commonly used tools in shinobi warfare.",
+            "associatedCharacters": [],
+            "associatedClans": [],
+            "images": {
+                "profile": "src/assets/items/12.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 13,
+            "name": "Smoke Bomb",
+            "category": "Item",
+            "description": "A standard shinobi tool that releases a thick cloud of smoke to obscure visibility and create openings for escape or attack.",
+            "associatedCharacters": [],
+            "associatedClans": [],
+            "images": {
+                "profile": "src/assets/items/13.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 14,
+            "name": "Flying Thunder God Kunai",
+            "category": "Item",
+            "description": "Specially crafted three-bladed kunai marked with Minato's Flying Thunder God seal. Throwing them allows instant teleportation to their location.",
+            "associatedCharacters": [
+                {
+                    "id": 6,
+                    "name": "Minato Namikaze"
+                }
+            ],
+            "associatedClans": [
+                {
+                    "id": 18,
+                    "name": "Namikaze"
+                }
+            ],
+            "images": {
+                "profile": "src/assets/items/14.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 15,
+            "name": "Forbidden Scroll of Sealing",
+            "category": "Scroll",
+            "description": "A scroll containing forbidden jutsu banned from use in the Hidden Leaf. Naruto stole it to learn Shadow Clone Jutsu during his graduation test.",
+            "associatedCharacters": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 12,
+                    "name": "Tobirama Senju"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "src/assets/items/15.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 16,
+            "name": "Summoning Scroll",
+            "category": "Scroll",
+            "description": "Contracts written in blood that bind a shinobi to a summoning animal clan. Signing one allows the ninja to summon creatures like toads, snakes, or slugs.",
+            "associatedCharacters": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 7,
+                    "name": "Jiraiya"
+                },
+                {
+                    "id": 9,
+                    "name": "Orochimaru"
+                },
+                {
+                    "id": 3,
+                    "name": "Sakura Haruno"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "src/assets/items/16.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 17,
+            "name": "Sage of Six Paths Tablet",
+            "category": "Scroll",
+            "description": "An ancient stone tablet inscribed by Hagoromo Otsutsuki containing secrets of the Sharingan, Rinnegan, and the history of chakra. Only readable with a Dojutsu.",
+            "associatedCharacters": [
+                {
+                    "id": 43,
+                    "name": "Hagoromo Otsutsuki"
+                },
+                {
+                    "id": 10,
+                    "name": "Madara Uchiha"
+                }
+            ],
+            "associatedClans": [
+                {
+                    "id": 12,
+                    "name": "Otsutsuki"
+                }
+            ],
+            "images": {
+                "profile": "src/assets/items/17.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 18,
+            "name": "Uchiha Stone Tablet",
+            "category": "Scroll",
+            "description": "A stone tablet kept secret within the Uchiha clan that contains prophecies and history written by Hagoromo. Madara used it to plan his Eye of the Moon plan.",
+            "associatedCharacters": [
+                {
+                    "id": 10,
+                    "name": "Madara Uchiha"
+                },
+                {
+                    "id": 5,
+                    "name": "Itachi Uchiha"
+                }
+            ],
+            "associatedClans": [
+                {
+                    "id": 1,
+                    "name": "Uchiha"
+                }
+            ],
+            "images": {
+                "profile": "src/assets/items/18.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 19,
+            "name": "Hokage Rock",
+            "category": "Building",
+            "description": "A massive stone cliff face carved with the faces of every Hokage. Overlooking the Hidden Leaf Village, it is the most iconic landmark in Konoha.",
+            "associatedCharacters": [
+                {
+                    "id": 11,
+                    "name": "Hashirama Senju"
+                },
+                {
+                    "id": 12,
+                    "name": "Tobirama Senju"
+                },
+                {
+                    "id": 13,
+                    "name": "Hiruzen Sarutobi"
+                },
+                {
+                    "id": 6,
+                    "name": "Minato Namikaze"
+                },
+                {
+                    "id": 8,
+                    "name": "Tsunade"
+                },
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                },
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "src/assets/items/19.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 20,
+            "name": "Ichiraku Ramen",
+            "category": "Building",
+            "description": "Naruto's favorite ramen stand located in the Hidden Leaf Village. Run by Teuchi and his daughter Ayame, it is one of the most beloved locations in the entire series.",
+            "associatedCharacters": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "src/assets/items/20.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 21,
+            "name": "Chunin Exam Arena",
+            "category": "Building",
+            "description": "The stadium in Konoha where the final stage of the Chunin Exams is held. Site of many legendary battles including Naruto vs Neji and Sasuke vs Gaara.",
+            "associatedCharacters": [],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 22,
+            "name": "Forest of Death",
+            "category": "Building",
+            "description": "Training Ground 44 in Konoha, used as the second stage of the Chunin Exams. A massive dangerous forest filled with giant predatory creatures.",
+            "associatedCharacters": [
+                {
+                    "id": 9,
+                    "name": "Orochimaru"
+                },
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 23,
+            "name": "Valley of the End",
+            "category": "Building",
+            "description": "A massive waterfall on the border of the Land of Fire marked by two giant statues of Hashirama and Madara. Site of two legendary battles between Naruto and Sasuke.",
+            "associatedCharacters": [
+                {
+                    "id": 11,
+                    "name": "Hashirama Senju"
+                },
+                {
+                    "id": 10,
+                    "name": "Madara Uchiha"
+                },
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 24,
+            "name": "Training Ground 7",
+            "category": "Building",
+            "description": "The iconic training ground where Team 7 trained under Kakashi. Marked by the memorial stone listing all of Konoha's fallen shinobi.",
+            "associatedCharacters": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                },
+                {
+                    "id": 3,
+                    "name": "Sakura Haruno"
+                },
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 25,
+            "name": "Ryuchi Cave",
+            "category": "Building",
+            "description": "The sacred home of the White Snake Sage and the snake summoning clan. Located at the end of a treacherous journey, it is where Kabuto trained to master Sage Mode.",
+            "associatedCharacters": [
+                {
+                    "id": 9,
+                    "name": "Orochimaru"
+                },
+                {
+                    "id": 41,
+                    "name": "Kabuto Yakushi"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 26,
+            "name": "Mount Myoboku",
+            "category": "Building",
+            "description": "The sacred mountain home of the toad summoning clan and the Great Toad Sage. The place where Naruto and Jiraiya trained to master Sage Mode.",
+            "associatedCharacters": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 7,
+                    "name": "Jiraiya"
+                },
+                {
+                    "id": 6,
+                    "name": "Minato Namikaze"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 27,
+            "name": "Shikkotsu Forest",
+            "category": "Building",
+            "description": "The sacred home of the slug summoning clan where the slug sage resides. One of the three great sage locations alongside Mount Myoboku and Ryuchi Cave.",
+            "associatedCharacters": [
+                {
+                    "id": 8,
+                    "name": "Tsunade"
+                },
+                {
+                    "id": 3,
+                    "name": "Sakura Haruno"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 28,
+            "name": "Kage Robes",
+            "category": "Clothing",
+            "description": "The ceremonial robes worn by the five Kage leaders of the hidden villages. Each village has its own color and design, representing the highest authority in the shinobi world.",
+            "associatedCharacters": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 8,
+                    "name": "Tsunade"
+                },
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                },
+                {
+                    "id": 34,
+                    "name": "Gaara"
+                },
+                {
+                    "id": 38,
+                    "name": "A (Fourth Raikage)"
+                },
+                {
+                    "id": 39,
+                    "name": "Mei Terumi"
+                },
+                {
+                    "id": 40,
+                    "name": "Onoki"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 29,
+            "name": "Akatsuki Cloak",
+            "category": "Clothing",
+            "description": "The iconic black cloak with red cloud patterns worn by all Akatsuki members. One of the most recognizable symbols in the entire series.",
+            "associatedCharacters": [
+                {
+                    "id": 5,
+                    "name": "Itachi Uchiha"
+                },
+                {
+                    "id": 14,
+                    "name": "Pain (Nagato)"
+                },
+                {
+                    "id": 17,
+                    "name": "Kisame Hoshigaki"
+                },
+                {
+                    "id": 18,
+                    "name": "Deidara"
+                },
+                {
+                    "id": 19,
+                    "name": "Sasori"
+                },
+                {
+                    "id": 20,
+                    "name": "Hidan"
+                },
+                {
+                    "id": 21,
+                    "name": "Kakuzu"
+                },
+                {
+                    "id": 16,
+                    "name": "Obito Uchiha"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 30,
+            "name": "ANBU Mask",
+            "category": "Clothing",
+            "description": "The ceramic animal-shaped masks worn by ANBU operatives to conceal their identities during covert missions. Each mask has a unique animal design assigned to the operative.",
+            "associatedCharacters": [
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                },
+                {
+                    "id": 5,
+                    "name": "Itachi Uchiha"
+                },
+                {
+                    "id": 71,
+                    "name": "Yamato"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 31,
+            "name": "Konoha Forehead Protector",
+            "category": "Clothing",
+            "description": "The metal headband engraved with the Hidden Leaf symbol worn by Konoha ninja. A symbol of pride and belonging, scratching it through signals defection from the village.",
+            "associatedCharacters": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                },
+                {
+                    "id": 3,
+                    "name": "Sakura Haruno"
+                },
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 32,
+            "name": "Sage of Six Paths Staff",
+            "category": "Artifact",
+            "description": "The legendary staff wielded by Hagoromo Otsutsuki, the Sage of Six Paths. A symbol of his immense power and authority as the creator of modern ninjutsu.",
+            "associatedCharacters": [
+                {
+                    "id": 43,
+                    "name": "Hagoromo Otsutsuki"
+                }
+            ],
+            "associatedClans": [
+                {
+                    "id": 12,
+                    "name": "Otsutsuki"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 33,
+            "name": "Demonic Statue of the Outer Path",
+            "category": "Artifact",
+            "description": "A massive statue used by Akatsuki to seal the Tailed Beasts extracted from their Jinchuriki. Considered the empty shell of the Ten-Tails.",
+            "associatedCharacters": [
+                {
+                    "id": 14,
+                    "name": "Pain (Nagato)"
+                },
+                {
+                    "id": 10,
+                    "name": "Madara Uchiha"
+                },
+                {
+                    "id": 16,
+                    "name": "Obito Uchiha"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 34,
+            "name": "Tenseigan",
+            "category": "Artifact",
+            "description": "A powerful dojutsu created by combining Otsutsuki and Hyuga chakra. Grants the user immense power and the ability to manipulate attractive and repulsive forces.",
+            "associatedCharacters": [
+                {
+                    "id": 44,
+                    "name": "Hamura Otsutsuki"
+                }
+            ],
+            "associatedClans": [
+                {
+                    "id": 12,
+                    "name": "Otsutsuki"
+                },
+                {
+                    "id": 4,
+                    "name": "Hyuga"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 35,
+            "name": "Scroll of Seals",
+            "category": "Scroll",
+            "description": "A large scroll used to store weapons, objects, and other items through sealing jutsu. Ninja carry these to deploy large quantities of equipment instantly in battle.",
+            "associatedCharacters": [
+                {
+                    "id": 26,
+                    "name": "Tenten"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 36,
+            "name": "Puppet Hiruko",
+            "category": "Artifact",
+            "description": "Sasori's most used puppet shell, which he wore around his own body like armor. Equipped with numerous hidden weapons including a poison launcher and bladed tail.",
+            "associatedCharacters": [
+                {
+                    "id": 19,
+                    "name": "Sasori"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 37,
+            "name": "Sasori's Human Puppet — Third Kazekage",
+            "category": "Artifact",
+            "description": "Sasori converted the body of the Third Kazekage into a puppet, preserving his Iron Sand kekkei genkai ability. Considered Sasori's most powerful puppet.",
+            "associatedCharacters": [
+                {
+                    "id": 19,
+                    "name": "Sasori"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 38,
+            "name": "Gaara's Sand Gourd",
+            "category": "Item",
+            "description": "The large gourd carried on Gaara's back filled with his special chakra-infused sand. Allows him to deploy his sand techniques instantly without drawing from the environment.",
+            "associatedCharacters": [
+                {
+                    "id": 34,
+                    "name": "Gaara"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 39,
+            "name": "Naruto's Sage Cloak",
+            "category": "Clothing",
+            "description": "The distinctive white cloak with red flames at the bottom worn by Naruto in Sage Mode and later as Hokage. Modeled after the Fourth Hokage's legendary coat.",
+            "associatedCharacters": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 6,
+                    "name": "Minato Namikaze"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 40,
+            "name": "Jiraiya's Scroll",
+            "category": "Scroll",
+            "description": "The giant scroll Jiraiya summons and rides using toad oil to fuel his massive fire techniques. A signature part of his Sage Mode combat style.",
+            "associatedCharacters": [
+                {
+                    "id": 7,
+                    "name": "Jiraiya"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 41,
+            "name": "Orochimaru's Cursed Seal",
+            "category": "Artifact",
+            "description": "A special mark applied by Orochimaru through a bite that brands the recipient with a seal granting enormous power. Comes in two forms: Heaven and Earth.",
+            "associatedCharacters": [
+                {
+                    "id": 9,
+                    "name": "Orochimaru"
+                },
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                },
+                {
+                    "id": 54,
+                    "name": "Anko Mitarashi"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 42,
+            "name": "Chakra Receiver Rods",
+            "category": "Weapon",
+            "description": "Black rods made of solidified chakra used by Pain's Rinnegan. They transmit the user's will and chakra to others, and can suppress Tailed Beast transformations.",
+            "associatedCharacters": [
+                {
+                    "id": 14,
+                    "name": "Pain (Nagato)"
+                },
+                {
+                    "id": 10,
+                    "name": "Madara Uchiha"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 43,
+            "name": "Konoha Memorial Stone",
+            "category": "Building",
+            "description": "A black stone monument in Training Ground 7 engraved with the names of every Konoha shinobi who died in the line of duty. A place of quiet mourning for Kakashi.",
+            "associatedCharacters": [
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                },
+                {
+                    "id": 16,
+                    "name": "Obito Uchiha"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 44,
+            "name": "Deidara's Clay Spiders",
+            "category": "Weapon",
+            "description": "Small explosive clay sculptures shaped like spiders used by Deidara for tracking and surprise detonations. A versatile tool in his explosive art arsenal.",
+            "associatedCharacters": [
+                {
+                    "id": 18,
+                    "name": "Deidara"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 45,
+            "name": "Samurai Armor",
+            "category": "Clothing",
+            "description": "The traditional armor worn by the samurai of the Land of Iron. Unlike shinobi gear, it is forged from chakra-conducting metal and designed for sustained melee combat.",
+            "associatedCharacters": [
+                {
+                    "id": 80,
+                    "name": "Mifune"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 46,
+            "name": "Iron Sand",
+            "category": "Artifact",
+            "description": "A kekkei genkai unique to the Third Kazekage that allows manipulation of magnetic forces to control iron powder as a weapon. Later used by Sasori's puppet.",
+            "associatedCharacters": [
+                {
+                    "id": 19,
+                    "name": "Sasori"
+                }
+            ],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 47,
+            "name": "Tobi Mask",
+            "category": "Clothing",
+            "description": "The distinctive orange swirl mask worn by Obito Uchiha during his time as Tobi and the masked leader of Akatsuki. Became one of the most iconic disguises in the series.",
+            "associatedCharacters": [
+                {
+                    "id": 16,
+                    "name": "Obito Uchiha"
+                }
+            ],
+            "associatedClans": [
+                {
+                    "id": 1,
+                    "name": "Uchiha"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 48,
+            "name": "Allied Shinobi Forces Headband",
+            "category": "Clothing",
+            "description": "A special headband issued during the Fourth Shinobi World War bearing a flame symbol representing the united alliance of all five hidden villages.",
+            "associatedCharacters": [],
+            "associatedClans": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 49,
+            "name": "Hashirama's Wood Dragon",
+            "category": "Artifact",
+            "description": "A massive wooden dragon created by Hashirama's Wood Release that can suppress Tailed Beast chakra. Used to restrain the Nine-Tails and later replicated by Yamato.",
+            "associatedCharacters": [
+                {
+                    "id": 11,
+                    "name": "Hashirama Senju"
+                },
+                {
+                    "id": 71,
+                    "name": "Yamato"
+                }
+            ],
+            "associatedClans": [
+                {
+                    "id": 2,
+                    "name": "Senju"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 50,
+            "name": "Sage of Six Paths Tools",
+            "category": "Artifact",
+            "description": "The nine legendary weapons created by Hagoromo Otsutsuki, each corresponding to one of the Tailed Beasts. Include the Benihisago, Kohaku no Johei, and others.",
+            "associatedCharacters": [
+                {
+                    "id": 43,
+                    "name": "Hagoromo Otsutsuki"
+                }
+            ],
+            "associatedClans": [
+                {
+                    "id": 12,
+                    "name": "Otsutsuki"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        }
+    ]
+}

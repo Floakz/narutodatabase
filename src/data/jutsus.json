@@ -1,0 +1,2062 @@
+{
+    "jutsus": [
+        {
+            "id": 1,
+            "name": "Rasengan",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Wind"
+            ],
+            "users": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 6,
+                    "name": "Minato Namikaze"
+                },
+                {
+                    "id": 72,
+                    "name": "Konohamaru Sarutobi"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A spinning sphere of chakra formed in the palm of the hand. One of the most iconic jutsu in the series.",
+            "images": {
+                "profile": "src/assets/jutsus/1.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 2,
+            "name": "Shadow Clone Jutsu",
+            "type": "Ninjutsu",
+            "rank": "B",
+            "chakraType": [
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                },
+                {
+                    "id": 12,
+                    "name": "Tobirama Senju"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Creates physical copies of the user that can independently act and share memories upon dispersal.",
+            "images": {
+                "profile": "src/assets/jutsus/2.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 3,
+            "name": "Chidori",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Lightning"
+            ],
+            "users": [
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                },
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A hand of concentrated lightning chakra used as a high-speed thrusting attack. Also known as One Thousand Birds.",
+            "images": {
+                "profile": "src/assets/jutsus/3.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 4,
+            "name": "Amaterasu",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Fire",
+                "Yin"
+            ],
+            "users": [
+                {
+                    "id": 5,
+                    "name": "Itachi Uchiha"
+                },
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                }
+            ],
+            "clan": "Uchiha",
+            "kekkeiGenkai": true,
+            "description": "Black flames summoned from the Mangekyo Sharingan that burn anything in the user's sight and cannot be extinguished.",
+            "images": {
+                "profile": "src/assets/jutsus/4.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 5,
+            "name": "Tsukuyomi",
+            "type": "Genjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin"
+            ],
+            "users": [
+                {
+                    "id": 5,
+                    "name": "Itachi Uchiha"
+                }
+            ],
+            "clan": "Uchiha",
+            "kekkeiGenkai": true,
+            "description": "An extremely powerful genjutsu that traps the target in an illusory world controlled entirely by the user.",
+            "images": {
+                "profile": "src/assets/jutsus/5.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 6,
+            "name": "Susanoo",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 5,
+                    "name": "Itachi Uchiha"
+                },
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                },
+                {
+                    "id": 10,
+                    "name": "Madara Uchiha"
+                },
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                }
+            ],
+            "clan": "Uchiha",
+            "kekkeiGenkai": true,
+            "description": "A massive humanoid construct of chakra that surrounds the user, acting as both weapon and ultimate defense.",
+            "images": {
+                "profile": "src/assets/jutsus/6.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 7,
+            "name": "Kotoamatsukami",
+            "type": "Genjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin"
+            ],
+            "users": [
+                {
+                    "id": 57,
+                    "name": "Shisui Uchiha"
+                }
+            ],
+            "clan": "Uchiha",
+            "kekkeiGenkai": true,
+            "description": "The most powerful genjutsu in existence. Rewrites a target's mind so completely they believe they acted of their own free will.",
+            "images": {
+                "profile": "src/assets/jutsus/7.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 8,
+            "name": "Izanagi",
+            "type": "Genjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 16,
+                    "name": "Obito Uchiha"
+                },
+                {
+                    "id": 62,
+                    "name": "Danzo Shimura"
+                }
+            ],
+            "clan": "Uchiha",
+            "kekkeiGenkai": true,
+            "description": "A forbidden Sharingan technique that allows the user to rewrite reality, turning injuries and death into illusions at the cost of their eye.",
+            "images": {
+                "profile": "src/assets/jutsus/8.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 9,
+            "name": "Izanami",
+            "type": "Genjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin"
+            ],
+            "users": [
+                {
+                    "id": 5,
+                    "name": "Itachi Uchiha"
+                }
+            ],
+            "clan": "Uchiha",
+            "kekkeiGenkai": true,
+            "description": "A forbidden Sharingan technique that traps the target in an infinite loop of sensory experiences, forcing self-reflection.",
+            "images": {
+                "profile": "src/assets/jutsus/9.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 10,
+            "name": "Flying Thunder God Technique",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Wind"
+            ],
+            "users": [
+                {
+                    "id": 6,
+                    "name": "Minato Namikaze"
+                },
+                {
+                    "id": 12,
+                    "name": "Tobirama Senju"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A space-time ninjutsu that allows instantaneous teleportation to any location marked with the user's special seal.",
+            "images": {
+                "profile": "src/assets/jutsus/10.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 11,
+            "name": "Reanimation Jutsu (Edo Tensei)",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 12,
+                    "name": "Tobirama Senju"
+                },
+                {
+                    "id": 9,
+                    "name": "Orochimaru"
+                },
+                {
+                    "id": 41,
+                    "name": "Kabuto Yakushi"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A forbidden jutsu that summons the souls of the dead back into the living world using a living sacrifice as a vessel.",
+            "images": {
+                "profile": "src/assets/jutsus/11.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 12,
+            "name": "Eight Gates",
+            "type": "Taijutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 27,
+                    "name": "Might Guy"
+                },
+                {
+                    "id": 24,
+                    "name": "Rock Lee"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A technique that forces open the chakra limiters within the body, granting enormous power at the cost of the user's health and life.",
+            "images": {
+                "profile": "src/assets/jutsus/12.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 13,
+            "name": "Shadow Possession Jutsu",
+            "type": "Ninjutsu",
+            "rank": "C",
+            "chakraType": [
+                "Yin"
+            ],
+            "users": [
+                {
+                    "id": 28,
+                    "name": "Shikamaru Nara"
+                }
+            ],
+            "clan": "Nara",
+            "kekkeiGenkai": false,
+            "description": "Extends the user's shadow to merge with a target's shadow, forcing them to mimic every movement the user makes.",
+            "images": {
+                "profile": "src/assets/jutsus/13.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 14,
+            "name": "Gentle Fist",
+            "type": "Taijutsu",
+            "rank": "B",
+            "chakraType": [],
+            "users": [
+                {
+                    "id": 33,
+                    "name": "Hinata Hyuga"
+                },
+                {
+                    "id": 25,
+                    "name": "Neji Hyuga"
+                },
+                {
+                    "id": 63,
+                    "name": "Hiashi Hyuga"
+                }
+            ],
+            "clan": "Hyuga",
+            "kekkeiGenkai": true,
+            "description": "A taijutsu style exclusive to the Hyuga clan that uses the Byakugan to strike chakra points and disrupt the enemy's chakra flow.",
+            "images": {
+                "profile": "src/assets/jutsus/14.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 15,
+            "name": "Byakugan",
+            "type": "Dojutsu",
+            "rank": "B",
+            "chakraType": [],
+            "users": [
+                {
+                    "id": 33,
+                    "name": "Hinata Hyuga"
+                },
+                {
+                    "id": 25,
+                    "name": "Neji Hyuga"
+                },
+                {
+                    "id": 63,
+                    "name": "Hiashi Hyuga"
+                },
+                {
+                    "id": 64,
+                    "name": "Hanabi Hyuga"
+                }
+            ],
+            "clan": "Hyuga",
+            "kekkeiGenkai": true,
+            "description": "A dojutsu kekkei genkai that grants near 360-degree vision, the ability to see chakra networks, and see through solid objects.",
+            "images": {
+                "profile": "src/assets/jutsus/15.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 16,
+            "name": "Sharingan",
+            "type": "Dojutsu",
+            "rank": "B",
+            "chakraType": [
+                "Yin"
+            ],
+            "users": [
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                },
+                {
+                    "id": 5,
+                    "name": "Itachi Uchiha"
+                },
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                },
+                {
+                    "id": 10,
+                    "name": "Madara Uchiha"
+                },
+                {
+                    "id": 16,
+                    "name": "Obito Uchiha"
+                }
+            ],
+            "clan": "Uchiha",
+            "kekkeiGenkai": true,
+            "description": "The Uchiha clan's dojutsu that allows the user to copy jutsu, see through genjutsu, and predict movements with enhanced perception.",
+            "images": {
+                "profile": "src/assets/jutsus/16.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 17,
+            "name": "Mangekyo Sharingan",
+            "type": "Dojutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin"
+            ],
+            "users": [
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                },
+                {
+                    "id": 5,
+                    "name": "Itachi Uchiha"
+                },
+                {
+                    "id": 10,
+                    "name": "Madara Uchiha"
+                },
+                {
+                    "id": 16,
+                    "name": "Obito Uchiha"
+                },
+                {
+                    "id": 57,
+                    "name": "Shisui Uchiha"
+                }
+            ],
+            "clan": "Uchiha",
+            "kekkeiGenkai": true,
+            "description": "An evolved form of the Sharingan awakened through trauma. Grants access to unique and devastating techniques for each user.",
+            "images": {
+                "profile": "src/assets/jutsus/17.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 18,
+            "name": "Rinnegan",
+            "type": "Dojutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin",
+                "Yang",
+                "Yin-Yang"
+            ],
+            "users": [
+                {
+                    "id": 14,
+                    "name": "Pain (Nagato)"
+                },
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                },
+                {
+                    "id": 10,
+                    "name": "Madara Uchiha"
+                },
+                {
+                    "id": 16,
+                    "name": "Obito Uchiha"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "The most powerful of the Three Great Dojutsu. Grants access to all five nature transformations and the Six Paths techniques.",
+            "images": {
+                "profile": "src/assets/jutsus/18.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 19,
+            "name": "Six Paths of Pain",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 14,
+                    "name": "Pain (Nagato)"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "Six corpses reanimated by Nagato's Rinnegan, each controlling a different path of power including gravity, summoning, and absorption.",
+            "images": {
+                "profile": "src/assets/jutsus/19.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 20,
+            "name": "Almighty Push (Shinra Tensei)",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 14,
+                    "name": "Pain (Nagato)"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "A Rinnegan technique that repels everything in the user's vicinity with an enormous burst of force.",
+            "images": {
+                "profile": "src/assets/jutsus/20.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 21,
+            "name": "Universal Pull (Bansho Tenin)",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 14,
+                    "name": "Pain (Nagato)"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "A Rinnegan technique that draws everything toward the user with irresistible attractive force.",
+            "images": {
+                "profile": "src/assets/jutsus/21.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 22,
+            "name": "Sage Mode",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 7,
+                    "name": "Jiraiya"
+                },
+                {
+                    "id": 41,
+                    "name": "Kabuto Yakushi"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A state achieved by perfectly balancing the user's chakra with natural energy, dramatically enhancing all physical and jutsu capabilities.",
+            "images": {
+                "profile": "src/assets/jutsus/22.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 23,
+            "name": "Nine-Tails Chakra Mode",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Wind",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A transformation where Naruto works in harmony with Kurama, cloaking himself in golden chakra and gaining tremendous power.",
+            "images": {
+                "profile": "src/assets/jutsus/23.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 24,
+            "name": "Baryon Mode",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Wind",
+                "Yang",
+                "Yin-Yang"
+            ],
+            "users": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "The most powerful form of Naruto and Kurama's combined power. Consumes both their chakra as fuel and drains the life force of anyone touched.",
+            "images": {
+                "profile": "src/assets/jutsus/24.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 25,
+            "name": "Wood Release",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Earth",
+                "Water",
+                "Wood"
+            ],
+            "users": [
+                {
+                    "id": 11,
+                    "name": "Hashirama Senju"
+                },
+                {
+                    "id": 71,
+                    "name": "Yamato"
+                }
+            ],
+            "clan": "Senju",
+            "kekkeiGenkai": true,
+            "description": "A rare kekkei genkai that combines Earth and Water releases to create and manipulate living wood structures of any size.",
+            "images": {
+                "profile": "src/assets/jutsus/25.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 26,
+            "name": "Dust Release",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Earth",
+                "Fire",
+                "Wind"
+            ],
+            "users": [
+                {
+                    "id": 40,
+                    "name": "Onoki"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "A kekkei tota that combines three nature transformations to create structures that disintegrate everything within them at the molecular level.",
+            "images": {
+                "profile": "src/assets/jutsus/26.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 27,
+            "name": "Lava Release",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Fire",
+                "Earth"
+            ],
+            "users": [
+                {
+                    "id": 39,
+                    "name": "Mei Terumi"
+                },
+                {
+                    "id": 85,
+                    "name": "Roshi"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "Combines Fire and Earth releases to produce and manipulate molten rock with extreme destructive capability.",
+            "images": {
+                "profile": "src/assets/jutsus/27.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 28,
+            "name": "Ice Release",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Water",
+                "Wind"
+            ],
+            "users": [
+                {
+                    "id": 66,
+                    "name": "Haku"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "Combines Water and Wind releases to create and manipulate ice. Haku's mastery allowed him to create his famous Crystal Ice Mirrors.",
+            "images": {
+                "profile": "src/assets/jutsus/28.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 29,
+            "name": "Storm Release",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Lightning",
+                "Water"
+            ],
+            "users": [
+                {
+                    "id": 77,
+                    "name": "Darui"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "Combines Lightning and Water releases to fire laser-like beams of light-infused water that can be guided freely.",
+            "images": {
+                "profile": "src/assets/jutsus/29.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 30,
+            "name": "Boil Release",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Fire",
+                "Water"
+            ],
+            "users": [
+                {
+                    "id": 39,
+                    "name": "Mei Terumi"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "Combines Fire and Water releases to produce a corrosive mist that can melt almost anything it comes into contact with.",
+            "images": {
+                "profile": "src/assets/jutsus/30.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 31,
+            "name": "Scorch Release",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Fire",
+                "Wind"
+            ],
+            "users": [
+                {
+                    "id": 91,
+                    "name": "Pakura"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "Combines Fire and Wind releases to generate orbs of heat that evaporate all moisture from a target's body.",
+            "images": {
+                "profile": "src/assets/jutsus/31.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 32,
+            "name": "Explosion Release",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Earth",
+                "Lightning"
+            ],
+            "users": [
+                {
+                    "id": 92,
+                    "name": "Gari"
+                },
+                {
+                    "id": 18,
+                    "name": "Deidara"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "Combines Earth and Lightning releases to infuse chakra into matter and trigger powerful explosions.",
+            "images": {
+                "profile": "src/assets/jutsus/32.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 33,
+            "name": "Summoning Jutsu",
+            "type": "Ninjutsu",
+            "rank": "C",
+            "chakraType": [
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 7,
+                    "name": "Jiraiya"
+                },
+                {
+                    "id": 9,
+                    "name": "Orochimaru"
+                },
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                },
+                {
+                    "id": 3,
+                    "name": "Sakura Haruno"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A space-time technique that transports a contracted creature to the user's location instantly using blood and hand seals.",
+            "images": {
+                "profile": "src/assets/jutsus/33.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 34,
+            "name": "Rasengan — Wind Style: Rasenshuriken",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Wind"
+            ],
+            "users": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "An evolved Rasengan infused with wind chakra that takes the form of a massive shuriken, capable of severing chakra pathways at a cellular level.",
+            "images": {
+                "profile": "src/assets/jutsus/34.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 35,
+            "name": "Chidori Sharp Spear",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Lightning"
+            ],
+            "users": [
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "An extension of the Chidori that stretches the lightning chakra into a long spear shape for long-range piercing attacks.",
+            "images": {
+                "profile": "src/assets/jutsus/35.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 36,
+            "name": "Lightning Armor",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Lightning"
+            ],
+            "users": [
+                {
+                    "id": 38,
+                    "name": "A (Fourth Raikage)"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Wraps the user's body in lightning chakra to enhance speed and reflexes to superhuman levels while electrocuting anyone who makes contact.",
+            "images": {
+                "profile": "src/assets/jutsus/36.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 37,
+            "name": "Sand Manipulation",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Earth",
+                "Wind"
+            ],
+            "users": [
+                {
+                    "id": 34,
+                    "name": "Gaara"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Gaara's unique ability to control sand as both a weapon and a near-impenetrable shield, acting autonomously to protect him.",
+            "images": {
+                "profile": "src/assets/jutsus/37.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 38,
+            "name": "Sand Coffin",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Earth",
+                "Wind"
+            ],
+            "users": [
+                {
+                    "id": 34,
+                    "name": "Gaara"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Gaara encases a target in sand and then crushes them with his Sand Waterfall Funeral technique.",
+            "images": {
+                "profile": "src/assets/jutsus/38.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 39,
+            "name": "Puppet Technique",
+            "type": "Ninjutsu",
+            "rank": "B",
+            "chakraType": [
+                "Yin"
+            ],
+            "users": [
+                {
+                    "id": 19,
+                    "name": "Sasori"
+                },
+                {
+                    "id": 36,
+                    "name": "Kankuro"
+                },
+                {
+                    "id": 88,
+                    "name": "Chiyo"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Uses chakra threads to control puppets loaded with hidden weapons and mechanisms as extensions of the user's combat ability.",
+            "images": {
+                "profile": "src/assets/jutsus/39.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 40,
+            "name": "Explosive Clay",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Earth",
+                "Lightning"
+            ],
+            "users": [
+                {
+                    "id": 18,
+                    "name": "Deidara"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "Deidara's unique technique of infusing clay with explosive chakra to sculpt living bombs of any shape or size.",
+            "images": {
+                "profile": "src/assets/jutsus/40.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 41,
+            "name": "C4 Karura",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Earth",
+                "Lightning"
+            ],
+            "users": [
+                {
+                    "id": 18,
+                    "name": "Deidara"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "Deidara's ultimate bomb that releases microscopic clay particles which enter the body and detonate from within.",
+            "images": {
+                "profile": "src/assets/jutsus/41.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 42,
+            "name": "Hydrification Technique",
+            "type": "Ninjutsu",
+            "rank": "B",
+            "chakraType": [
+                "Water"
+            ],
+            "users": [
+                {
+                    "id": 67,
+                    "name": "Suigetsu Hozuki"
+                },
+                {
+                    "id": 97,
+                    "name": "Mangetsu Hozuki"
+                }
+            ],
+            "clan": "Hozuki",
+            "kekkeiGenkai": true,
+            "description": "The Hozuki clan's ability to liquify their entire body, making them immune to physical attacks and able to reshape themselves freely.",
+            "images": {
+                "profile": "src/assets/jutsus/42.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 43,
+            "name": "Mind Transfer Jutsu",
+            "type": "Ninjutsu",
+            "rank": "C",
+            "chakraType": [
+                "Yin"
+            ],
+            "users": [
+                {
+                    "id": 30,
+                    "name": "Ino Yamanaka"
+                }
+            ],
+            "clan": "Yamanaka",
+            "kekkeiGenkai": false,
+            "description": "Transfers the user's consciousness into a target's body, allowing them to take full control of their actions.",
+            "images": {
+                "profile": "src/assets/jutsus/43.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 44,
+            "name": "Multi-Size Technique",
+            "type": "Ninjutsu",
+            "rank": "C",
+            "chakraType": [
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 29,
+                    "name": "Choji Akimichi"
+                }
+            ],
+            "clan": "Akimichi",
+            "kekkeiGenkai": false,
+            "description": "The Akimichi clan technique that expands the user's body to enormous proportions by converting calories into chakra.",
+            "images": {
+                "profile": "src/assets/jutsus/44.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 45,
+            "name": "Bug Clone Technique",
+            "type": "Ninjutsu",
+            "rank": "C",
+            "chakraType": [
+                "Earth"
+            ],
+            "users": [
+                {
+                    "id": 32,
+                    "name": "Shino Aburame"
+                }
+            ],
+            "clan": "Aburame",
+            "kekkeiGenkai": false,
+            "description": "Creates a clone made entirely of insects from the Aburame clan's kikaichū bug colony.",
+            "images": {
+                "profile": "src/assets/jutsus/45.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 46,
+            "name": "Fang Over Fang",
+            "type": "Taijutsu",
+            "rank": "B",
+            "chakraType": [
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 31,
+                    "name": "Kiba Inuzuka"
+                }
+            ],
+            "clan": "Inuzuka",
+            "kekkeiGenkai": false,
+            "description": "Kiba and Akamaru spin at high speed like drills to deliver devastating rotating strikes.",
+            "images": {
+                "profile": "src/assets/jutsus/46.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 47,
+            "name": "Paper Shuriken",
+            "type": "Ninjutsu",
+            "rank": "B",
+            "chakraType": [
+                "Wind",
+                "Water"
+            ],
+            "users": [
+                {
+                    "id": 15,
+                    "name": "Konan"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Konan transforms her body and surroundings into billions of paper sheets used as weapons, shields, and explosives.",
+            "images": {
+                "profile": "src/assets/jutsus/47.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 48,
+            "name": "Dead Demon Consuming Seal",
+            "type": "Fuinjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 6,
+                    "name": "Minato Namikaze"
+                },
+                {
+                    "id": 13,
+                    "name": "Hiruzen Sarutobi"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A forbidden sealing jutsu that summons the Death God to rip out and seal a target's soul, at the cost of the user's own soul.",
+            "images": {
+                "profile": "src/assets/jutsus/48.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 49,
+            "name": "Eight Trigrams Sixty-Four Palms",
+            "type": "Taijutsu",
+            "rank": "A",
+            "chakraType": [],
+            "users": [
+                {
+                    "id": 25,
+                    "name": "Neji Hyuga"
+                },
+                {
+                    "id": 33,
+                    "name": "Hinata Hyuga"
+                }
+            ],
+            "clan": "Hyuga",
+            "kekkeiGenkai": true,
+            "description": "A Hyuga clan taijutsu that strikes 64 chakra points in rapid succession to completely shut down a target's chakra flow.",
+            "images": {
+                "profile": "src/assets/jutsus/49.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 50,
+            "name": "Primary Lotus",
+            "type": "Taijutsu",
+            "rank": "A",
+            "chakraType": [
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 24,
+                    "name": "Rock Lee"
+                },
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A powerful taijutsu technique that opens the first of the Eight Gates to deliver a crushing aerial slam.",
+            "images": {
+                "profile": "src/assets/jutsus/50.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 51,
+            "name": "Drunken Fist",
+            "type": "Taijutsu",
+            "rank": "B",
+            "chakraType": [],
+            "users": [
+                {
+                    "id": 24,
+                    "name": "Rock Lee"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "An unpredictable taijutsu style that mimics the swaying movements of a drunk person, making attacks impossible to predict.",
+            "images": {
+                "profile": "src/assets/jutsus/51.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 52,
+            "name": "Water Dragon Jutsu",
+            "type": "Ninjutsu",
+            "rank": "B",
+            "chakraType": [
+                "Water"
+            ],
+            "users": [
+                {
+                    "id": 12,
+                    "name": "Tobirama Senju"
+                },
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                },
+                {
+                    "id": 65,
+                    "name": "Zabuza Momochi"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Creates a large dragon-shaped torrent of water that crashes into enemies with tremendous force.",
+            "images": {
+                "profile": "src/assets/jutsus/52.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 53,
+            "name": "Water Prison Jutsu",
+            "type": "Ninjutsu",
+            "rank": "C",
+            "chakraType": [
+                "Water"
+            ],
+            "users": [
+                {
+                    "id": 65,
+                    "name": "Zabuza Momochi"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Traps a target inside an inescapable sphere of water while the user maintains contact to sustain it.",
+            "images": {
+                "profile": "src/assets/jutsus/53.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 54,
+            "name": "Hidden Mist Jutsu",
+            "type": "Ninjutsu",
+            "rank": "D",
+            "chakraType": [
+                "Water"
+            ],
+            "users": [
+                {
+                    "id": 65,
+                    "name": "Zabuza Momochi"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Creates a thick mist to reduce visibility to zero, allowing the user to move and attack undetected.",
+            "images": {
+                "profile": "src/assets/jutsus/54.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 55,
+            "name": "Crystal Ice Mirrors",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Water",
+                "Wind"
+            ],
+            "users": [
+                {
+                    "id": 66,
+                    "name": "Haku"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "Creates a dome of ice mirrors that the user can move between at the speed of light to attack from any angle simultaneously.",
+            "images": {
+                "profile": "src/assets/jutsus/55.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 56,
+            "name": "Fire Style: Fireball Jutsu",
+            "type": "Ninjutsu",
+            "rank": "C",
+            "chakraType": [
+                "Fire"
+            ],
+            "users": [
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                },
+                {
+                    "id": 5,
+                    "name": "Itachi Uchiha"
+                },
+                {
+                    "id": 58,
+                    "name": "Fugaku Uchiha"
+                }
+            ],
+            "clan": "Uchiha",
+            "kekkeiGenkai": false,
+            "description": "The Uchiha clan's signature technique. Exhales a massive ball of fire from the mouth after performing hand seals.",
+            "images": {
+                "profile": "src/assets/jutsus/56.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 57,
+            "name": "Fire Style: Dragon Flame Jutsu",
+            "type": "Ninjutsu",
+            "rank": "C",
+            "chakraType": [
+                "Fire"
+            ],
+            "users": [
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Releases a long stream of fire shaped like a dragon toward the target, often used in combination with other techniques.",
+            "images": {
+                "profile": "src/assets/jutsus/57.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 58,
+            "name": "Lightning Style: Kirin",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Lightning"
+            ],
+            "users": [
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Shapes natural lightning from storm clouds into the form of a mythical beast and guides it toward the target with devastating speed.",
+            "images": {
+                "profile": "src/assets/jutsus/58.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 59,
+            "name": "Ink Creation",
+            "type": "Ninjutsu",
+            "rank": "B",
+            "chakraType": [
+                "Earth",
+                "Yin"
+            ],
+            "users": [
+                {
+                    "id": 70,
+                    "name": "Sai"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Sai draws animals and objects with ink that come to life and carry out his commands as autonomous agents.",
+            "images": {
+                "profile": "src/assets/jutsus/59.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 60,
+            "name": "Cursed Seal of Heaven",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                },
+                {
+                    "id": 54,
+                    "name": "Anko Mitarashi"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A seal applied by Orochimaru that grants the recipient enormous power at the cost of their free will and sanity.",
+            "images": {
+                "profile": "src/assets/jutsus/60.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 61,
+            "name": "Snake Technique",
+            "type": "Ninjutsu",
+            "rank": "B",
+            "chakraType": [
+                "Earth",
+                "Water"
+            ],
+            "users": [
+                {
+                    "id": 9,
+                    "name": "Orochimaru"
+                },
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Orochimaru's signature style of summoning snakes and transforming body parts into serpents for both combat and escape.",
+            "images": {
+                "profile": "src/assets/jutsus/61.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 62,
+            "name": "Sword of Kusanagi",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Wind",
+                "Earth"
+            ],
+            "users": [
+                {
+                    "id": 9,
+                    "name": "Orochimaru"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A legendary blade summoned from within Orochimaru's body. Can extend and cut through almost any defense.",
+            "images": {
+                "profile": "src/assets/jutsus/62.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 63,
+            "name": "Twin Snakes Mutual Death",
+            "type": "Fuinjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 9,
+                    "name": "Orochimaru"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A forbidden jutsu that kills both the user and target simultaneously using a seal formed between them.",
+            "images": {
+                "profile": "src/assets/jutsus/63.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 64,
+            "name": "Jashin Ritual",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Water"
+            ],
+            "users": [
+                {
+                    "id": 20,
+                    "name": "Hidan"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Hidan's immortality-based ritual that links his body to a target, causing any damage he inflicts on himself to be mirrored on the target.",
+            "images": {
+                "profile": "src/assets/jutsus/64.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 65,
+            "name": "Earth Grudge Fear",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Fire",
+                "Wind",
+                "Lightning",
+                "Earth",
+                "Water"
+            ],
+            "users": [
+                {
+                    "id": 21,
+                    "name": "Kakuzu"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Kakuzu's forbidden technique that uses black threads to detach and reattach body parts, steal hearts, and use multiple nature transformations simultaneously.",
+            "images": {
+                "profile": "src/assets/jutsus/65.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 66,
+            "name": "Kamui",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 16,
+                    "name": "Obito Uchiha"
+                },
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                }
+            ],
+            "clan": "Uchiha",
+            "kekkeiGenkai": true,
+            "description": "A Mangekyo Sharingan space-time technique that can warp anything into or out of a pocket dimension at will.",
+            "images": {
+                "profile": "src/assets/jutsus/66.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 67,
+            "name": "Infinite Tsukuyomi",
+            "type": "Genjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 10,
+                    "name": "Madara Uchiha"
+                },
+                {
+                    "id": 42,
+                    "name": "Kaguya Otsutsuki"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "The ultimate genjutsu that uses the moon as a reflector for the Rinne Sharingan to trap all of humanity in an eternal dream.",
+            "images": {
+                "profile": "src/assets/jutsus/67.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 68,
+            "name": "Chibaku Tensei",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 14,
+                    "name": "Pain (Nagato)"
+                },
+                {
+                    "id": 10,
+                    "name": "Madara Uchiha"
+                },
+                {
+                    "id": 43,
+                    "name": "Hagoromo Otsutsuki"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "Creates a black sphere of gravity that draws everything in the surrounding area into it, forming a planetoid of compressed debris.",
+            "images": {
+                "profile": "src/assets/jutsus/68.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 69,
+            "name": "Truth-Seeking Ball",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin",
+                "Yang",
+                "Yin-Yang"
+            ],
+            "users": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 10,
+                    "name": "Madara Uchiha"
+                },
+                {
+                    "id": 16,
+                    "name": "Obito Uchiha"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Black spheres of highly compressed chakra that can nullify all ninjutsu and disintegrate anything they touch.",
+            "images": {
+                "profile": "src/assets/jutsus/69.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 70,
+            "name": "Healing Jutsu",
+            "type": "Ninjutsu",
+            "rank": "B",
+            "chakraType": [
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 3,
+                    "name": "Sakura Haruno"
+                },
+                {
+                    "id": 8,
+                    "name": "Tsunade"
+                },
+                {
+                    "id": 33,
+                    "name": "Hinata Hyuga"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Channels chakra into wounds to accelerate cell regeneration and heal injuries ranging from minor cuts to life-threatening damage.",
+            "images": {
+                "profile": "src/assets/jutsus/70.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 71,
+            "name": "Creation Rebirth",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 8,
+                    "name": "Tsunade"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Tsunade's ultimate technique that uses stored chakra to regenerate any injury instantly, making her nearly immortal in battle.",
+            "images": {
+                "profile": "src/assets/jutsus/71.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 72,
+            "name": "Mystical Palm Technique",
+            "type": "Ninjutsu",
+            "rank": "A",
+            "chakraType": [
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 3,
+                    "name": "Sakura Haruno"
+                },
+                {
+                    "id": 8,
+                    "name": "Tsunade"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A medical ninjutsu that emits healing chakra from the palms to treat injuries and illnesses with precision.",
+            "images": {
+                "profile": "src/assets/jutsus/72.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 73,
+            "name": "Chakra Enhanced Strength",
+            "type": "Taijutsu",
+            "rank": "B",
+            "chakraType": [
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 3,
+                    "name": "Sakura Haruno"
+                },
+                {
+                    "id": 8,
+                    "name": "Tsunade"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Concentrates chakra into the fists at the moment of impact, generating explosive physical force far beyond normal human capability.",
+            "images": {
+                "profile": "src/assets/jutsus/73.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 74,
+            "name": "Sage Art: Super Tailed Beast Rasenshuriken",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Wind",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Naruto's most powerful offensive technique combining Sage Mode with multiple Tailed Beast chakra into several massive Rasenshurikens simultaneously.",
+            "images": {
+                "profile": "src/assets/jutsus/74.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 75,
+            "name": "Tailed Beast Ball",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 37,
+                    "name": "Killer Bee"
+                },
+                {
+                    "id": 34,
+                    "name": "Gaara"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A massive sphere of highly compressed positive black chakra and negative white chakra fired by Tailed Beasts and their Jinchuriki.",
+            "images": {
+                "profile": "src/assets/jutsus/75.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 76,
+            "name": "Lariat",
+            "type": "Taijutsu",
+            "rank": "A",
+            "chakraType": [
+                "Lightning"
+            ],
+            "users": [
+                {
+                    "id": 37,
+                    "name": "Killer Bee"
+                },
+                {
+                    "id": 38,
+                    "name": "A (Fourth Raikage)"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "A powerful clothesline attack enhanced with lightning chakra. The double version between the Raikage and Killer Bee is nearly unstoppable.",
+            "images": {
+                "profile": "src/assets/jutsus/76.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 77,
+            "name": "Sage Art: Wood Release — True Several Thousand Hands",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Earth",
+                "Water",
+                "Wood",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 11,
+                    "name": "Hashirama Senju"
+                }
+            ],
+            "clan": "Senju",
+            "kekkeiGenkai": true,
+            "description": "Hashirama's ultimate technique that creates an enormous wooden statue with thousands of hands, dwarfing mountains in scale.",
+            "images": {
+                "profile": "src/assets/jutsus/77.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 78,
+            "name": "Particle Style: Atomic Dismantling Jutsu",
+            "type": "Ninjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Earth",
+                "Fire",
+                "Wind"
+            ],
+            "users": [
+                {
+                    "id": 40,
+                    "name": "Onoki"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": true,
+            "description": "Creates a three-dimensional geometric structure that disintegrates everything inside it at the molecular level, leaving nothing behind.",
+            "images": {
+                "profile": "src/assets/jutsus/78.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 79,
+            "name": "Wind Style: Vacuum Blade",
+            "type": "Ninjutsu",
+            "rank": "B",
+            "chakraType": [
+                "Wind"
+            ],
+            "users": [
+                {
+                    "id": 35,
+                    "name": "Temari"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Temari channels wind chakra through her giant iron fan to release razor-sharp blades of compressed air.",
+            "images": {
+                "profile": "src/assets/jutsus/79.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 80,
+            "name": "Sealing Jutsu: Nine Phantom Dragons",
+            "type": "Fuinjutsu",
+            "rank": "S",
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ],
+            "users": [
+                {
+                    "id": 7,
+                    "name": "Jiraiya"
+                }
+            ],
+            "clan": null,
+            "kekkeiGenkai": false,
+            "description": "Summons nine giant dragon heads made of chakra that bind and seal a target completely.",
+            "images": {
+                "profile": "src/assets/jutsus/80.webp",
+                "others": []
+            }
+        }
+    ]
+}

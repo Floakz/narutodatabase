@@ -1,0 +1,113 @@
+import { useState } from "react";
+import Menu from "../../components/menu/menu";
+import PageHeader from "../../components/pageHeader/pageHeader";
+import charactersData from '../../data/characters'
+import jutsuData from '../../data/jutsus'
+import itemsData from '../../data/items'
+import clanData from '../../data/clans'
+import CharacterCard from "../../components/characterCard/characterCard";
+import ItemsCard from "../../components/itemCard/itemCard";
+import JutsusCard from "../../components/jutsusCard/jutsusCard";
+import ClanCard from "../../components/clanCard/clanCard";
+import styles from './homepage.module.css'
+import Footer from "../../components/footer/footer";
+import SectionHeader from "../../components/sectionHeader/sectionHeader";
+
+const PAGE_SIZE_1 = 10;
+const PAGE_SIZE_2 = 6;
+const PAGE_SIZE_3 = 4;
+
+export default function Homepage() {
+
+    const characters = charactersData.characters
+    const justsus = jutsuData.jutsus
+    const clans = clanData.clans
+    const items = itemsData.items
+
+    const [visibleCount, setVisibleCount] = useState(PAGE_SIZE_1);
+
+    const visibleCharacters = characters.slice(0, visibleCount);
+    const visibleJutsus = justsus.slice(0, PAGE_SIZE_2);
+    const visibleClans = clans.slice(0, PAGE_SIZE_3);
+    const visibleItems = items.slice(0, PAGE_SIZE_2);
+
+    return (
+        <>
+
+            <div className="container">
+                <Menu />
+
+                <PageHeader title={`ALL THINGS NARUTO`} />
+
+                <SectionHeader title="Most Popular Characters" link="/characters" cta="View All" />
+                <div className={styles['characters-grid']}>
+                    {visibleCharacters.map((character) => (
+                        <CharacterCard
+                            key={character.id}
+                            name={character.name}
+                            image={character.images.profile}
+                            village={character.village}
+                            powerLevel={character.powerLevel}
+                        />
+                    ))}
+                </div>
+
+
+                <SectionHeader title="Most known Jutsus" link="/jutsus" cta="View All" />
+                <div className={styles['jutsus-grid']}>
+                    {visibleJutsus.map((jutsu) => (
+                        <JutsusCard
+                            key={jutsu.id}
+                            name={jutsu.name}
+                            image={jutsu.images.profile}
+                            type={jutsu.type}
+                            rank={jutsu.rank}
+                        />
+                    ))}
+                </div>
+
+
+                <div className={styles.splitGrid}>
+
+                    <div>
+                        <SectionHeader title="World Clans" link="/clans" cta="View All" />
+                        <div className={styles['clans-grid']}>
+                            {visibleClans.map((clan) => (
+                                <ClanCard
+                                    key={clan.id}
+                                    name={clan.name}
+                                    image={clan.images.profile}
+                                    village={clan.village}
+                                />
+                            ))}
+                        </div>
+                    </div>
+
+                    <div className={styles.addPlacement}>
+
+                    </div>
+
+
+
+
+                </div>
+
+                <SectionHeader title="Other Interesting Things" link="/others" cta="View All" />
+                <div className={styles['items-grid']}>
+                    {visibleItems.map((items) => (
+                        <ItemsCard
+                            key={items.id}
+                            name={items.name}
+                            image={items.images.profile}
+                            category={items.category}
+                        />
+                    ))}
+                </div>
+
+
+
+            </div>
+            <Footer />
+        </>
+    )
+}

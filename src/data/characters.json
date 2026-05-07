@@ -1,0 +1,1662 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "name": "Naruto Uzumaki",
+            "village": "Hidden Leaf Village",
+            "clan": "Uzumaki",
+            "powerLevel": 98,
+            "description": "The Seventh Hokage and hero of the Fourth Shinobi World War. Jinchuriki of Kurama, the Nine-Tails fox.",
+            "images": {
+                "profile": "src/assets/characters/1.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Sasuke Uchiha",
+            "village": "Hidden Leaf Village",
+            "clan": "Uchiha",
+            "powerLevel": 97,
+            "description": "The last loyal member of the Uchiha clan and Naruto's eternal rival. Wielder of the Rinnegan and Sharingan.",
+            "images": {
+                "profile": "src/assets/characters/2.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning",
+                "Fire"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Sakura Haruno",
+            "village": "Hidden Leaf Village",
+            "clan": "Haruno",
+            "powerLevel": 75,
+            "description": "A medical ninja and one of the strongest kunoichi in the world. Student of Tsunade.",
+            "images": {
+                "profile": "src/assets/characters/3.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Earth"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Kakashi Hatake",
+            "village": "Hidden Leaf Village",
+            "clan": "Hatake",
+            "powerLevel": 89,
+            "description": "The Copy Ninja and former Sixth Hokage. Known for copying over a thousand jutsu with his Sharingan.",
+            "images": {
+                "profile": "src/assets/characters/4.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Itachi Uchiha",
+            "village": "Hidden Leaf Village",
+            "clan": "Uchiha",
+            "powerLevel": 96,
+            "description": "A prodigy who massacred his clan to protect the village. One of the most powerful Uchiha to ever live.",
+            "images": {
+                "profile": "src/assets/characters/5.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Water",
+                "Wind",
+                "Earth",
+                "Lightning"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Minato Namikaze",
+            "village": "Hidden Leaf Village",
+            "clan": "Namikaze",
+            "powerLevel": 96,
+            "description": "The Fourth Hokage and Naruto's father. Known as the Yellow Flash for his unmatched speed with the Flying Thunder God technique.",
+            "images": {
+                "profile": "src/assets/characters/6.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Jiraiya",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 92,
+            "description": "One of the Legendary Sannin and Naruto's godfather. A sage who mastered Sage Mode and trained the Fourth Hokage.",
+            "images": {
+                "profile": "src/assets/characters/7.webp ",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Earth",
+                "Water",
+                "Wind",
+                "Lightning"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Tsunade",
+            "village": "Hidden Leaf Village",
+            "clan": "Senju",
+            "powerLevel": 88,
+            "description": "The Fifth Hokage and one of the Legendary Sannin. The greatest medical ninja in history.",
+            "images": {
+                "profile": "src/assets/characters/8.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Earth"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Orochimaru",
+            "village": "Hidden Sound Village",
+            "clan": null,
+            "powerLevel": 90,
+            "description": "One of the Legendary Sannin obsessed with immortality and forbidden jutsu. Former member of Akatsuki.",
+            "images": {
+                "profile": "src/assets/characters/9.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Earth",
+                "Lightning",
+                "Wind",
+                "Water"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Madara Uchiha",
+            "village": "Hidden Leaf Village",
+            "clan": "Uchiha",
+            "powerLevel": 99,
+            "description": "The legendary leader of the Uchiha clan and co-founder of Hidden Leaf Village. One of the most powerful shinobi in history.",
+            "images": {
+                "profile": "src/assets/characters/10.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Wind",
+                "Lightning",
+                "Earth",
+                "Water",
+                "Yin",
+                "Yang"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Hashirama Senju",
+            "village": "Hidden Leaf Village",
+            "clan": "Senju",
+            "powerLevel": 99,
+            "description": "The First Hokage and co-founder of Hidden Leaf Village. Known as the God of Shinobi, wielder of Wood Release.",
+            "images": {
+                "profile": "src/assets/characters/11.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Earth",
+                "Wood",
+                "Yang"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Tobirama Senju",
+            "village": "Hidden Leaf Village",
+            "clan": "Senju",
+            "powerLevel": 91,
+            "description": "The Second Hokage and creator of many foundational jutsu including the Shadow Clone and Reanimation techniques.",
+            "images": {
+                "profile": "src/assets/characters/12.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Fire",
+                "Earth",
+                "Wind",
+                "Lightning",
+                "Yin",
+                "Yang"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Hiruzen Sarutobi",
+            "village": "Hidden Leaf Village",
+            "clan": "Sarutobi",
+            "powerLevel": 88,
+            "description": "The Third Hokage, known as the God of Shinobi in his era. Mastered all five basic nature transformations.",
+            "images": {
+                "profile": "src/assets/characters/13.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Wind",
+                "Lightning",
+                "Earth",
+                "Water"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Pain (Nagato)",
+            "village": "Hidden Rain Village",
+            "clan": "Uzumaki",
+            "powerLevel": 94,
+            "description": "The leader of Akatsuki who sought peace through pain. Wielder of the Rinnegan and the Six Paths of Pain.",
+            "images": {
+                "profile": "src/assets/characters/14.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind",
+                "Water",
+                "Lightning",
+                "Earth",
+                "Fire",
+                "Yin",
+                "Yang"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Konan",
+            "village": "Hidden Rain Village",
+            "clan": null,
+            "powerLevel": 78,
+            "description": "Co-founder of Akatsuki and Pain's partner. Master of paper-based jutsu and the only female Akatsuki member.",
+            "images": {
+                "profile": "src/assets/characters/15.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind",
+                "Water"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Obito Uchiha",
+            "village": "Hidden Leaf Village",
+            "clan": "Uchiha",
+            "powerLevel": 93,
+            "description": "A former Konoha ninja who became the true leader of Akatsuki under the alias Tobi. Wielder of the Mangekyo Sharingan and Rinnegan.",
+            "images": {
+                "profile": "src/assets/characters/16.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Water",
+                "Earth",
+                "Wind",
+                "Lightning",
+                "Yin",
+                "Yang"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Kisame Hoshigaki",
+            "village": "Hidden Mist Village",
+            "clan": "Hoshigaki",
+            "powerLevel": 87,
+            "description": "A former member of the Seven Ninja Swordsmen of the Mist and Akatsuki member. Known as the Tailless Tailed Beast.",
+            "images": {
+                "profile": "src/assets/characters/17.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Deidara",
+            "village": "Hidden Stone Village",
+            "clan": null,
+            "powerLevel": 82,
+            "description": "An Akatsuki member and explosive clay artist who views his deadly detonations as the ultimate art form.",
+            "images": {
+                "profile": "src/assets/characters/18.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Lightning"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Sasori",
+            "village": "Hidden Sand Village",
+            "clan": null,
+            "powerLevel": 83,
+            "description": "A puppet master from Hidden Sand Village who converted his own body into a puppet. Akatsuki member.",
+            "images": {
+                "profile": "src/assets/characters/19.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Water",
+                "Fire"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Hidan",
+            "village": "Hidden Hot Water Village",
+            "clan": null,
+            "powerLevel": 75,
+            "description": "An immortal Akatsuki member who worships the death god Jashin and uses a ritual curse jutsu.",
+            "images": {
+                "profile": "src/assets/characters/20.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water"
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Kakuzu",
+            "village": "Hidden Waterfall Village",
+            "clan": null,
+            "powerLevel": 84,
+            "description": "An immortal Akatsuki member who can use all five nature transformations after stealing hearts from other ninja.",
+            "images": {
+                "profile": "src/assets/characters/21.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Wind",
+                "Lightning",
+                "Earth",
+                "Water"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Zetsu",
+            "village": "Hidden Sound Village",
+            "clan": null,
+            "powerLevel": 72,
+            "description": "A dual-natured Akatsuki member created by Kaguya. Acts as spy and information gatherer for the organization.",
+            "images": {
+                "profile": "src/assets/characters/22.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Wood",
+                "Yin",
+                "Yang"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Teuchi",
+            "village": "Konohagakure",
+            "clan": null,
+            "powerLevel": 100,
+            "description": "The legendary owner of Ichiraku Ramen and Naruto's most important person. Some say his true power level is immeasurable.",
+            "images": {
+                "profile": "src/assets/characters/23.webp",
+                "others": []
+            },
+            "chakraType": []
+        },
+        {
+            "id": 24,
+            "name": "Rock Lee",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 76,
+            "description": "A taijutsu specialist who cannot use ninjutsu or genjutsu. His determination and hard work made him an elite shinobi.",
+            "images": {
+                "profile": "src/assets/characters/24.webp",
+                "others": []
+            },
+            "chakraType": []
+        },
+        {
+            "id": 25,
+            "name": "Neji Hyuga",
+            "village": "Hidden Leaf Village",
+            "clan": "Hyuga",
+            "powerLevel": 79,
+            "description": "A genius of the Hyuga clan who mastered the Byakugan and the Gentle Fist fighting style.",
+            "images": {
+                "profile": "src/assets/characters/25.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Earth"
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Tenten",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 65,
+            "description": "A weapons specialist from Team Guy who can summon and wield any weapon with exceptional precision.",
+            "images": {
+                "profile": "src/assets/characters/26.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire"
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Might Guy",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 88,
+            "description": "The master of taijutsu and Rock Lee's teacher. Pushed the Eight Gates to their absolute limit to fight Madara.",
+            "images": {
+                "profile": "src/assets/characters/27.webp",
+                "others": []
+            },
+            "chakraType": []
+        },
+        {
+            "id": 28,
+            "name": "Shikamaru Nara",
+            "village": "Hidden Leaf Village",
+            "clan": "Nara",
+            "powerLevel": 74,
+            "description": "A strategic genius who uses Shadow Possession jutsu. Became Naruto's chief advisor as Hokage.",
+            "images": {
+                "profile": "src/assets/characters/28.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Yin",
+                "Earth",
+                "Fire"
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Choji Akimichi",
+            "village": "Hidden Leaf Village",
+            "clan": "Akimichi",
+            "powerLevel": 70,
+            "description": "A member of the Akimichi clan who can expand his body to tremendous size using calorie-based jutsu.",
+            "images": {
+                "profile": "src/assets/characters/29.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Yang"
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Ino Yamanaka",
+            "village": "Hidden Leaf Village",
+            "clan": "Yamanaka",
+            "powerLevel": 68,
+            "description": "A kunoichi who specializes in mind-transfer jutsu. Part of the Ino-Shika-Cho formation with Shikamaru and Choji.",
+            "images": {
+                "profile": "src/assets/characters/30.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Earth",
+                "Yin"
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Kiba Inuzuka",
+            "village": "Hidden Leaf Village",
+            "clan": "Inuzuka",
+            "powerLevel": 66,
+            "description": "A ninja who fights alongside his dog Akamaru using beast-style combat techniques.",
+            "images": {
+                "profile": "src/assets/characters/31.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Yang",
+                "Fire"
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Shino Aburame",
+            "village": "Hidden Leaf Village",
+            "clan": "Aburame",
+            "powerLevel": 67,
+            "description": "A quiet ninja from the Aburame clan who uses insects that feed on chakra as his primary weapon.",
+            "images": {
+                "profile": "src/assets/characters/32.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Fire"
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Hinata Hyuga",
+            "village": "Hidden Leaf Village",
+            "clan": "Hyuga",
+            "powerLevel": 72,
+            "description": "A kind-hearted kunoichi from the Hyuga clan who wields the Byakugan and Gentle Fist. Naruto's wife.",
+            "images": {
+                "profile": "src/assets/characters/33.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Lightning"
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Gaara",
+            "village": "Hidden Sand Village",
+            "clan": null,
+            "powerLevel": 88,
+            "description": "The Fifth Kazekage and former Jinchuriki of the One-Tail. Controls sand with devastating power.",
+            "images": {
+                "profile": "src/assets/characters/34.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Wind",
+                "Lightning"
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Temari",
+            "village": "Hidden Sand Village",
+            "clan": null,
+            "powerLevel": 74,
+            "description": "A powerful wind-style kunoichi from Hidden Sand Village and elder sister of Gaara. Shikamaru's wife.",
+            "images": {
+                "profile": "src/assets/characters/35.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind"
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Kankuro",
+            "village": "Hidden Sand Village",
+            "clan": null,
+            "powerLevel": 70,
+            "description": "A skilled puppet master from Hidden Sand Village and Gaara's older brother.",
+            "images": {
+                "profile": "src/assets/characters/36.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Wind"
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Killer Bee",
+            "village": "Hidden Cloud Village",
+            "clan": null,
+            "powerLevel": 90,
+            "description": "The Jinchuriki of the Eight-Tails and brother of the Fourth Raikage. A master of the Lariat technique and rap.",
+            "images": {
+                "profile": "src/assets/characters/37.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning",
+                "Wind",
+                "Water",
+                "Earth",
+                "Fire",
+                "Yang"
+            ]
+        },
+        {
+            "id": 38,
+            "name": "A (Fourth Raikage)",
+            "village": "Hidden Cloud Village",
+            "clan": null,
+            "powerLevel": 88,
+            "description": "The Fourth Raikage and leader of Hidden Cloud Village. Known for his incredible physical strength and Lightning Armor.",
+            "images": {
+                "profile": "src/assets/characters/38.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning"
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Mei Terumi",
+            "village": "Hidden Mist Village",
+            "clan": null,
+            "powerLevel": 83,
+            "description": "The Fifth Mizukage of Hidden Mist Village. Possesses two rare kekkei genkai: Lava Release and Boil Release.",
+            "images": {
+                "profile": "src/assets/characters/39.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Earth",
+                "Water",
+                "Wind"
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Onoki",
+            "village": "Hidden Stone Village",
+            "clan": null,
+            "powerLevel": 85,
+            "description": "The Third Tsuchikage of Hidden Stone Village. A stubborn old kage who wields the rare Dust Release kekkei tota.",
+            "images": {
+                "profile": "src/assets/characters/40.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Fire",
+                "Wind"
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Kabuto Yakushi",
+            "village": "Hidden Sound Village",
+            "clan": null,
+            "powerLevel": 85,
+            "description": "Orochimaru's former spy and right-hand man who later mastered Sage Mode and Reanimation jutsu.",
+            "images": {
+                "profile": "src/assets/characters/41.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Earth",
+                "Lightning",
+                "Wind",
+                "Fire"
+            ]
+        },
+        {
+            "id": 42,
+            "name": "Kaguya Otsutsuki",
+            "village": null,
+            "clan": "Otsutsuki",
+            "powerLevel": 100,
+            "description": "The progenitor of chakra and the final antagonist. The most powerful being in the entire series.",
+            "images": {
+                "profile": "src/assets/characters/42.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Wind",
+                "Lightning",
+                "Earth",
+                "Water",
+                "Yin",
+                "Yang",
+                "Yin-Yang"
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Hagoromo Otsutsuki",
+            "village": null,
+            "clan": "Otsutsuki",
+            "powerLevel": 99,
+            "description": "The Sage of Six Paths and son of Kaguya. Created ninshu which evolved into modern ninjutsu.",
+            "images": {
+                "profile": "src/assets/characters/43.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Wind",
+                "Lightning",
+                "Earth",
+                "Water",
+                "Yin",
+                "Yang",
+                "Yin-Yang"
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Hamura Otsutsuki",
+            "village": null,
+            "clan": "Otsutsuki",
+            "powerLevel": 97,
+            "description": "The twin brother of Hagoromo Otsutsuki. Wielder of the Tenseigan who protected the moon.",
+            "images": {
+                "profile": "src/assets/characters/44.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Yin",
+                "Yang",
+                "Yin-Yang"
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Indra Otsutsuki",
+            "village": null,
+            "clan": "Otsutsuki",
+            "powerLevel": 94,
+            "description": "The eldest son of Hagoromo and ancestor of the Uchiha clan. The original wielder of the Sharingan.",
+            "images": {
+                "profile": "src/assets/characters/45.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Lightning",
+                "Yin"
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Ashura Otsutsuki",
+            "village": null,
+            "clan": "Otsutsuki",
+            "powerLevel": 93,
+            "description": "The younger son of Hagoromo and ancestor of the Senju and Uzumaki clans.",
+            "images": {
+                "profile": "src/assets/characters/46.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Wind",
+                "Yang",
+                "Wood"
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Momoshiki Otsutsuki",
+            "village": null,
+            "clan": "Otsutsuki",
+            "powerLevel": 97,
+            "description": "A powerful Otsutsuki clan member who came to harvest the chakra fruit from Earth. Primary antagonist of Boruto.",
+            "images": {
+                "profile": "src/assets/characters/47.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Wind",
+                "Lightning",
+                "Earth",
+                "Water",
+                "Yin",
+                "Yang"
+            ]
+        },
+        {
+            "id": 48,
+            "name": "Kinshiki Otsutsuki",
+            "village": null,
+            "clan": "Otsutsuki",
+            "powerLevel": 91,
+            "description": "Momoshiki's subordinate and a powerful Otsutsuki warrior who can create weapons from his chakra.",
+            "images": {
+                "profile": "src/assets/characters/48.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Boruto Uzumaki",
+            "village": "Hidden Leaf Village",
+            "clan": "Uzumaki",
+            "powerLevel": 82,
+            "description": "Naruto's son and the main protagonist of Boruto. Possesses the Jougan and is a vessel for Momoshiki.",
+            "images": {
+                "profile": "src/assets/characters/49.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind",
+                "Lightning"
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Sarada Uchiha",
+            "village": "Hidden Leaf Village",
+            "clan": "Uchiha",
+            "powerLevel": 78,
+            "description": "Sasuke and Sakura's daughter. Possesses the Sharingan and aims to become Hokage.",
+            "images": {
+                "profile": "src/assets/characters/50.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning",
+                "Fire"
+            ]
+        },
+        {
+            "id": 51,
+            "name": "Mitsuki",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 79,
+            "description": "Orochimaru's synthetic son who can use Sage Mode naturally. Boruto's teammate.",
+            "images": {
+                "profile": "src/assets/characters/51.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind",
+                "Lightning"
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Kawaki",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 85,
+            "description": "A boy modified by Jigen to be the ultimate vessel. Raised by Naruto as part of his family.",
+            "images": {
+                "profile": "src/assets/characters/52.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Wind",
+                "Yin-Yang"
+            ]
+        },
+        {
+            "id": 53,
+            "name": "Jigen (Isshiki Otsutsuki)",
+            "village": null,
+            "clan": "Otsutsuki",
+            "powerLevel": 98,
+            "description": "The leader of Kara and a vessel for Isshiki Otsutsuki. One of the most powerful antagonists in Boruto.",
+            "images": {
+                "profile": "src/assets/characters/53.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Yin",
+                "Yang",
+                "Yin-Yang"
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Anko Mitarashi",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 68,
+            "description": "A former student of Orochimaru who bears the Cursed Seal of Heaven. Works as a proctor for the Chunin Exams.",
+            "images": {
+                "profile": "src/assets/characters/54.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Earth",
+                "Wind"
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Kurenai Yuhi",
+            "village": "Hidden Leaf Village",
+            "clan": "Yuhi",
+            "powerLevel": 67,
+            "description": "A jonin and genjutsu specialist who leads Team 8. Wife of Asuma Sarutobi.",
+            "images": {
+                "profile": "src/assets/characters/55.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Yin"
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Asuma Sarutobi",
+            "village": "Hidden Leaf Village",
+            "clan": "Sarutobi",
+            "powerLevel": 75,
+            "description": "A jonin and leader of Team 10. Son of the Third Hokage and a former member of the Twelve Guardian Ninja.",
+            "images": {
+                "profile": "src/assets/characters/56.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Wind"
+            ]
+        },
+        {
+            "id": 57,
+            "name": "Shisui Uchiha",
+            "village": "Hidden Leaf Village",
+            "clan": "Uchiha",
+            "powerLevel": 90,
+            "description": "A legendary Uchiha known as Shisui of the Body Flicker. Wielded the most powerful genjutsu, Kotoamatsukami.",
+            "images": {
+                "profile": "src/assets/characters/57.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Lightning",
+                "Yin"
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Fugaku Uchiha",
+            "village": "Hidden Leaf Village",
+            "clan": "Uchiha",
+            "powerLevel": 82,
+            "description": "The leader of the Uchiha clan and Itachi and Sasuke's father. Possessed the Sharingan and planned a coup.",
+            "images": {
+                "profile": "src/assets/characters/58.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Lightning"
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Mikoto Uchiha",
+            "village": "Hidden Leaf Village",
+            "clan": "Uchiha",
+            "powerLevel": 51,
+            "description": "Itachi and Sasuke's mother and wife of Fugaku Uchiha. A gentle woman who loved her family deeply.",
+            "images": {
+                "profile": "src/assets/characters/59.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire"
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Kushina Uzumaki",
+            "village": "Hidden Leaf Village",
+            "clan": "Uzumaki",
+            "powerLevel": 85,
+            "description": "Naruto's mother and the previous Jinchuriki of the Nine-Tails. Known as the Red Hot-Blooded Habanero.",
+            "images": {
+                "profile": "src/assets/characters/60.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Wind",
+                "Yin",
+                "Yang"
+            ]
+        },
+        {
+            "id": 61,
+            "name": "Mito Uzumaki",
+            "village": "Hidden Leaf Village",
+            "clan": "Uzumaki",
+            "powerLevel": 83,
+            "description": "Wife of Hashirama Senju and the first Jinchuriki of the Nine-Tails. A powerful fuinjutsu master.",
+            "images": {
+                "profile": "src/assets/characters/61.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Yin",
+                "Yang",
+                "Water",
+                "Wind"
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Danzo Shimura",
+            "village": "Hidden Leaf Village",
+            "clan": "Shimura",
+            "powerLevel": 83,
+            "description": "The leader of Root and a shadow ruler of Konoha. Implanted Sharingan eyes in his arm to wield forbidden jutsu.",
+            "images": {
+                "profile": "src/assets/characters/62.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind",
+                "Fire",
+                "Earth"
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Hiashi Hyuga",
+            "village": "Hidden Leaf Village",
+            "clan": "Hyuga",
+            "powerLevel": 78,
+            "description": "The head of the Hyuga clan and father of Hinata and Hanabi. A stern but powerful Byakugan wielder.",
+            "images": {
+                "profile": "src/assets/characters/63.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Earth"
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Hanabi Hyuga",
+            "village": "Hidden Leaf Village",
+            "clan": "Hyuga",
+            "powerLevel": 68,
+            "description": "Hinata's younger sister and a prodigy of the Hyuga clan. Considered more talented than Hinata in the main branch.",
+            "images": {
+                "profile": "src/assets/characters/64.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Earth"
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Zabuza Momochi",
+            "village": "Hidden Mist Village",
+            "clan": null,
+            "powerLevel": 80,
+            "description": "The Demon of the Hidden Mist and one of the Seven Ninja Swordsmen. Wielder of the massive Kubikiribōchō sword.",
+            "images": {
+                "profile": "src/assets/characters/65.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Wind"
+            ]
+        },
+        {
+            "id": 66,
+            "name": "Haku",
+            "village": "Hidden Mist Village",
+            "clan": null,
+            "powerLevel": 72,
+            "description": "Zabuza's loyal companion who possesses the rare Ice Release kekkei genkai.",
+            "images": {
+                "profile": "src/assets/characters/66.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Wind",
+                "Ice"
+            ]
+        },
+        {
+            "id": 67,
+            "name": "Suigetsu Hozuki",
+            "village": "Hidden Mist Village",
+            "clan": "Hozuki",
+            "powerLevel": 70,
+            "description": "A member of Sasuke's team Taka. Can liquify his body using the Hydrification Technique.",
+            "images": {
+                "profile": "src/assets/characters/67.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water"
+            ]
+        },
+        {
+            "id": 68,
+            "name": "Jugo",
+            "village": "Hidden Sound Village",
+            "clan": null,
+            "powerLevel": 74,
+            "description": "A member of Sasuke's team Taka who can passively absorb natural energy. The original source of the Cursed Seal.",
+            "images": {
+                "profile": "src/assets/characters/68.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Yang"
+            ]
+        },
+        {
+            "id": 69,
+            "name": "Karin Uzumaki",
+            "village": "Hidden Sound Village",
+            "clan": "Uzumaki",
+            "powerLevel": 65,
+            "description": "A member of Sasuke's team Taka with unique sensory abilities and healing powers through her chakra.",
+            "images": {
+                "profile": "src/assets/characters/69.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ]
+        },
+        {
+            "id": 70,
+            "name": "Sai",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 71,
+            "description": "A former Root member who joined Team 7. Uses ink-based jutsu to bring his drawings to life.",
+            "images": {
+                "profile": "src/assets/characters/70.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Earth",
+                "Yin"
+            ]
+        },
+        {
+            "id": 71,
+            "name": "Yamato",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 78,
+            "description": "A former Root member who can use Wood Release due to Hashirama's cells being implanted in him as a child.",
+            "images": {
+                "profile": "src/assets/characters/71.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Water",
+                "Wood"
+            ]
+        },
+        {
+            "id": 72,
+            "name": "Konohamaru Sarutobi",
+            "village": "Hidden Leaf Village",
+            "clan": "Sarutobi",
+            "powerLevel": 72,
+            "description": "The grandson of the Third Hokage and Naruto's self-proclaimed rival. Grew up to become a jonin and team leader.",
+            "images": {
+                "profile": "src/assets/characters/72.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Lightning",
+                "Wind",
+                "Earth"
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Iruka Umino",
+            "village": "Hidden Leaf Village",
+            "clan": "Umino",
+            "powerLevel": 58,
+            "description": "Naruto's beloved academy teacher and father figure. One of the first to acknowledge Naruto as a person.",
+            "images": {
+                "profile": "src/assets/characters/73.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Fire"
+            ]
+        },
+        {
+            "id": 74,
+            "name": "Ebisu",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 43,
+            "description": "A jonin who specializes in training elite ninja. Known as the Closet Pervert.",
+            "images": {
+                "profile": "src/assets/characters/74.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning",
+                "Earth"
+            ]
+        },
+        {
+            "id": 75,
+            "name": "Genma Shiranui",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 45,
+            "description": "A jonin from Konoha who always has a senbon needle in his mouth. Served as a proctor during the Chunin Exams.",
+            "images": {
+                "profile": "src/assets/characters/75.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning",
+                "Fire"
+            ]
+        },
+        {
+            "id": 76,
+            "name": "Raikage (Third)",
+            "village": "Hidden Cloud Village",
+            "clan": null,
+            "powerLevel": 90,
+            "description": "The Third Raikage of Hidden Cloud Village, considered one of the strongest Kage in history. Nearly impenetrable body.",
+            "images": {
+                "profile": "src/assets/characters/76.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning"
+            ]
+        },
+        {
+            "id": 77,
+            "name": "Darui",
+            "village": "Hidden Cloud Village",
+            "clan": null,
+            "powerLevel": 78,
+            "description": "The right-hand man of the Fourth Raikage and later the Fifth Raikage. Possesses rare Storm Release.",
+            "images": {
+                "profile": "src/assets/characters/77.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning",
+                "Water",
+                "Storm"
+            ]
+        },
+        {
+            "id": 78,
+            "name": "C",
+            "village": "Hidden Cloud Village",
+            "clan": null,
+            "powerLevel": 65,
+            "description": "A jonin from Hidden Cloud Village and skilled sensor type ninja who serves under the Fourth Raikage.",
+            "images": {
+                "profile": "src/assets/characters/78.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning",
+                "Yin"
+            ]
+        },
+        {
+            "id": 79,
+            "name": "Samui",
+            "village": "Hidden Cloud Village",
+            "clan": null,
+            "powerLevel": 67,
+            "description": "A cool-headed kunoichi from Hidden Cloud Village who leads her own team.",
+            "images": {
+                "profile": "src/assets/characters/79.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning",
+                "Water"
+            ]
+        },
+        {
+            "id": 80,
+            "name": "Mifune",
+            "village": "Land of Iron",
+            "clan": null,
+            "powerLevel": 74,
+            "description": "The supreme general of the samurai in the Land of Iron. A master swordsman of unmatched skill.",
+            "images": {
+                "profile": "src/assets/characters/80.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Yin"
+            ]
+        },
+        {
+            "id": 81,
+            "name": "Fu",
+            "village": "Hidden Waterfall Village",
+            "clan": null,
+            "powerLevel": 76,
+            "description": "The Jinchuriki of the Seven-Tails from Hidden Waterfall Village. An energetic girl who longed for friendship.",
+            "images": {
+                "profile": "src/assets/characters/81.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind",
+                "Lightning",
+                "Earth"
+            ]
+        },
+        {
+            "id": 82,
+            "name": "Utakata",
+            "village": "Hidden Mist Village",
+            "clan": null,
+            "powerLevel": 77,
+            "description": "The Jinchuriki of the Six-Tails from Hidden Mist Village. A bubble blower who tried to live peacefully.",
+            "images": {
+                "profile": "src/assets/characters/82.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Wind"
+            ]
+        },
+        {
+            "id": 83,
+            "name": "Yugito Nii",
+            "village": "Hidden Cloud Village",
+            "clan": null,
+            "powerLevel": 80,
+            "description": "The Jinchuriki of the Two-Tails from Hidden Cloud Village. A skilled kunoichi who could fully transform into her beast.",
+            "images": {
+                "profile": "src/assets/characters/83.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Lightning"
+            ]
+        },
+        {
+            "id": 84,
+            "name": "Yagura Karatachi",
+            "village": "Hidden Mist Village",
+            "clan": null,
+            "powerLevel": 82,
+            "description": "The Fourth Mizukage and Jinchuriki of the Three-Tails. Known as the child prodigy who became Kage.",
+            "images": {
+                "profile": "src/assets/characters/84.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Fire",
+                "Earth"
+            ]
+        },
+        {
+            "id": 85,
+            "name": "Roshi",
+            "village": "Hidden Stone Village",
+            "clan": null,
+            "powerLevel": 79,
+            "description": "The Jinchuriki of the Four-Tails from Hidden Stone Village. Mastered Lava Release through his beast's power.",
+            "images": {
+                "profile": "src/assets/characters/85.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Fire",
+                "Lava"
+            ]
+        },
+        {
+            "id": 86,
+            "name": "Han",
+            "village": "Hidden Stone Village",
+            "clan": null,
+            "powerLevel": 80,
+            "description": "The Jinchuriki of the Five-Tails from Hidden Stone Village. A massive armored ninja who uses Steam Release.",
+            "images": {
+                "profile": "src/assets/characters/86.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Fire",
+                "Steam"
+            ]
+        },
+        {
+            "id": 88,
+            "name": "Chiyo",
+            "village": "Hidden Sand Village",
+            "clan": null,
+            "powerLevel": 79,
+            "description": "An elder of Hidden Sand Village and master puppet user who created the technique to seal Shukaku into Gaara.",
+            "images": {
+                "profile": "src/assets/characters/88.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Wind",
+                "Yin"
+            ]
+        },
+        {
+            "id": 89,
+            "name": "Ebizo",
+            "village": "Hidden Sand Village",
+            "clan": null,
+            "powerLevel": 70,
+            "description": "Chiyo's younger brother and an elder of Hidden Sand Village. A respected advisor to the Kazekage.",
+            "images": {
+                "profile": "src/assets/characters/89.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind",
+                "Earth"
+            ]
+        },
+        {
+            "id": 90,
+            "name": "Baki",
+            "village": "Hidden Sand Village",
+            "clan": null,
+            "powerLevel": 70,
+            "description": "A jonin from Hidden Sand Village and the sensei of Gaara, Temari, and Kankuro.",
+            "images": {
+                "profile": "src/assets/characters/90.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind",
+                "Earth"
+            ]
+        },
+        {
+            "id": 91,
+            "name": "Pakura",
+            "village": "Hidden Sand Village",
+            "clan": null,
+            "powerLevel": 76,
+            "description": "A hero of Hidden Sand Village who wielded the rare Scorch Release kekkei genkai.",
+            "images": {
+                "profile": "src/assets/characters/91.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Wind",
+                "Scorch"
+            ]
+        },
+        {
+            "id": 92,
+            "name": "Gari",
+            "village": "Hidden Stone Village",
+            "clan": null,
+            "powerLevel": 73,
+            "description": "A shinobi from Hidden Stone Village who possesses the rare Explosion Release kekkei genkai.",
+            "images": {
+                "profile": "src/assets/characters/92.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Lightning",
+                "Explosion"
+            ]
+        },
+        {
+            "id": 93,
+            "name": "Torune Aburame",
+            "village": "Hidden Leaf Village",
+            "clan": "Aburame",
+            "powerLevel": 72,
+            "description": "A Root member from the Aburame clan who uses nano-sized insects capable of spreading venom on contact.",
+            "images": {
+                "profile": "src/assets/characters/93.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Fire"
+            ]
+        },
+        {
+            "id": 94,
+            "name": "Fu Yamanaka",
+            "village": "Hidden Leaf Village",
+            "clan": "Yamanaka",
+            "powerLevel": 68,
+            "description": "A Root member from the Yamanaka clan who specializes in mind-based techniques.",
+            "images": {
+                "profile": "src/assets/characters/94.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Yin"
+            ]
+        },
+        {
+            "id": 95,
+            "name": "Ao",
+            "village": "Hidden Mist Village",
+            "clan": null,
+            "powerLevel": 70,
+            "description": "A sensor from Hidden Mist Village who stole a Byakugan from a Hyuga clan member during a past war.",
+            "images": {
+                "profile": "src/assets/characters/95.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Earth"
+            ]
+        },
+        {
+            "id": 96,
+            "name": "Chojuro",
+            "village": "Hidden Mist Village",
+            "clan": null,
+            "powerLevel": 74,
+            "description": "One of the Seven Ninja Swordsmen of the Mist and later the Sixth Mizukage.",
+            "images": {
+                "profile": "src/assets/characters/96.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Earth"
+            ]
+        },
+        {
+            "id": 97,
+            "name": "Mangetsu Hozuki",
+            "village": "Hidden Mist Village",
+            "clan": "Hozuki",
+            "powerLevel": 78,
+            "description": "Suigetsu's older brother and one of the legendary Seven Ninja Swordsmen of the Mist.",
+            "images": {
+                "profile": "src/assets/characters/97.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water"
+            ]
+        },
+        {
+            "id": 98,
+            "name": "Kushimaru Kuriarare",
+            "village": "Hidden Mist Village",
+            "clan": null,
+            "powerLevel": 74,
+            "description": "One of the Seven Ninja Swordsmen of the Mist who wields the long needle-like sword Nuibari.",
+            "images": {
+                "profile": "src/assets/characters/98.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Wind"
+            ]
+        },
+        {
+            "id": 99,
+            "name": "Jinpachi Munashi",
+            "village": "Hidden Mist Village",
+            "clan": null,
+            "powerLevel": 73,
+            "description": "One of the Seven Ninja Swordsmen of the Mist who wields the explosive sword Shibuki.",
+            "images": {
+                "profile": "src/assets/characters/99.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Fire"
+            ]
+        },
+        {
+            "id": 100,
+            "name": "Fuguki Suikazan",
+            "village": "Hidden Mist Village",
+            "clan": null,
+            "powerLevel": 72,
+            "description": "One of the Seven Ninja Swordsmen of the Mist who wielded Samehada before Kisame.",
+            "images": {
+                "profile": "src/assets/characters/100.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water"
+            ]
+        }
+    ]
+}

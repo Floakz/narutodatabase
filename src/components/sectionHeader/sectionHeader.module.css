@@ -1,0 +1,36 @@
+.sectionHeader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 20px 0;
+    border-bottom: 1px solid #ff6600;
+    margin-top: 60px;
+}
+
+.cta {
+    text-decoration: none;
+}
+
+.sectionHeader>h4 {
+    margin: 0;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.sectionHeader span {
+    color: #000000;
+    text-decoration: none;
+    font-size: 0.9em;
+
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 600;
+    transition: all 0.3s ease-in-out;
+}
+
+
+.sectionHeader span:hover {
+    color: #ff6600;
+    cursor: pointer;
+}

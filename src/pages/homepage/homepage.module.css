@@ -1,0 +1,63 @@
+.characters-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.jutsus-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.items-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 20px;
+    color: white;
+}
+
+.clans-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+
+.load-more {
+    display: flex;
+    justify-content: center;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+
+.splitGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 80px;
+}
+
+
+.addPlacement {
+    background-color: rgb(219, 219, 219);
+    border-radius: 5px;
+    margin-top: 80px;
+}
+
+.load-more button {
+    padding: 12px 40px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(255, 119, 0);
+    color: white;
+    transition: all 0.2s ease-in-out;
+}
+
+
+.load-more button:hover {
+    background-color: rgb(0, 106, 255);
+}

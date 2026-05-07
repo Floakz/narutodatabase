@@ -1,0 +1,725 @@
+{
+    "clans": [
+        {
+            "id": 1,
+            "name": "Uchiha",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": "Sharingan",
+            "description": "One of the most powerful and feared clans in history. Wielders of the Sharingan dojutsu, the Uchiha were nearly wiped out in a single night by Itachi under orders from Danzo.",
+            "notableMembers": [
+                {
+                    "id": 2,
+                    "name": "Sasuke Uchiha"
+                },
+                {
+                    "id": 5,
+                    "name": "Itachi Uchiha"
+                },
+                {
+                    "id": 10,
+                    "name": "Madara Uchiha"
+                },
+                {
+                    "id": 16,
+                    "name": "Obito Uchiha"
+                },
+                {
+                    "id": 57,
+                    "name": "Shisui Uchiha"
+                },
+                {
+                    "id": 58,
+                    "name": "Fugaku Uchiha"
+                },
+                {
+                    "id": 59,
+                    "name": "Mikoto Uchiha"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 16,
+                    "name": "Sharingan"
+                },
+                {
+                    "id": 17,
+                    "name": "Mangekyo Sharingan"
+                },
+                {
+                    "id": 4,
+                    "name": "Amaterasu"
+                },
+                {
+                    "id": 5,
+                    "name": "Tsukuyomi"
+                },
+                {
+                    "id": 6,
+                    "name": "Susanoo"
+                },
+                {
+                    "id": 56,
+                    "name": "Fire Style: Fireball Jutsu"
+                }
+            ],
+            "images": {
+                "profile": "src/assets/clans/1.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 2,
+            "name": "Senju",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": "Wood Release",
+            "description": "Co-founders of the Hidden Leaf Village alongside the Uchiha. Known as the clan with a thousand skills, the Senju were the dominant force in the shinobi world before the village era.",
+            "notableMembers": [
+                {
+                    "id": 11,
+                    "name": "Hashirama Senju"
+                },
+                {
+                    "id": 12,
+                    "name": "Tobirama Senju"
+                },
+                {
+                    "id": 8,
+                    "name": "Tsunade"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 25,
+                    "name": "Wood Release"
+                },
+                {
+                    "id": 77,
+                    "name": "Sage Art: Wood Release — True Several Thousand Hands"
+                }
+            ],
+            "images": {
+                "profile": "src/assets/clans/2.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 3,
+            "name": "Uzumaki",
+            "village": "Hidden Whirlpool Village",
+            "kekkeiGenkai": null,
+            "description": "A clan renowned for their exceptionally strong life force, longevity, and mastery of sealing jutsu. Closely related to the Senju. Their village was destroyed, scattering survivors across the world.",
+            "notableMembers": [
+                {
+                    "id": 1,
+                    "name": "Naruto Uzumaki"
+                },
+                {
+                    "id": 60,
+                    "name": "Kushina Uzumaki"
+                },
+                {
+                    "id": 61,
+                    "name": "Mito Uzumaki"
+                },
+                {
+                    "id": 14,
+                    "name": "Pain (Nagato)"
+                },
+                {
+                    "id": 69,
+                    "name": "Karin Uzumaki"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 48,
+                    "name": "Dead Demon Consuming Seal"
+                },
+                {
+                    "id": 80,
+                    "name": "Sealing Jutsu: Nine Phantom Dragons"
+                }
+            ],
+            "images": {
+                "profile": "src/assets/clans/3.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 4,
+            "name": "Hyuga",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": "Byakugan",
+            "description": "One of the most prominent clans in the Hidden Leaf. Wielders of the Byakugan, they are masters of the Gentle Fist taijutsu style. Divided into the Main and Branch families.",
+            "notableMembers": [
+                {
+                    "id": 33,
+                    "name": "Hinata Hyuga"
+                },
+                {
+                    "id": 25,
+                    "name": "Neji Hyuga"
+                },
+                {
+                    "id": 63,
+                    "name": "Hiashi Hyuga"
+                },
+                {
+                    "id": 64,
+                    "name": "Hanabi Hyuga"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 15,
+                    "name": "Byakugan"
+                },
+                {
+                    "id": 14,
+                    "name": "Gentle Fist"
+                },
+                {
+                    "id": 49,
+                    "name": "Eight Trigrams Sixty-Four Palms"
+                }
+            ],
+            "images": {
+                "profile": "src/assets/clans/4.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 5,
+            "name": "Nara",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": null,
+            "description": "A clan known for their high intelligence and unique shadow-based jutsu. They manage the deer herds of Konoha and produce the special ointments used by medical ninja.",
+            "notableMembers": [
+                {
+                    "id": 28,
+                    "name": "Shikamaru Nara"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 13,
+                    "name": "Shadow Possession Jutsu"
+                }
+            ],
+            "images": {
+                "profile": "src/assets/clans/4.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 6,
+            "name": "Akimichi",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": null,
+            "description": "A clan that converts calories into chakra to perform their body-expansion techniques. Lifelong allies of the Nara and Yamanaka clans as the Ino-Shika-Cho formation.",
+            "notableMembers": [
+                {
+                    "id": 29,
+                    "name": "Choji Akimichi"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 44,
+                    "name": "Multi-Size Technique"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 7,
+            "name": "Yamanaka",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": null,
+            "description": "A clan specializing in mind-based jutsu that can transfer consciousness into others. They run the Yamanaka Flower Shop and are part of the Ino-Shika-Cho trio.",
+            "notableMembers": [
+                {
+                    "id": 30,
+                    "name": "Ino Yamanaka"
+                },
+                {
+                    "id": 94,
+                    "name": "Fu Yamanaka"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 43,
+                    "name": "Mind Transfer Jutsu"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 8,
+            "name": "Inuzuka",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": null,
+            "description": "A clan known for their partnership with ninja dogs and their enhanced sense of smell. They use beast-style combat techniques fighting alongside their canine partners.",
+            "notableMembers": [
+                {
+                    "id": 31,
+                    "name": "Kiba Inuzuka"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 46,
+                    "name": "Fang Over Fang"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 9,
+            "name": "Aburame",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": null,
+            "description": "A clan that forms a symbiotic relationship with special insects at birth. The bugs live inside the host's body and feed on chakra, serving as weapons and scouts.",
+            "notableMembers": [
+                {
+                    "id": 32,
+                    "name": "Shino Aburame"
+                },
+                {
+                    "id": 93,
+                    "name": "Torune Aburame"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 45,
+                    "name": "Bug Clone Technique"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 10,
+            "name": "Sarutobi",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": null,
+            "description": "A prestigious clan that has produced some of Konoha's finest ninja including the Third Hokage. Known for their mastery of fire techniques and strong will.",
+            "notableMembers": [
+                {
+                    "id": 13,
+                    "name": "Hiruzen Sarutobi"
+                },
+                {
+                    "id": 56,
+                    "name": "Asuma Sarutobi"
+                },
+                {
+                    "id": 72,
+                    "name": "Konohamaru Sarutobi"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 56,
+                    "name": "Fire Style: Fireball Jutsu"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 11,
+            "name": "Hatake",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": null,
+            "description": "A small but legendary clan. Kakashi's father Sakumo was considered one of the greatest shinobi of his era, surpassing even the Legendary Sannin in fame.",
+            "notableMembers": [
+                {
+                    "id": 4,
+                    "name": "Kakashi Hatake"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 3,
+                    "name": "Chidori"
+                },
+                {
+                    "id": 66,
+                    "name": "Kamui"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 12,
+            "name": "Otsutsuki",
+            "village": null,
+            "kekkeiGenkai": "Rinne Sharingan",
+            "description": "An ancient clan of celestial beings who travel across dimensions harvesting chakra from planets. The progenitors of all chakra on Earth and ancestors of the shinobi world.",
+            "notableMembers": [
+                {
+                    "id": 42,
+                    "name": "Kaguya Otsutsuki"
+                },
+                {
+                    "id": 43,
+                    "name": "Hagoromo Otsutsuki"
+                },
+                {
+                    "id": 44,
+                    "name": "Hamura Otsutsuki"
+                },
+                {
+                    "id": 45,
+                    "name": "Indra Otsutsuki"
+                },
+                {
+                    "id": 46,
+                    "name": "Ashura Otsutsuki"
+                },
+                {
+                    "id": 47,
+                    "name": "Momoshiki Otsutsuki"
+                },
+                {
+                    "id": 48,
+                    "name": "Kinshiki Otsutsuki"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 18,
+                    "name": "Rinnegan"
+                },
+                {
+                    "id": 67,
+                    "name": "Infinite Tsukuyomi"
+                },
+                {
+                    "id": 68,
+                    "name": "Chibaku Tensei"
+                },
+                {
+                    "id": 69,
+                    "name": "Truth-Seeking Ball"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 13,
+            "name": "Hozuki",
+            "village": "Hidden Mist Village",
+            "kekkeiGenkai": "Hydrification Technique",
+            "description": "A clan from the Hidden Mist with the unique ability to liquify their bodies. Two of its members, Mangetsu and Suigetsu, were part of the legendary Seven Ninja Swordsmen of the Mist.",
+            "notableMembers": [
+                {
+                    "id": 67,
+                    "name": "Suigetsu Hozuki"
+                },
+                {
+                    "id": 97,
+                    "name": "Mangetsu Hozuki"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 42,
+                    "name": "Hydrification Technique"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 14,
+            "name": "Hoshigaki",
+            "village": "Hidden Mist Village",
+            "kekkeiGenkai": null,
+            "description": "A clan from the Hidden Mist known for their shark-like features. Kisame Hoshigaki was one of their most infamous members, wielding the chakra-absorbing sword Samehada.",
+            "notableMembers": [
+                {
+                    "id": 17,
+                    "name": "Kisame Hoshigaki"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 52,
+                    "name": "Water Dragon Jutsu"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 15,
+            "name": "Yuki",
+            "village": "Hidden Mist Village",
+            "kekkeiGenkai": "Ice Release",
+            "description": "A nearly extinct clan from the Hidden Mist who possessed the rare Ice Release kekkei genkai. They were persecuted and hunted during the era of the Bloody Mist.",
+            "notableMembers": [
+                {
+                    "id": 66,
+                    "name": "Haku"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 28,
+                    "name": "Ice Release"
+                },
+                {
+                    "id": 55,
+                    "name": "Crystal Ice Mirrors"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 16,
+            "name": "Terumi",
+            "village": "Hidden Mist Village",
+            "kekkeiGenkai": "Lava Release, Boil Release",
+            "description": "The clan of the Fifth Mizukage. An exceptionally rare bloodline possessing not one but two kekkei genkai simultaneously.",
+            "notableMembers": [
+                {
+                    "id": 39,
+                    "name": "Mei Terumi"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 27,
+                    "name": "Lava Release"
+                },
+                {
+                    "id": 30,
+                    "name": "Boil Release"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 17,
+            "name": "Karatachi",
+            "village": "Hidden Mist Village",
+            "kekkeiGenkai": null,
+            "description": "The clan of Yagura, the Fourth Mizukage. Notable for producing the youngest Kage in history who also served as the Jinchuriki of the Three-Tails.",
+            "notableMembers": [
+                {
+                    "id": 84,
+                    "name": "Yagura Karatachi"
+                }
+            ],
+            "signatureJutsu": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 18,
+            "name": "Namikaze",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": null,
+            "description": "The clan of the Fourth Hokage, Minato Namikaze. Though small, it produced one of the most gifted shinobi in history, known across the world as the Yellow Flash.",
+            "notableMembers": [
+                {
+                    "id": 6,
+                    "name": "Minato Namikaze"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 10,
+                    "name": "Flying Thunder God Technique"
+                },
+                {
+                    "id": 1,
+                    "name": "Rasengan"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 19,
+            "name": "Shimura",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": null,
+            "description": "The clan of Danzo Shimura, the shadowy founder of Root. Known for extreme devotion to Konoha's security above all other values, often at a moral cost.",
+            "notableMembers": [
+                {
+                    "id": 62,
+                    "name": "Danzo Shimura"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 8,
+                    "name": "Izanagi"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 20,
+            "name": "Haruno",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": null,
+            "description": "A civilian clan with no notable bloodline abilities. Sakura's exceptional chakra control and medical prowess were achieved entirely through training and discipline.",
+            "notableMembers": [
+                {
+                    "id": 3,
+                    "name": "Sakura Haruno"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 70,
+                    "name": "Healing Jutsu"
+                },
+                {
+                    "id": 73,
+                    "name": "Chakra Enhanced Strength"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 21,
+            "name": "Yuhi",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": null,
+            "description": "The clan of Kurenai Yuhi, one of Konoha's premier genjutsu specialists and leader of Team 8.",
+            "notableMembers": [
+                {
+                    "id": 55,
+                    "name": "Kurenai Yuhi"
+                }
+            ],
+            "signatureJutsu": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 22,
+            "name": "Momochi",
+            "village": "Hidden Mist Village",
+            "kekkeiGenkai": null,
+            "description": "The clan of Zabuza Momochi, the Demon of the Hidden Mist. One of the most feared assassins in history and a legendary member of the Seven Ninja Swordsmen.",
+            "notableMembers": [
+                {
+                    "id": 65,
+                    "name": "Zabuza Momochi"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 53,
+                    "name": "Water Prison Jutsu"
+                },
+                {
+                    "id": 54,
+                    "name": "Hidden Mist Jutsu"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 23,
+            "name": "Sarutobi",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": null,
+            "description": "One of Konoha's most storied clans, producing the Third Hokage and several elite jonin across generations.",
+            "notableMembers": [
+                {
+                    "id": 13,
+                    "name": "Hiruzen Sarutobi"
+                },
+                {
+                    "id": 56,
+                    "name": "Asuma Sarutobi"
+                },
+                {
+                    "id": 72,
+                    "name": "Konohamaru Sarutobi"
+                }
+            ],
+            "signatureJutsu": [
+                {
+                    "id": 48,
+                    "name": "Dead Demon Consuming Seal"
+                }
+            ],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        },
+        {
+            "id": 24,
+            "name": "Umino",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": null,
+            "description": "The clan of Iruka Umino, Naruto's beloved academy teacher. An ordinary clan that produced one of the most important figures in Naruto's life.",
+            "notableMembers": [
+                {
+                    "id": 73,
+                    "name": "Iruka Umino"
+                }
+            ],
+            "signatureJutsu": [],
+            "images": {
+                "profile": "",
+                "others": []
+            }
+        }
+    ]
+}
