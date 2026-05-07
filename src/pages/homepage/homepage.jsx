@@ -37,7 +37,7 @@ export default function Homepage() {
             <div className="container">
                 <Menu />
 
-                <PageHeader title={`ALL THINGS NARUTO`} />
+                <PageHeader title={`ALL THINGS NARUTO`} subtitle={true} />
 
                 <SectionHeader title="Most Popular Characters" link="/characters" cta="View All" />
                 <div className={styles['characters-grid']}>

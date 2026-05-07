@@ -93,3 +93,23 @@ body {
     padding: 0 20px;
     margin: auto;
 }
+
+.load-more-btn {
+    text-transform: uppercase;
+    font-weight: 800;
+    display: block;
+    margin: 20px auto;
+    padding: 10px 50px;
+    font-size: 16px;
+    background-color: #ff6f00;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.load-more-btn:hover {
+    background-color: #0056b3;
+    padding: 10px 80px;
+}
