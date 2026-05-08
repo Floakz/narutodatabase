@@ -1,4 +1,4 @@
-{
+﻿{
     "items": [
         {
             "id": 1,
@@ -22,13 +22,13 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/items/1.webp",
+                "profile": "/assets/items/1.webp",
                 "others": []
             }
         },
         {
             "id": 2,
-            "name": "Kubikiribōchō",
+            "name": "KubikiribÅchÅ",
             "category": "Weapon",
             "description": "A massive executioner's blade that can regenerate itself using the iron from the blood of those it cuts. One of the Seven Swords of the Mist, famously wielded by Zabuza.",
             "associatedCharacters": [
@@ -43,7 +43,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "src/assets/items/2.webp",
+                "profile": "/assets/items/2.webp",
                 "others": []
             }
         },
@@ -60,7 +60,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "src/assets/items/3.webp",
+                "profile": "/assets/items/3.webp",
                 "others": []
             }
         },
@@ -77,7 +77,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "src/assets/items/4.webp",
+                "profile": "/assets/items/4.webp",
                 "others": []
             }
         },
@@ -94,7 +94,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "src/assets/items/5.webp",
+                "profile": "/assets/items/5.webp",
                 "others": []
             }
         },
@@ -115,7 +115,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "src/assets/items/6.webp",
+                "profile": "/assets/items/6.webp",
                 "others": []
             }
         },
@@ -141,7 +141,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/items/7.webp",
+                "profile": "/assets/items/7.webp",
                 "others": []
             }
         },
@@ -167,7 +167,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/items/8.webp",
+                "profile": "/assets/items/8.webp",
                 "others": []
             }
         },
@@ -179,7 +179,7 @@
             "associatedCharacters": [],
             "associatedClans": [],
             "images": {
-                "profile": "src/assets/items/9.webp",
+                "profile": "/assets/items/9.webp",
                 "others": []
             }
         },
@@ -191,7 +191,7 @@
             "associatedCharacters": [],
             "associatedClans": [],
             "images": {
-                "profile": "src/assets/items/10.webp",
+                "profile": "/assets/items/10.webp",
                 "others": []
             }
         },
@@ -212,7 +212,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "src/assets/items/11.webp",
+                "profile": "/assets/items/11.webp",
                 "others": []
             }
         },
@@ -224,7 +224,7 @@
             "associatedCharacters": [],
             "associatedClans": [],
             "images": {
-                "profile": "src/assets/items/12.webp",
+                "profile": "/assets/items/12.webp",
                 "others": []
             }
         },
@@ -236,7 +236,7 @@
             "associatedCharacters": [],
             "associatedClans": [],
             "images": {
-                "profile": "src/assets/items/13.webp",
+                "profile": "/assets/items/13.webp",
                 "others": []
             }
         },
@@ -258,7 +258,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/items/14.webp",
+                "profile": "/assets/items/14.webp",
                 "others": []
             }
         },
@@ -279,7 +279,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "src/assets/items/15.webp",
+                "profile": "/assets/items/15.webp",
                 "others": []
             }
         },
@@ -308,7 +308,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "src/assets/items/16.webp",
+                "profile": "/assets/items/16.webp",
                 "others": []
             }
         },
@@ -334,7 +334,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/items/17.webp",
+                "profile": "/assets/items/17.webp",
                 "others": []
             }
         },
@@ -360,7 +360,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/items/18.webp",
+                "profile": "/assets/items/18.webp",
                 "others": []
             }
         },
@@ -401,7 +401,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "src/assets/items/19.webp",
+                "profile": "/assets/items/19.webp",
                 "others": []
             }
         },
@@ -422,7 +422,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "src/assets/items/20.webp",
+                "profile": "/assets/items/20.webp",
                 "others": []
             }
         },
@@ -833,7 +833,7 @@
         },
         {
             "id": 37,
-            "name": "Sasori's Human Puppet — Third Kazekage",
+            "name": "Sasori's Human Puppet â€” Third Kazekage",
             "category": "Artifact",
             "description": "Sasori converted the body of the Third Kazekage into a puppet, preserving his Iron Sand kekkei genkai ability. Considered Sasori's most powerful puppet.",
             "associatedCharacters": [

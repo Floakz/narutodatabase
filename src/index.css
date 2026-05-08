@@ -113,3 +113,13 @@ body {
     background-color: #0056b3;
     padding: 10px 80px;
 }
+
+
+
+.topPageSpace {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 150px;
+}

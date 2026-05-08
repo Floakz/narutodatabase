@@ -1,12 +1,12 @@
 import styles from './pageHeader.module.css';
 
-export default function PageHeader({ title, subtitle }) {
+export default function PageHeader({ title, subtitle, option }) {
 
     return (
         <div className={styles.pageHeader}>
-            <h1>{title ? title : 'ALL THINGS NARUTO'}</h1>
-            {subtitle && <span className={styles.underline}>Discover naruto related lists</span>}
-
+            <img src="/assets/banner-naruto copy.webp" alt="banner image" />
         </div>
     )
-}
+
+
+}   

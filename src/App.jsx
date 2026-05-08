@@ -4,6 +4,8 @@ import Characters from './pages/characters/characters'
 import Jutsus from './pages/jutsus/jutsus'
 import Clans from './pages/clans/clans'
 import Others from './pages/others/others'
+import CharactersExpanded from './pages/charactersExpanded/charactersExpanded'
+import JutsusExpanded from './pages/jutsusExpanded/jutsusExpanded'
 import './index.css'
 
 function App() {
@@ -11,7 +13,9 @@ function App() {
         <Routes>
             <Route path="/" element={<Homepage />} />
             <Route path="/characters" element={<Characters />} />
+            <Route path="/characters/:id" element={<CharactersExpanded />} />
             <Route path="/jutsus" element={<Jutsus />} />
+            <Route path="/jutsus/:id" element={<JutsusExpanded />} />
             <Route path="/clans" element={<Clans />} />
             <Route path="/others" element={<Others />} />
         </Routes>

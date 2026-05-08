@@ -1,4 +1,4 @@
-{
+﻿{
     "jutsus": [
         {
             "id": 1,
@@ -26,7 +26,7 @@
             "kekkeiGenkai": false,
             "description": "A spinning sphere of chakra formed in the palm of the hand. One of the most iconic jutsu in the series.",
             "images": {
-                "profile": "src/assets/jutsus/1.webp",
+                "profile": "/assets/jutsus/1.webp",
                 "others": []
             }
         },
@@ -56,7 +56,7 @@
             "kekkeiGenkai": false,
             "description": "Creates physical copies of the user that can independently act and share memories upon dispersal.",
             "images": {
-                "profile": "src/assets/jutsus/2.webp",
+                "profile": "/assets/jutsus/2.webp",
                 "others": []
             }
         },
@@ -82,7 +82,7 @@
             "kekkeiGenkai": false,
             "description": "A hand of concentrated lightning chakra used as a high-speed thrusting attack. Also known as One Thousand Birds.",
             "images": {
-                "profile": "src/assets/jutsus/3.webp",
+                "profile": "/assets/jutsus/3.webp",
                 "others": []
             }
         },
@@ -109,7 +109,7 @@
             "kekkeiGenkai": true,
             "description": "Black flames summoned from the Mangekyo Sharingan that burn anything in the user's sight and cannot be extinguished.",
             "images": {
-                "profile": "src/assets/jutsus/4.webp",
+                "profile": "/assets/jutsus/4.webp",
                 "others": []
             }
         },
@@ -131,7 +131,7 @@
             "kekkeiGenkai": true,
             "description": "An extremely powerful genjutsu that traps the target in an illusory world controlled entirely by the user.",
             "images": {
-                "profile": "src/assets/jutsus/5.webp",
+                "profile": "/assets/jutsus/5.webp",
                 "others": []
             }
         },
@@ -166,7 +166,7 @@
             "kekkeiGenkai": true,
             "description": "A massive humanoid construct of chakra that surrounds the user, acting as both weapon and ultimate defense.",
             "images": {
-                "profile": "src/assets/jutsus/6.webp",
+                "profile": "/assets/jutsus/6.webp",
                 "others": []
             }
         },
@@ -188,7 +188,7 @@
             "kekkeiGenkai": true,
             "description": "The most powerful genjutsu in existence. Rewrites a target's mind so completely they believe they acted of their own free will.",
             "images": {
-                "profile": "src/assets/jutsus/7.webp",
+                "profile": "/assets/jutsus/7.webp",
                 "others": []
             }
         },
@@ -215,7 +215,7 @@
             "kekkeiGenkai": true,
             "description": "A forbidden Sharingan technique that allows the user to rewrite reality, turning injuries and death into illusions at the cost of their eye.",
             "images": {
-                "profile": "src/assets/jutsus/8.webp",
+                "profile": "/assets/jutsus/8.webp",
                 "others": []
             }
         },
@@ -237,7 +237,7 @@
             "kekkeiGenkai": true,
             "description": "A forbidden Sharingan technique that traps the target in an infinite loop of sensory experiences, forcing self-reflection.",
             "images": {
-                "profile": "src/assets/jutsus/9.webp",
+                "profile": "/assets/jutsus/9.webp",
                 "others": []
             }
         },
@@ -263,7 +263,7 @@
             "kekkeiGenkai": false,
             "description": "A space-time ninjutsu that allows instantaneous teleportation to any location marked with the user's special seal.",
             "images": {
-                "profile": "src/assets/jutsus/10.webp",
+                "profile": "/assets/jutsus/10.webp",
                 "others": []
             }
         },
@@ -294,7 +294,7 @@
             "kekkeiGenkai": false,
             "description": "A forbidden jutsu that summons the souls of the dead back into the living world using a living sacrifice as a vessel.",
             "images": {
-                "profile": "src/assets/jutsus/11.webp",
+                "profile": "/assets/jutsus/11.webp",
                 "others": []
             }
         },
@@ -320,7 +320,7 @@
             "kekkeiGenkai": false,
             "description": "A technique that forces open the chakra limiters within the body, granting enormous power at the cost of the user's health and life.",
             "images": {
-                "profile": "src/assets/jutsus/12.webp",
+                "profile": "/assets/jutsus/12.webp",
                 "others": []
             }
         },
@@ -342,7 +342,7 @@
             "kekkeiGenkai": false,
             "description": "Extends the user's shadow to merge with a target's shadow, forcing them to mimic every movement the user makes.",
             "images": {
-                "profile": "src/assets/jutsus/13.webp",
+                "profile": "/assets/jutsus/13.webp",
                 "others": []
             }
         },
@@ -370,7 +370,7 @@
             "kekkeiGenkai": true,
             "description": "A taijutsu style exclusive to the Hyuga clan that uses the Byakugan to strike chakra points and disrupt the enemy's chakra flow.",
             "images": {
-                "profile": "src/assets/jutsus/14.webp",
+                "profile": "/assets/jutsus/14.webp",
                 "others": []
             }
         },
@@ -402,7 +402,7 @@
             "kekkeiGenkai": true,
             "description": "A dojutsu kekkei genkai that grants near 360-degree vision, the ability to see chakra networks, and see through solid objects.",
             "images": {
-                "profile": "src/assets/jutsus/15.webp",
+                "profile": "/assets/jutsus/15.webp",
                 "others": []
             }
         },
@@ -440,7 +440,7 @@
             "kekkeiGenkai": true,
             "description": "The Uchiha clan's dojutsu that allows the user to copy jutsu, see through genjutsu, and predict movements with enhanced perception.",
             "images": {
-                "profile": "src/assets/jutsus/16.webp",
+                "profile": "/assets/jutsus/16.webp",
                 "others": []
             }
         },
@@ -478,7 +478,7 @@
             "kekkeiGenkai": true,
             "description": "An evolved form of the Sharingan awakened through trauma. Grants access to unique and devastating techniques for each user.",
             "images": {
-                "profile": "src/assets/jutsus/17.webp",
+                "profile": "/assets/jutsus/17.webp",
                 "others": []
             }
         },
@@ -514,7 +514,7 @@
             "kekkeiGenkai": true,
             "description": "The most powerful of the Three Great Dojutsu. Grants access to all five nature transformations and the Six Paths techniques.",
             "images": {
-                "profile": "src/assets/jutsus/18.webp",
+                "profile": "/assets/jutsus/18.webp",
                 "others": []
             }
         },
@@ -537,7 +537,7 @@
             "kekkeiGenkai": true,
             "description": "Six corpses reanimated by Nagato's Rinnegan, each controlling a different path of power including gravity, summoning, and absorption.",
             "images": {
-                "profile": "src/assets/jutsus/19.webp",
+                "profile": "/assets/jutsus/19.webp",
                 "others": []
             }
         },
@@ -560,7 +560,7 @@
             "kekkeiGenkai": true,
             "description": "A Rinnegan technique that repels everything in the user's vicinity with an enormous burst of force.",
             "images": {
-                "profile": "src/assets/jutsus/20.webp",
+                "profile": "/assets/jutsus/20.webp",
                 "others": []
             }
         },
@@ -583,7 +583,7 @@
             "kekkeiGenkai": true,
             "description": "A Rinnegan technique that draws everything toward the user with irresistible attractive force.",
             "images": {
-                "profile": "src/assets/jutsus/21.webp",
+                "profile": "/assets/jutsus/21.webp",
                 "others": []
             }
         },
@@ -613,7 +613,7 @@
             "kekkeiGenkai": false,
             "description": "A state achieved by perfectly balancing the user's chakra with natural energy, dramatically enhancing all physical and jutsu capabilities.",
             "images": {
-                "profile": "src/assets/jutsus/22.webp",
+                "profile": "/assets/jutsus/22.webp",
                 "others": []
             }
         },
@@ -636,7 +636,7 @@
             "kekkeiGenkai": false,
             "description": "A transformation where Naruto works in harmony with Kurama, cloaking himself in golden chakra and gaining tremendous power.",
             "images": {
-                "profile": "src/assets/jutsus/23.webp",
+                "profile": "/assets/jutsus/23.webp",
                 "others": []
             }
         },
@@ -660,7 +660,7 @@
             "kekkeiGenkai": false,
             "description": "The most powerful form of Naruto and Kurama's combined power. Consumes both their chakra as fuel and drains the life force of anyone touched.",
             "images": {
-                "profile": "src/assets/jutsus/24.webp",
+                "profile": "/assets/jutsus/24.webp",
                 "others": []
             }
         },
@@ -688,7 +688,7 @@
             "kekkeiGenkai": true,
             "description": "A rare kekkei genkai that combines Earth and Water releases to create and manipulate living wood structures of any size.",
             "images": {
-                "profile": "src/assets/jutsus/25.webp",
+                "profile": "/assets/jutsus/25.webp",
                 "others": []
             }
         },
@@ -712,7 +712,7 @@
             "kekkeiGenkai": true,
             "description": "A kekkei tota that combines three nature transformations to create structures that disintegrate everything within them at the molecular level.",
             "images": {
-                "profile": "src/assets/jutsus/26.webp",
+                "profile": "/assets/jutsus/26.webp",
                 "others": []
             }
         },
@@ -739,7 +739,7 @@
             "kekkeiGenkai": true,
             "description": "Combines Fire and Earth releases to produce and manipulate molten rock with extreme destructive capability.",
             "images": {
-                "profile": "src/assets/jutsus/27.webp",
+                "profile": "/assets/jutsus/27.webp",
                 "others": []
             }
         },
@@ -762,7 +762,7 @@
             "kekkeiGenkai": true,
             "description": "Combines Water and Wind releases to create and manipulate ice. Haku's mastery allowed him to create his famous Crystal Ice Mirrors.",
             "images": {
-                "profile": "src/assets/jutsus/28.webp",
+                "profile": "/assets/jutsus/28.webp",
                 "others": []
             }
         },
@@ -785,7 +785,7 @@
             "kekkeiGenkai": true,
             "description": "Combines Lightning and Water releases to fire laser-like beams of light-infused water that can be guided freely.",
             "images": {
-                "profile": "src/assets/jutsus/29.webp",
+                "profile": "/assets/jutsus/29.webp",
                 "others": []
             }
         },
@@ -808,7 +808,7 @@
             "kekkeiGenkai": true,
             "description": "Combines Fire and Water releases to produce a corrosive mist that can melt almost anything it comes into contact with.",
             "images": {
-                "profile": "src/assets/jutsus/30.webp",
+                "profile": "/assets/jutsus/30.webp",
                 "others": []
             }
         },
@@ -831,7 +831,7 @@
             "kekkeiGenkai": true,
             "description": "Combines Fire and Wind releases to generate orbs of heat that evaporate all moisture from a target's body.",
             "images": {
-                "profile": "src/assets/jutsus/31.webp",
+                "profile": "/assets/jutsus/31.webp",
                 "others": []
             }
         },
@@ -858,7 +858,7 @@
             "kekkeiGenkai": true,
             "description": "Combines Earth and Lightning releases to infuse chakra into matter and trigger powerful explosions.",
             "images": {
-                "profile": "src/assets/jutsus/32.webp",
+                "profile": "/assets/jutsus/32.webp",
                 "others": []
             }
         },
@@ -896,13 +896,13 @@
             "kekkeiGenkai": false,
             "description": "A space-time technique that transports a contracted creature to the user's location instantly using blood and hand seals.",
             "images": {
-                "profile": "src/assets/jutsus/33.webp",
+                "profile": "/assets/jutsus/33.webp",
                 "others": []
             }
         },
         {
             "id": 34,
-            "name": "Rasengan — Wind Style: Rasenshuriken",
+            "name": "Rasengan â€” Wind Style: Rasenshuriken",
             "type": "Ninjutsu",
             "rank": "S",
             "chakraType": [
@@ -918,7 +918,7 @@
             "kekkeiGenkai": false,
             "description": "An evolved Rasengan infused with wind chakra that takes the form of a massive shuriken, capable of severing chakra pathways at a cellular level.",
             "images": {
-                "profile": "src/assets/jutsus/34.webp",
+                "profile": "/assets/jutsus/34.webp",
                 "others": []
             }
         },
@@ -940,7 +940,7 @@
             "kekkeiGenkai": false,
             "description": "An extension of the Chidori that stretches the lightning chakra into a long spear shape for long-range piercing attacks.",
             "images": {
-                "profile": "src/assets/jutsus/35.webp",
+                "profile": "/assets/jutsus/35.webp",
                 "others": []
             }
         },
@@ -962,7 +962,7 @@
             "kekkeiGenkai": false,
             "description": "Wraps the user's body in lightning chakra to enhance speed and reflexes to superhuman levels while electrocuting anyone who makes contact.",
             "images": {
-                "profile": "src/assets/jutsus/36.webp",
+                "profile": "/assets/jutsus/36.webp",
                 "others": []
             }
         },
@@ -985,7 +985,7 @@
             "kekkeiGenkai": false,
             "description": "Gaara's unique ability to control sand as both a weapon and a near-impenetrable shield, acting autonomously to protect him.",
             "images": {
-                "profile": "src/assets/jutsus/37.webp",
+                "profile": "/assets/jutsus/37.webp",
                 "others": []
             }
         },
@@ -1008,7 +1008,7 @@
             "kekkeiGenkai": false,
             "description": "Gaara encases a target in sand and then crushes them with his Sand Waterfall Funeral technique.",
             "images": {
-                "profile": "src/assets/jutsus/38.webp",
+                "profile": "/assets/jutsus/38.webp",
                 "others": []
             }
         },
@@ -1038,7 +1038,7 @@
             "kekkeiGenkai": false,
             "description": "Uses chakra threads to control puppets loaded with hidden weapons and mechanisms as extensions of the user's combat ability.",
             "images": {
-                "profile": "src/assets/jutsus/39.webp",
+                "profile": "/assets/jutsus/39.webp",
                 "others": []
             }
         },
@@ -1061,7 +1061,7 @@
             "kekkeiGenkai": true,
             "description": "Deidara's unique technique of infusing clay with explosive chakra to sculpt living bombs of any shape or size.",
             "images": {
-                "profile": "src/assets/jutsus/40.webp",
+                "profile": "/assets/jutsus/40.webp",
                 "others": []
             }
         },
@@ -1084,7 +1084,7 @@
             "kekkeiGenkai": true,
             "description": "Deidara's ultimate bomb that releases microscopic clay particles which enter the body and detonate from within.",
             "images": {
-                "profile": "src/assets/jutsus/41.webp",
+                "profile": "/assets/jutsus/41.webp",
                 "others": []
             }
         },
@@ -1110,7 +1110,7 @@
             "kekkeiGenkai": true,
             "description": "The Hozuki clan's ability to liquify their entire body, making them immune to physical attacks and able to reshape themselves freely.",
             "images": {
-                "profile": "src/assets/jutsus/42.webp",
+                "profile": "/assets/jutsus/42.webp",
                 "others": []
             }
         },
@@ -1132,7 +1132,7 @@
             "kekkeiGenkai": false,
             "description": "Transfers the user's consciousness into a target's body, allowing them to take full control of their actions.",
             "images": {
-                "profile": "src/assets/jutsus/43.webp",
+                "profile": "/assets/jutsus/43.webp",
                 "others": []
             }
         },
@@ -1154,7 +1154,7 @@
             "kekkeiGenkai": false,
             "description": "The Akimichi clan technique that expands the user's body to enormous proportions by converting calories into chakra.",
             "images": {
-                "profile": "src/assets/jutsus/44.webp",
+                "profile": "/assets/jutsus/44.webp",
                 "others": []
             }
         },
@@ -1174,9 +1174,9 @@
             ],
             "clan": "Aburame",
             "kekkeiGenkai": false,
-            "description": "Creates a clone made entirely of insects from the Aburame clan's kikaichū bug colony.",
+            "description": "Creates a clone made entirely of insects from the Aburame clan's kikaichÅ« bug colony.",
             "images": {
-                "profile": "src/assets/jutsus/45.webp",
+                "profile": "/assets/jutsus/45.webp",
                 "others": []
             }
         },
@@ -1198,7 +1198,7 @@
             "kekkeiGenkai": false,
             "description": "Kiba and Akamaru spin at high speed like drills to deliver devastating rotating strikes.",
             "images": {
-                "profile": "src/assets/jutsus/46.webp",
+                "profile": "/assets/jutsus/46.webp",
                 "others": []
             }
         },
@@ -1221,7 +1221,7 @@
             "kekkeiGenkai": false,
             "description": "Konan transforms her body and surroundings into billions of paper sheets used as weapons, shields, and explosives.",
             "images": {
-                "profile": "src/assets/jutsus/47.webp",
+                "profile": "/assets/jutsus/47.webp",
                 "others": []
             }
         },
@@ -1248,7 +1248,7 @@
             "kekkeiGenkai": false,
             "description": "A forbidden sealing jutsu that summons the Death God to rip out and seal a target's soul, at the cost of the user's own soul.",
             "images": {
-                "profile": "src/assets/jutsus/48.webp",
+                "profile": "/assets/jutsus/48.webp",
                 "others": []
             }
         },
@@ -1272,7 +1272,7 @@
             "kekkeiGenkai": true,
             "description": "A Hyuga clan taijutsu that strikes 64 chakra points in rapid succession to completely shut down a target's chakra flow.",
             "images": {
-                "profile": "src/assets/jutsus/49.webp",
+                "profile": "/assets/jutsus/49.webp",
                 "others": []
             }
         },
@@ -1298,7 +1298,7 @@
             "kekkeiGenkai": false,
             "description": "A powerful taijutsu technique that opens the first of the Eight Gates to deliver a crushing aerial slam.",
             "images": {
-                "profile": "src/assets/jutsus/50.webp",
+                "profile": "/assets/jutsus/50.webp",
                 "others": []
             }
         },
@@ -1318,7 +1318,7 @@
             "kekkeiGenkai": false,
             "description": "An unpredictable taijutsu style that mimics the swaying movements of a drunk person, making attacks impossible to predict.",
             "images": {
-                "profile": "src/assets/jutsus/51.webp",
+                "profile": "/assets/jutsus/51.webp",
                 "others": []
             }
         },
@@ -1348,7 +1348,7 @@
             "kekkeiGenkai": false,
             "description": "Creates a large dragon-shaped torrent of water that crashes into enemies with tremendous force.",
             "images": {
-                "profile": "src/assets/jutsus/52.webp",
+                "profile": "/assets/jutsus/52.webp",
                 "others": []
             }
         },
@@ -1370,7 +1370,7 @@
             "kekkeiGenkai": false,
             "description": "Traps a target inside an inescapable sphere of water while the user maintains contact to sustain it.",
             "images": {
-                "profile": "src/assets/jutsus/53.webp",
+                "profile": "/assets/jutsus/53.webp",
                 "others": []
             }
         },
@@ -1392,7 +1392,7 @@
             "kekkeiGenkai": false,
             "description": "Creates a thick mist to reduce visibility to zero, allowing the user to move and attack undetected.",
             "images": {
-                "profile": "src/assets/jutsus/54.webp",
+                "profile": "/assets/jutsus/54.webp",
                 "others": []
             }
         },
@@ -1415,7 +1415,7 @@
             "kekkeiGenkai": true,
             "description": "Creates a dome of ice mirrors that the user can move between at the speed of light to attack from any angle simultaneously.",
             "images": {
-                "profile": "src/assets/jutsus/55.webp",
+                "profile": "/assets/jutsus/55.webp",
                 "others": []
             }
         },
@@ -1445,7 +1445,7 @@
             "kekkeiGenkai": false,
             "description": "The Uchiha clan's signature technique. Exhales a massive ball of fire from the mouth after performing hand seals.",
             "images": {
-                "profile": "src/assets/jutsus/56.webp",
+                "profile": "/assets/jutsus/56.webp",
                 "others": []
             }
         },
@@ -1467,7 +1467,7 @@
             "kekkeiGenkai": false,
             "description": "Releases a long stream of fire shaped like a dragon toward the target, often used in combination with other techniques.",
             "images": {
-                "profile": "src/assets/jutsus/57.webp",
+                "profile": "/assets/jutsus/57.webp",
                 "others": []
             }
         },
@@ -1489,7 +1489,7 @@
             "kekkeiGenkai": false,
             "description": "Shapes natural lightning from storm clouds into the form of a mythical beast and guides it toward the target with devastating speed.",
             "images": {
-                "profile": "src/assets/jutsus/58.webp",
+                "profile": "/assets/jutsus/58.webp",
                 "others": []
             }
         },
@@ -1512,7 +1512,7 @@
             "kekkeiGenkai": false,
             "description": "Sai draws animals and objects with ink that come to life and carry out his commands as autonomous agents.",
             "images": {
-                "profile": "src/assets/jutsus/59.webp",
+                "profile": "/assets/jutsus/59.webp",
                 "others": []
             }
         },
@@ -1538,7 +1538,7 @@
             "kekkeiGenkai": false,
             "description": "A seal applied by Orochimaru that grants the recipient enormous power at the cost of their free will and sanity.",
             "images": {
-                "profile": "src/assets/jutsus/60.webp",
+                "profile": "/assets/jutsus/60.webp",
                 "others": []
             }
         },
@@ -1565,7 +1565,7 @@
             "kekkeiGenkai": false,
             "description": "Orochimaru's signature style of summoning snakes and transforming body parts into serpents for both combat and escape.",
             "images": {
-                "profile": "src/assets/jutsus/61.webp",
+                "profile": "/assets/jutsus/61.webp",
                 "others": []
             }
         },
@@ -1588,7 +1588,7 @@
             "kekkeiGenkai": false,
             "description": "A legendary blade summoned from within Orochimaru's body. Can extend and cut through almost any defense.",
             "images": {
-                "profile": "src/assets/jutsus/62.webp",
+                "profile": "/assets/jutsus/62.webp",
                 "others": []
             }
         },
@@ -1611,7 +1611,7 @@
             "kekkeiGenkai": false,
             "description": "A forbidden jutsu that kills both the user and target simultaneously using a seal formed between them.",
             "images": {
-                "profile": "src/assets/jutsus/63.webp",
+                "profile": "/assets/jutsus/63.webp",
                 "others": []
             }
         },
@@ -1633,7 +1633,7 @@
             "kekkeiGenkai": false,
             "description": "Hidan's immortality-based ritual that links his body to a target, causing any damage he inflicts on himself to be mirrored on the target.",
             "images": {
-                "profile": "src/assets/jutsus/64.webp",
+                "profile": "/assets/jutsus/64.webp",
                 "others": []
             }
         },
@@ -1659,7 +1659,7 @@
             "kekkeiGenkai": false,
             "description": "Kakuzu's forbidden technique that uses black threads to detach and reattach body parts, steal hearts, and use multiple nature transformations simultaneously.",
             "images": {
-                "profile": "src/assets/jutsus/65.webp",
+                "profile": "/assets/jutsus/65.webp",
                 "others": []
             }
         },
@@ -1686,7 +1686,7 @@
             "kekkeiGenkai": true,
             "description": "A Mangekyo Sharingan space-time technique that can warp anything into or out of a pocket dimension at will.",
             "images": {
-                "profile": "src/assets/jutsus/66.webp",
+                "profile": "/assets/jutsus/66.webp",
                 "others": []
             }
         },
@@ -1713,7 +1713,7 @@
             "kekkeiGenkai": true,
             "description": "The ultimate genjutsu that uses the moon as a reflector for the Rinne Sharingan to trap all of humanity in an eternal dream.",
             "images": {
-                "profile": "src/assets/jutsus/67.webp",
+                "profile": "/assets/jutsus/67.webp",
                 "others": []
             }
         },
@@ -1744,7 +1744,7 @@
             "kekkeiGenkai": true,
             "description": "Creates a black sphere of gravity that draws everything in the surrounding area into it, forming a planetoid of compressed debris.",
             "images": {
-                "profile": "src/assets/jutsus/68.webp",
+                "profile": "/assets/jutsus/68.webp",
                 "others": []
             }
         },
@@ -1776,7 +1776,7 @@
             "kekkeiGenkai": false,
             "description": "Black spheres of highly compressed chakra that can nullify all ninjutsu and disintegrate anything they touch.",
             "images": {
-                "profile": "src/assets/jutsus/69.webp",
+                "profile": "/assets/jutsus/69.webp",
                 "others": []
             }
         },
@@ -1806,7 +1806,7 @@
             "kekkeiGenkai": false,
             "description": "Channels chakra into wounds to accelerate cell regeneration and heal injuries ranging from minor cuts to life-threatening damage.",
             "images": {
-                "profile": "src/assets/jutsus/70.webp",
+                "profile": "/assets/jutsus/70.webp",
                 "others": []
             }
         },
@@ -1828,7 +1828,7 @@
             "kekkeiGenkai": false,
             "description": "Tsunade's ultimate technique that uses stored chakra to regenerate any injury instantly, making her nearly immortal in battle.",
             "images": {
-                "profile": "src/assets/jutsus/71.webp",
+                "profile": "/assets/jutsus/71.webp",
                 "others": []
             }
         },
@@ -1854,7 +1854,7 @@
             "kekkeiGenkai": false,
             "description": "A medical ninjutsu that emits healing chakra from the palms to treat injuries and illnesses with precision.",
             "images": {
-                "profile": "src/assets/jutsus/72.webp",
+                "profile": "/assets/jutsus/72.webp",
                 "others": []
             }
         },
@@ -1880,7 +1880,7 @@
             "kekkeiGenkai": false,
             "description": "Concentrates chakra into the fists at the moment of impact, generating explosive physical force far beyond normal human capability.",
             "images": {
-                "profile": "src/assets/jutsus/73.webp",
+                "profile": "/assets/jutsus/73.webp",
                 "others": []
             }
         },
@@ -1903,7 +1903,7 @@
             "kekkeiGenkai": false,
             "description": "Naruto's most powerful offensive technique combining Sage Mode with multiple Tailed Beast chakra into several massive Rasenshurikens simultaneously.",
             "images": {
-                "profile": "src/assets/jutsus/74.webp",
+                "profile": "/assets/jutsus/74.webp",
                 "others": []
             }
         },
@@ -1934,7 +1934,7 @@
             "kekkeiGenkai": false,
             "description": "A massive sphere of highly compressed positive black chakra and negative white chakra fired by Tailed Beasts and their Jinchuriki.",
             "images": {
-                "profile": "src/assets/jutsus/75.webp",
+                "profile": "/assets/jutsus/75.webp",
                 "others": []
             }
         },
@@ -1960,13 +1960,13 @@
             "kekkeiGenkai": false,
             "description": "A powerful clothesline attack enhanced with lightning chakra. The double version between the Raikage and Killer Bee is nearly unstoppable.",
             "images": {
-                "profile": "src/assets/jutsus/76.webp",
+                "profile": "/assets/jutsus/76.webp",
                 "others": []
             }
         },
         {
             "id": 77,
-            "name": "Sage Art: Wood Release — True Several Thousand Hands",
+            "name": "Sage Art: Wood Release â€” True Several Thousand Hands",
             "type": "Ninjutsu",
             "rank": "S",
             "chakraType": [
@@ -1985,7 +1985,7 @@
             "kekkeiGenkai": true,
             "description": "Hashirama's ultimate technique that creates an enormous wooden statue with thousands of hands, dwarfing mountains in scale.",
             "images": {
-                "profile": "src/assets/jutsus/77.webp",
+                "profile": "/assets/jutsus/77.webp",
                 "others": []
             }
         },
@@ -2009,7 +2009,7 @@
             "kekkeiGenkai": true,
             "description": "Creates a three-dimensional geometric structure that disintegrates everything inside it at the molecular level, leaving nothing behind.",
             "images": {
-                "profile": "src/assets/jutsus/78.webp",
+                "profile": "/assets/jutsus/78.webp",
                 "others": []
             }
         },
@@ -2031,7 +2031,7 @@
             "kekkeiGenkai": false,
             "description": "Temari channels wind chakra through her giant iron fan to release razor-sharp blades of compressed air.",
             "images": {
-                "profile": "src/assets/jutsus/79.webp",
+                "profile": "/assets/jutsus/79.webp",
                 "others": []
             }
         },
@@ -2054,7 +2054,7 @@
             "kekkeiGenkai": false,
             "description": "Summons nine giant dragon heads made of chakra that bind and seal a target completely.",
             "images": {
-                "profile": "src/assets/jutsus/80.webp",
+                "profile": "/assets/jutsus/80.webp",
                 "others": []
             }
         }

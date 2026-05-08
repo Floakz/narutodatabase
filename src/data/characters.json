@@ -1,4 +1,4 @@
-{
+﻿{
     "characters": [
         {
             "id": 1,
@@ -8,7 +8,7 @@
             "powerLevel": 98,
             "description": "The Seventh Hokage and hero of the Fourth Shinobi World War. Jinchuriki of Kurama, the Nine-Tails fox.",
             "images": {
-                "profile": "src/assets/characters/1.webp",
+                "profile": "/assets/characters/1.webp",
                 "others": []
             },
             "chakraType": [
@@ -23,7 +23,7 @@
             "powerLevel": 97,
             "description": "The last loyal member of the Uchiha clan and Naruto's eternal rival. Wielder of the Rinnegan and Sharingan.",
             "images": {
-                "profile": "src/assets/characters/2.webp",
+                "profile": "/assets/characters/2.webp",
                 "others": []
             },
             "chakraType": [
@@ -39,7 +39,7 @@
             "powerLevel": 75,
             "description": "A medical ninja and one of the strongest kunoichi in the world. Student of Tsunade.",
             "images": {
-                "profile": "src/assets/characters/3.webp",
+                "profile": "/assets/characters/3.webp",
                 "others": []
             },
             "chakraType": [
@@ -55,7 +55,7 @@
             "powerLevel": 89,
             "description": "The Copy Ninja and former Sixth Hokage. Known for copying over a thousand jutsu with his Sharingan.",
             "images": {
-                "profile": "src/assets/characters/4.webp",
+                "profile": "/assets/characters/4.webp",
                 "others": []
             },
             "chakraType": [
@@ -70,7 +70,7 @@
             "powerLevel": 96,
             "description": "A prodigy who massacred his clan to protect the village. One of the most powerful Uchiha to ever live.",
             "images": {
-                "profile": "src/assets/characters/5.webp",
+                "profile": "/assets/characters/5.webp",
                 "others": []
             },
             "chakraType": [
@@ -89,7 +89,7 @@
             "powerLevel": 96,
             "description": "The Fourth Hokage and Naruto's father. Known as the Yellow Flash for his unmatched speed with the Flying Thunder God technique.",
             "images": {
-                "profile": "src/assets/characters/6.webp",
+                "profile": "/assets/characters/6.webp",
                 "others": []
             },
             "chakraType": [
@@ -104,7 +104,7 @@
             "powerLevel": 92,
             "description": "One of the Legendary Sannin and Naruto's godfather. A sage who mastered Sage Mode and trained the Fourth Hokage.",
             "images": {
-                "profile": "src/assets/characters/7.webp ",
+                "profile": "/assets/characters/7.webp ",
                 "others": []
             },
             "chakraType": [
@@ -123,7 +123,7 @@
             "powerLevel": 88,
             "description": "The Fifth Hokage and one of the Legendary Sannin. The greatest medical ninja in history.",
             "images": {
-                "profile": "src/assets/characters/8.webp",
+                "profile": "/assets/characters/8.webp",
                 "others": []
             },
             "chakraType": [
@@ -139,7 +139,7 @@
             "powerLevel": 90,
             "description": "One of the Legendary Sannin obsessed with immortality and forbidden jutsu. Former member of Akatsuki.",
             "images": {
-                "profile": "src/assets/characters/9.webp",
+                "profile": "/assets/characters/9.webp",
                 "others": []
             },
             "chakraType": [
@@ -158,7 +158,7 @@
             "powerLevel": 99,
             "description": "The legendary leader of the Uchiha clan and co-founder of Hidden Leaf Village. One of the most powerful shinobi in history.",
             "images": {
-                "profile": "src/assets/characters/10.webp",
+                "profile": "/assets/characters/10.webp",
                 "others": []
             },
             "chakraType": [
@@ -179,7 +179,7 @@
             "powerLevel": 99,
             "description": "The First Hokage and co-founder of Hidden Leaf Village. Known as the God of Shinobi, wielder of Wood Release.",
             "images": {
-                "profile": "src/assets/characters/11.webp",
+                "profile": "/assets/characters/11.webp",
                 "others": []
             },
             "chakraType": [
@@ -197,7 +197,7 @@
             "powerLevel": 91,
             "description": "The Second Hokage and creator of many foundational jutsu including the Shadow Clone and Reanimation techniques.",
             "images": {
-                "profile": "src/assets/characters/12.webp",
+                "profile": "/assets/characters/12.webp",
                 "others": []
             },
             "chakraType": [
@@ -218,7 +218,7 @@
             "powerLevel": 88,
             "description": "The Third Hokage, known as the God of Shinobi in his era. Mastered all five basic nature transformations.",
             "images": {
-                "profile": "src/assets/characters/13.webp",
+                "profile": "/assets/characters/13.webp",
                 "others": []
             },
             "chakraType": [
@@ -237,7 +237,7 @@
             "powerLevel": 94,
             "description": "The leader of Akatsuki who sought peace through pain. Wielder of the Rinnegan and the Six Paths of Pain.",
             "images": {
-                "profile": "src/assets/characters/14.webp",
+                "profile": "/assets/characters/14.webp",
                 "others": []
             },
             "chakraType": [
@@ -258,7 +258,7 @@
             "powerLevel": 78,
             "description": "Co-founder of Akatsuki and Pain's partner. Master of paper-based jutsu and the only female Akatsuki member.",
             "images": {
-                "profile": "src/assets/characters/15.webp",
+                "profile": "/assets/characters/15.webp",
                 "others": []
             },
             "chakraType": [
@@ -274,7 +274,7 @@
             "powerLevel": 93,
             "description": "A former Konoha ninja who became the true leader of Akatsuki under the alias Tobi. Wielder of the Mangekyo Sharingan and Rinnegan.",
             "images": {
-                "profile": "src/assets/characters/16.webp",
+                "profile": "/assets/characters/16.webp",
                 "others": []
             },
             "chakraType": [
@@ -295,7 +295,7 @@
             "powerLevel": 87,
             "description": "A former member of the Seven Ninja Swordsmen of the Mist and Akatsuki member. Known as the Tailless Tailed Beast.",
             "images": {
-                "profile": "src/assets/characters/17.webp",
+                "profile": "/assets/characters/17.webp",
                 "others": []
             },
             "chakraType": [
@@ -310,7 +310,7 @@
             "powerLevel": 82,
             "description": "An Akatsuki member and explosive clay artist who views his deadly detonations as the ultimate art form.",
             "images": {
-                "profile": "src/assets/characters/18.webp",
+                "profile": "/assets/characters/18.webp",
                 "others": []
             },
             "chakraType": [
@@ -326,7 +326,7 @@
             "powerLevel": 83,
             "description": "A puppet master from Hidden Sand Village who converted his own body into a puppet. Akatsuki member.",
             "images": {
-                "profile": "src/assets/characters/19.webp",
+                "profile": "/assets/characters/19.webp",
                 "others": []
             },
             "chakraType": [
@@ -343,7 +343,7 @@
             "powerLevel": 75,
             "description": "An immortal Akatsuki member who worships the death god Jashin and uses a ritual curse jutsu.",
             "images": {
-                "profile": "src/assets/characters/20.webp",
+                "profile": "/assets/characters/20.webp",
                 "others": []
             },
             "chakraType": [
@@ -358,7 +358,7 @@
             "powerLevel": 84,
             "description": "An immortal Akatsuki member who can use all five nature transformations after stealing hearts from other ninja.",
             "images": {
-                "profile": "src/assets/characters/21.webp",
+                "profile": "/assets/characters/21.webp",
                 "others": []
             },
             "chakraType": [
@@ -377,7 +377,7 @@
             "powerLevel": 72,
             "description": "A dual-natured Akatsuki member created by Kaguya. Acts as spy and information gatherer for the organization.",
             "images": {
-                "profile": "src/assets/characters/22.webp",
+                "profile": "/assets/characters/22.webp",
                 "others": []
             },
             "chakraType": [
@@ -395,7 +395,7 @@
             "powerLevel": 100,
             "description": "The legendary owner of Ichiraku Ramen and Naruto's most important person. Some say his true power level is immeasurable.",
             "images": {
-                "profile": "src/assets/characters/23.webp",
+                "profile": "/assets/characters/23.webp",
                 "others": []
             },
             "chakraType": []
@@ -408,7 +408,7 @@
             "powerLevel": 76,
             "description": "A taijutsu specialist who cannot use ninjutsu or genjutsu. His determination and hard work made him an elite shinobi.",
             "images": {
-                "profile": "src/assets/characters/24.webp",
+                "profile": "/assets/characters/24.webp",
                 "others": []
             },
             "chakraType": []
@@ -421,7 +421,7 @@
             "powerLevel": 79,
             "description": "A genius of the Hyuga clan who mastered the Byakugan and the Gentle Fist fighting style.",
             "images": {
-                "profile": "src/assets/characters/25.webp",
+                "profile": "/assets/characters/25.webp",
                 "others": []
             },
             "chakraType": [
@@ -437,7 +437,7 @@
             "powerLevel": 65,
             "description": "A weapons specialist from Team Guy who can summon and wield any weapon with exceptional precision.",
             "images": {
-                "profile": "src/assets/characters/26.webp",
+                "profile": "/assets/characters/26.webp",
                 "others": []
             },
             "chakraType": [
@@ -452,7 +452,7 @@
             "powerLevel": 88,
             "description": "The master of taijutsu and Rock Lee's teacher. Pushed the Eight Gates to their absolute limit to fight Madara.",
             "images": {
-                "profile": "src/assets/characters/27.webp",
+                "profile": "/assets/characters/27.webp",
                 "others": []
             },
             "chakraType": []
@@ -465,7 +465,7 @@
             "powerLevel": 74,
             "description": "A strategic genius who uses Shadow Possession jutsu. Became Naruto's chief advisor as Hokage.",
             "images": {
-                "profile": "src/assets/characters/28.webp",
+                "profile": "/assets/characters/28.webp",
                 "others": []
             },
             "chakraType": [
@@ -482,7 +482,7 @@
             "powerLevel": 70,
             "description": "A member of the Akimichi clan who can expand his body to tremendous size using calorie-based jutsu.",
             "images": {
-                "profile": "src/assets/characters/29.webp",
+                "profile": "/assets/characters/29.webp",
                 "others": []
             },
             "chakraType": [
@@ -498,7 +498,7 @@
             "powerLevel": 68,
             "description": "A kunoichi who specializes in mind-transfer jutsu. Part of the Ino-Shika-Cho formation with Shikamaru and Choji.",
             "images": {
-                "profile": "src/assets/characters/30.webp",
+                "profile": "/assets/characters/30.webp",
                 "others": []
             },
             "chakraType": [
@@ -515,7 +515,7 @@
             "powerLevel": 66,
             "description": "A ninja who fights alongside his dog Akamaru using beast-style combat techniques.",
             "images": {
-                "profile": "src/assets/characters/31.webp",
+                "profile": "/assets/characters/31.webp",
                 "others": []
             },
             "chakraType": [
@@ -532,7 +532,7 @@
             "powerLevel": 67,
             "description": "A quiet ninja from the Aburame clan who uses insects that feed on chakra as his primary weapon.",
             "images": {
-                "profile": "src/assets/characters/32.webp",
+                "profile": "/assets/characters/32.webp",
                 "others": []
             },
             "chakraType": [
@@ -548,7 +548,7 @@
             "powerLevel": 72,
             "description": "A kind-hearted kunoichi from the Hyuga clan who wields the Byakugan and Gentle Fist. Naruto's wife.",
             "images": {
-                "profile": "src/assets/characters/33.webp",
+                "profile": "/assets/characters/33.webp",
                 "others": []
             },
             "chakraType": [
@@ -564,7 +564,7 @@
             "powerLevel": 88,
             "description": "The Fifth Kazekage and former Jinchuriki of the One-Tail. Controls sand with devastating power.",
             "images": {
-                "profile": "src/assets/characters/34.webp",
+                "profile": "/assets/characters/34.webp",
                 "others": []
             },
             "chakraType": [
@@ -581,7 +581,7 @@
             "powerLevel": 74,
             "description": "A powerful wind-style kunoichi from Hidden Sand Village and elder sister of Gaara. Shikamaru's wife.",
             "images": {
-                "profile": "src/assets/characters/35.webp",
+                "profile": "/assets/characters/35.webp",
                 "others": []
             },
             "chakraType": [
@@ -596,7 +596,7 @@
             "powerLevel": 70,
             "description": "A skilled puppet master from Hidden Sand Village and Gaara's older brother.",
             "images": {
-                "profile": "src/assets/characters/36.webp",
+                "profile": "/assets/characters/36.webp",
                 "others": []
             },
             "chakraType": [
@@ -612,7 +612,7 @@
             "powerLevel": 90,
             "description": "The Jinchuriki of the Eight-Tails and brother of the Fourth Raikage. A master of the Lariat technique and rap.",
             "images": {
-                "profile": "src/assets/characters/37.webp",
+                "profile": "/assets/characters/37.webp",
                 "others": []
             },
             "chakraType": [
@@ -632,7 +632,7 @@
             "powerLevel": 88,
             "description": "The Fourth Raikage and leader of Hidden Cloud Village. Known for his incredible physical strength and Lightning Armor.",
             "images": {
-                "profile": "src/assets/characters/38.webp",
+                "profile": "/assets/characters/38.webp",
                 "others": []
             },
             "chakraType": [
@@ -647,7 +647,7 @@
             "powerLevel": 83,
             "description": "The Fifth Mizukage of Hidden Mist Village. Possesses two rare kekkei genkai: Lava Release and Boil Release.",
             "images": {
-                "profile": "src/assets/characters/39.webp",
+                "profile": "/assets/characters/39.webp",
                 "others": []
             },
             "chakraType": [
@@ -665,7 +665,7 @@
             "powerLevel": 85,
             "description": "The Third Tsuchikage of Hidden Stone Village. A stubborn old kage who wields the rare Dust Release kekkei tota.",
             "images": {
-                "profile": "src/assets/characters/40.webp",
+                "profile": "/assets/characters/40.webp",
                 "others": []
             },
             "chakraType": [
@@ -682,7 +682,7 @@
             "powerLevel": 85,
             "description": "Orochimaru's former spy and right-hand man who later mastered Sage Mode and Reanimation jutsu.",
             "images": {
-                "profile": "src/assets/characters/41.webp",
+                "profile": "/assets/characters/41.webp",
                 "others": []
             },
             "chakraType": [
@@ -701,7 +701,7 @@
             "powerLevel": 100,
             "description": "The progenitor of chakra and the final antagonist. The most powerful being in the entire series.",
             "images": {
-                "profile": "src/assets/characters/42.webp",
+                "profile": "/assets/characters/42.webp",
                 "others": []
             },
             "chakraType": [
@@ -723,7 +723,7 @@
             "powerLevel": 99,
             "description": "The Sage of Six Paths and son of Kaguya. Created ninshu which evolved into modern ninjutsu.",
             "images": {
-                "profile": "src/assets/characters/43.webp",
+                "profile": "/assets/characters/43.webp",
                 "others": []
             },
             "chakraType": [
@@ -745,7 +745,7 @@
             "powerLevel": 97,
             "description": "The twin brother of Hagoromo Otsutsuki. Wielder of the Tenseigan who protected the moon.",
             "images": {
-                "profile": "src/assets/characters/44.webp",
+                "profile": "/assets/characters/44.webp",
                 "others": []
             },
             "chakraType": [
@@ -762,7 +762,7 @@
             "powerLevel": 94,
             "description": "The eldest son of Hagoromo and ancestor of the Uchiha clan. The original wielder of the Sharingan.",
             "images": {
-                "profile": "src/assets/characters/45.webp",
+                "profile": "/assets/characters/45.webp",
                 "others": []
             },
             "chakraType": [
@@ -779,7 +779,7 @@
             "powerLevel": 93,
             "description": "The younger son of Hagoromo and ancestor of the Senju and Uzumaki clans.",
             "images": {
-                "profile": "src/assets/characters/46.webp",
+                "profile": "/assets/characters/46.webp",
                 "others": []
             },
             "chakraType": [
@@ -797,7 +797,7 @@
             "powerLevel": 97,
             "description": "A powerful Otsutsuki clan member who came to harvest the chakra fruit from Earth. Primary antagonist of Boruto.",
             "images": {
-                "profile": "src/assets/characters/47.webp",
+                "profile": "/assets/characters/47.webp",
                 "others": []
             },
             "chakraType": [
@@ -818,7 +818,7 @@
             "powerLevel": 91,
             "description": "Momoshiki's subordinate and a powerful Otsutsuki warrior who can create weapons from his chakra.",
             "images": {
-                "profile": "src/assets/characters/48.webp",
+                "profile": "/assets/characters/48.webp",
                 "others": []
             },
             "chakraType": [
@@ -834,7 +834,7 @@
             "powerLevel": 82,
             "description": "Naruto's son and the main protagonist of Boruto. Possesses the Jougan and is a vessel for Momoshiki.",
             "images": {
-                "profile": "src/assets/characters/49.webp",
+                "profile": "/assets/characters/49.webp",
                 "others": []
             },
             "chakraType": [
@@ -850,7 +850,7 @@
             "powerLevel": 78,
             "description": "Sasuke and Sakura's daughter. Possesses the Sharingan and aims to become Hokage.",
             "images": {
-                "profile": "src/assets/characters/50.webp",
+                "profile": "/assets/characters/50.webp",
                 "others": []
             },
             "chakraType": [
@@ -866,7 +866,7 @@
             "powerLevel": 79,
             "description": "Orochimaru's synthetic son who can use Sage Mode naturally. Boruto's teammate.",
             "images": {
-                "profile": "src/assets/characters/51.webp",
+                "profile": "/assets/characters/51.webp",
                 "others": []
             },
             "chakraType": [
@@ -882,7 +882,7 @@
             "powerLevel": 85,
             "description": "A boy modified by Jigen to be the ultimate vessel. Raised by Naruto as part of his family.",
             "images": {
-                "profile": "src/assets/characters/52.webp",
+                "profile": "/assets/characters/52.webp",
                 "others": []
             },
             "chakraType": [
@@ -899,7 +899,7 @@
             "powerLevel": 98,
             "description": "The leader of Kara and a vessel for Isshiki Otsutsuki. One of the most powerful antagonists in Boruto.",
             "images": {
-                "profile": "src/assets/characters/53.webp",
+                "profile": "/assets/characters/53.webp",
                 "others": []
             },
             "chakraType": [
@@ -916,7 +916,7 @@
             "powerLevel": 68,
             "description": "A former student of Orochimaru who bears the Cursed Seal of Heaven. Works as a proctor for the Chunin Exams.",
             "images": {
-                "profile": "src/assets/characters/54.webp",
+                "profile": "/assets/characters/54.webp",
                 "others": []
             },
             "chakraType": [
@@ -933,7 +933,7 @@
             "powerLevel": 67,
             "description": "A jonin and genjutsu specialist who leads Team 8. Wife of Asuma Sarutobi.",
             "images": {
-                "profile": "src/assets/characters/55.webp",
+                "profile": "/assets/characters/55.webp",
                 "others": []
             },
             "chakraType": [
@@ -949,7 +949,7 @@
             "powerLevel": 75,
             "description": "A jonin and leader of Team 10. Son of the Third Hokage and a former member of the Twelve Guardian Ninja.",
             "images": {
-                "profile": "src/assets/characters/56.webp",
+                "profile": "/assets/characters/56.webp",
                 "others": []
             },
             "chakraType": [
@@ -965,7 +965,7 @@
             "powerLevel": 90,
             "description": "A legendary Uchiha known as Shisui of the Body Flicker. Wielded the most powerful genjutsu, Kotoamatsukami.",
             "images": {
-                "profile": "src/assets/characters/57.webp",
+                "profile": "/assets/characters/57.webp",
                 "others": []
             },
             "chakraType": [
@@ -982,7 +982,7 @@
             "powerLevel": 82,
             "description": "The leader of the Uchiha clan and Itachi and Sasuke's father. Possessed the Sharingan and planned a coup.",
             "images": {
-                "profile": "src/assets/characters/58.webp",
+                "profile": "/assets/characters/58.webp",
                 "others": []
             },
             "chakraType": [
@@ -998,7 +998,7 @@
             "powerLevel": 51,
             "description": "Itachi and Sasuke's mother and wife of Fugaku Uchiha. A gentle woman who loved her family deeply.",
             "images": {
-                "profile": "src/assets/characters/59.webp",
+                "profile": "/assets/characters/59.webp",
                 "others": []
             },
             "chakraType": [
@@ -1013,7 +1013,7 @@
             "powerLevel": 85,
             "description": "Naruto's mother and the previous Jinchuriki of the Nine-Tails. Known as the Red Hot-Blooded Habanero.",
             "images": {
-                "profile": "src/assets/characters/60.webp",
+                "profile": "/assets/characters/60.webp",
                 "others": []
             },
             "chakraType": [
@@ -1031,7 +1031,7 @@
             "powerLevel": 83,
             "description": "Wife of Hashirama Senju and the first Jinchuriki of the Nine-Tails. A powerful fuinjutsu master.",
             "images": {
-                "profile": "src/assets/characters/61.webp",
+                "profile": "/assets/characters/61.webp",
                 "others": []
             },
             "chakraType": [
@@ -1049,7 +1049,7 @@
             "powerLevel": 83,
             "description": "The leader of Root and a shadow ruler of Konoha. Implanted Sharingan eyes in his arm to wield forbidden jutsu.",
             "images": {
-                "profile": "src/assets/characters/62.webp",
+                "profile": "/assets/characters/62.webp",
                 "others": []
             },
             "chakraType": [
@@ -1066,7 +1066,7 @@
             "powerLevel": 78,
             "description": "The head of the Hyuga clan and father of Hinata and Hanabi. A stern but powerful Byakugan wielder.",
             "images": {
-                "profile": "src/assets/characters/63.webp",
+                "profile": "/assets/characters/63.webp",
                 "others": []
             },
             "chakraType": [
@@ -1082,7 +1082,7 @@
             "powerLevel": 68,
             "description": "Hinata's younger sister and a prodigy of the Hyuga clan. Considered more talented than Hinata in the main branch.",
             "images": {
-                "profile": "src/assets/characters/64.webp",
+                "profile": "/assets/characters/64.webp",
                 "others": []
             },
             "chakraType": [
@@ -1096,9 +1096,9 @@
             "village": "Hidden Mist Village",
             "clan": null,
             "powerLevel": 80,
-            "description": "The Demon of the Hidden Mist and one of the Seven Ninja Swordsmen. Wielder of the massive Kubikiribōchō sword.",
+            "description": "The Demon of the Hidden Mist and one of the Seven Ninja Swordsmen. Wielder of the massive KubikiribÅchÅ sword.",
             "images": {
-                "profile": "src/assets/characters/65.webp",
+                "profile": "/assets/characters/65.webp",
                 "others": []
             },
             "chakraType": [
@@ -1114,7 +1114,7 @@
             "powerLevel": 72,
             "description": "Zabuza's loyal companion who possesses the rare Ice Release kekkei genkai.",
             "images": {
-                "profile": "src/assets/characters/66.webp",
+                "profile": "/assets/characters/66.webp",
                 "others": []
             },
             "chakraType": [
@@ -1131,7 +1131,7 @@
             "powerLevel": 70,
             "description": "A member of Sasuke's team Taka. Can liquify his body using the Hydrification Technique.",
             "images": {
-                "profile": "src/assets/characters/67.webp",
+                "profile": "/assets/characters/67.webp",
                 "others": []
             },
             "chakraType": [
@@ -1146,7 +1146,7 @@
             "powerLevel": 74,
             "description": "A member of Sasuke's team Taka who can passively absorb natural energy. The original source of the Cursed Seal.",
             "images": {
-                "profile": "src/assets/characters/68.webp",
+                "profile": "/assets/characters/68.webp",
                 "others": []
             },
             "chakraType": [
@@ -1162,7 +1162,7 @@
             "powerLevel": 65,
             "description": "A member of Sasuke's team Taka with unique sensory abilities and healing powers through her chakra.",
             "images": {
-                "profile": "src/assets/characters/69.webp",
+                "profile": "/assets/characters/69.webp",
                 "others": []
             },
             "chakraType": [
@@ -1178,7 +1178,7 @@
             "powerLevel": 71,
             "description": "A former Root member who joined Team 7. Uses ink-based jutsu to bring his drawings to life.",
             "images": {
-                "profile": "src/assets/characters/70.webp",
+                "profile": "/assets/characters/70.webp",
                 "others": []
             },
             "chakraType": [
@@ -1195,7 +1195,7 @@
             "powerLevel": 78,
             "description": "A former Root member who can use Wood Release due to Hashirama's cells being implanted in him as a child.",
             "images": {
-                "profile": "src/assets/characters/71.webp",
+                "profile": "/assets/characters/71.webp",
                 "others": []
             },
             "chakraType": [
@@ -1212,7 +1212,7 @@
             "powerLevel": 72,
             "description": "The grandson of the Third Hokage and Naruto's self-proclaimed rival. Grew up to become a jonin and team leader.",
             "images": {
-                "profile": "src/assets/characters/72.webp",
+                "profile": "/assets/characters/72.webp",
                 "others": []
             },
             "chakraType": [
@@ -1230,7 +1230,7 @@
             "powerLevel": 58,
             "description": "Naruto's beloved academy teacher and father figure. One of the first to acknowledge Naruto as a person.",
             "images": {
-                "profile": "src/assets/characters/73.webp",
+                "profile": "/assets/characters/73.webp",
                 "others": []
             },
             "chakraType": [
@@ -1246,7 +1246,7 @@
             "powerLevel": 43,
             "description": "A jonin who specializes in training elite ninja. Known as the Closet Pervert.",
             "images": {
-                "profile": "src/assets/characters/74.webp",
+                "profile": "/assets/characters/74.webp",
                 "others": []
             },
             "chakraType": [
@@ -1262,7 +1262,7 @@
             "powerLevel": 45,
             "description": "A jonin from Konoha who always has a senbon needle in his mouth. Served as a proctor during the Chunin Exams.",
             "images": {
-                "profile": "src/assets/characters/75.webp",
+                "profile": "/assets/characters/75.webp",
                 "others": []
             },
             "chakraType": [
@@ -1278,7 +1278,7 @@
             "powerLevel": 90,
             "description": "The Third Raikage of Hidden Cloud Village, considered one of the strongest Kage in history. Nearly impenetrable body.",
             "images": {
-                "profile": "src/assets/characters/76.webp",
+                "profile": "/assets/characters/76.webp",
                 "others": []
             },
             "chakraType": [
@@ -1293,7 +1293,7 @@
             "powerLevel": 78,
             "description": "The right-hand man of the Fourth Raikage and later the Fifth Raikage. Possesses rare Storm Release.",
             "images": {
-                "profile": "src/assets/characters/77.webp",
+                "profile": "/assets/characters/77.webp",
                 "others": []
             },
             "chakraType": [
@@ -1310,7 +1310,7 @@
             "powerLevel": 65,
             "description": "A jonin from Hidden Cloud Village and skilled sensor type ninja who serves under the Fourth Raikage.",
             "images": {
-                "profile": "src/assets/characters/78.webp",
+                "profile": "/assets/characters/78.webp",
                 "others": []
             },
             "chakraType": [
@@ -1326,7 +1326,7 @@
             "powerLevel": 67,
             "description": "A cool-headed kunoichi from Hidden Cloud Village who leads her own team.",
             "images": {
-                "profile": "src/assets/characters/79.webp",
+                "profile": "/assets/characters/79.webp",
                 "others": []
             },
             "chakraType": [
@@ -1342,7 +1342,7 @@
             "powerLevel": 74,
             "description": "The supreme general of the samurai in the Land of Iron. A master swordsman of unmatched skill.",
             "images": {
-                "profile": "src/assets/characters/80.webp",
+                "profile": "/assets/characters/80.webp",
                 "others": []
             },
             "chakraType": [
@@ -1357,7 +1357,7 @@
             "powerLevel": 76,
             "description": "The Jinchuriki of the Seven-Tails from Hidden Waterfall Village. An energetic girl who longed for friendship.",
             "images": {
-                "profile": "src/assets/characters/81.webp",
+                "profile": "/assets/characters/81.webp",
                 "others": []
             },
             "chakraType": [
@@ -1374,7 +1374,7 @@
             "powerLevel": 77,
             "description": "The Jinchuriki of the Six-Tails from Hidden Mist Village. A bubble blower who tried to live peacefully.",
             "images": {
-                "profile": "src/assets/characters/82.webp",
+                "profile": "/assets/characters/82.webp",
                 "others": []
             },
             "chakraType": [
@@ -1390,7 +1390,7 @@
             "powerLevel": 80,
             "description": "The Jinchuriki of the Two-Tails from Hidden Cloud Village. A skilled kunoichi who could fully transform into her beast.",
             "images": {
-                "profile": "src/assets/characters/83.webp",
+                "profile": "/assets/characters/83.webp",
                 "others": []
             },
             "chakraType": [
@@ -1406,7 +1406,7 @@
             "powerLevel": 82,
             "description": "The Fourth Mizukage and Jinchuriki of the Three-Tails. Known as the child prodigy who became Kage.",
             "images": {
-                "profile": "src/assets/characters/84.webp",
+                "profile": "/assets/characters/84.webp",
                 "others": []
             },
             "chakraType": [
@@ -1423,7 +1423,7 @@
             "powerLevel": 79,
             "description": "The Jinchuriki of the Four-Tails from Hidden Stone Village. Mastered Lava Release through his beast's power.",
             "images": {
-                "profile": "src/assets/characters/85.webp",
+                "profile": "/assets/characters/85.webp",
                 "others": []
             },
             "chakraType": [
@@ -1440,7 +1440,7 @@
             "powerLevel": 80,
             "description": "The Jinchuriki of the Five-Tails from Hidden Stone Village. A massive armored ninja who uses Steam Release.",
             "images": {
-                "profile": "src/assets/characters/86.webp",
+                "profile": "/assets/characters/86.webp",
                 "others": []
             },
             "chakraType": [
@@ -1457,7 +1457,7 @@
             "powerLevel": 79,
             "description": "An elder of Hidden Sand Village and master puppet user who created the technique to seal Shukaku into Gaara.",
             "images": {
-                "profile": "src/assets/characters/88.webp",
+                "profile": "/assets/characters/88.webp",
                 "others": []
             },
             "chakraType": [
@@ -1474,7 +1474,7 @@
             "powerLevel": 70,
             "description": "Chiyo's younger brother and an elder of Hidden Sand Village. A respected advisor to the Kazekage.",
             "images": {
-                "profile": "src/assets/characters/89.webp",
+                "profile": "/assets/characters/89.webp",
                 "others": []
             },
             "chakraType": [
@@ -1490,7 +1490,7 @@
             "powerLevel": 70,
             "description": "A jonin from Hidden Sand Village and the sensei of Gaara, Temari, and Kankuro.",
             "images": {
-                "profile": "src/assets/characters/90.webp",
+                "profile": "/assets/characters/90.webp",
                 "others": []
             },
             "chakraType": [
@@ -1506,7 +1506,7 @@
             "powerLevel": 76,
             "description": "A hero of Hidden Sand Village who wielded the rare Scorch Release kekkei genkai.",
             "images": {
-                "profile": "src/assets/characters/91.webp",
+                "profile": "/assets/characters/91.webp",
                 "others": []
             },
             "chakraType": [
@@ -1523,7 +1523,7 @@
             "powerLevel": 73,
             "description": "A shinobi from Hidden Stone Village who possesses the rare Explosion Release kekkei genkai.",
             "images": {
-                "profile": "src/assets/characters/92.webp",
+                "profile": "/assets/characters/92.webp",
                 "others": []
             },
             "chakraType": [
@@ -1540,7 +1540,7 @@
             "powerLevel": 72,
             "description": "A Root member from the Aburame clan who uses nano-sized insects capable of spreading venom on contact.",
             "images": {
-                "profile": "src/assets/characters/93.webp",
+                "profile": "/assets/characters/93.webp",
                 "others": []
             },
             "chakraType": [
@@ -1556,7 +1556,7 @@
             "powerLevel": 68,
             "description": "A Root member from the Yamanaka clan who specializes in mind-based techniques.",
             "images": {
-                "profile": "src/assets/characters/94.webp",
+                "profile": "/assets/characters/94.webp",
                 "others": []
             },
             "chakraType": [
@@ -1572,7 +1572,7 @@
             "powerLevel": 70,
             "description": "A sensor from Hidden Mist Village who stole a Byakugan from a Hyuga clan member during a past war.",
             "images": {
-                "profile": "src/assets/characters/95.webp",
+                "profile": "/assets/characters/95.webp",
                 "others": []
             },
             "chakraType": [
@@ -1588,7 +1588,7 @@
             "powerLevel": 74,
             "description": "One of the Seven Ninja Swordsmen of the Mist and later the Sixth Mizukage.",
             "images": {
-                "profile": "src/assets/characters/96.webp",
+                "profile": "/assets/characters/96.webp",
                 "others": []
             },
             "chakraType": [
@@ -1604,7 +1604,7 @@
             "powerLevel": 78,
             "description": "Suigetsu's older brother and one of the legendary Seven Ninja Swordsmen of the Mist.",
             "images": {
-                "profile": "src/assets/characters/97.webp",
+                "profile": "/assets/characters/97.webp",
                 "others": []
             },
             "chakraType": [
@@ -1619,7 +1619,7 @@
             "powerLevel": 74,
             "description": "One of the Seven Ninja Swordsmen of the Mist who wields the long needle-like sword Nuibari.",
             "images": {
-                "profile": "src/assets/characters/98.webp",
+                "profile": "/assets/characters/98.webp",
                 "others": []
             },
             "chakraType": [
@@ -1635,7 +1635,7 @@
             "powerLevel": 73,
             "description": "One of the Seven Ninja Swordsmen of the Mist who wields the explosive sword Shibuki.",
             "images": {
-                "profile": "src/assets/characters/99.webp",
+                "profile": "/assets/characters/99.webp",
                 "others": []
             },
             "chakraType": [
@@ -1651,7 +1651,7 @@
             "powerLevel": 72,
             "description": "One of the Seven Ninja Swordsmen of the Mist who wielded Samehada before Kisame.",
             "images": {
-                "profile": "src/assets/characters/100.webp",
+                "profile": "/assets/characters/100.webp",
                 "others": []
             },
             "chakraType": [

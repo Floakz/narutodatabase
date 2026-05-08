@@ -1,4 +1,4 @@
-{
+﻿{
     "clans": [
         {
             "id": 1,
@@ -63,7 +63,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/1.webp",
+                "profile": "/assets/clans/1.webp",
                 "others": []
             }
         },
@@ -94,11 +94,11 @@
                 },
                 {
                     "id": 77,
-                    "name": "Sage Art: Wood Release — True Several Thousand Hands"
+                    "name": "Sage Art: Wood Release â€” True Several Thousand Hands"
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/2.webp",
+                "profile": "/assets/clans/2.webp",
                 "others": []
             }
         },
@@ -141,7 +141,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/3.webp",
+                "profile": "/assets/clans/3.webp",
                 "others": []
             }
         },
@@ -184,7 +184,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/4.webp",
+                "profile": "/assets/clans/4.webp",
                 "others": []
             }
         },
@@ -207,7 +207,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/4.webp",
+                "profile": "/assets/clans/4.webp",
                 "others": []
             }
         },
@@ -230,7 +230,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/5.webp",
+                "profile": "/assets/clans/5.webp",
                 "others": []
             }
         },
@@ -257,7 +257,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/6.jfif",
+                "profile": "/assets/clans/6.jfif",
                 "others": []
             }
         },
@@ -280,7 +280,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/7.webp",
+                "profile": "/assets/clans/7.webp",
                 "others": []
             }
         },
@@ -307,7 +307,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/8.webp",
+                "profile": "/assets/clans/8.webp",
                 "others": []
             }
         },
@@ -338,7 +338,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/9.webp",
+                "profile": "/assets/clans/9.webp",
                 "others": []
             }
         },
@@ -365,7 +365,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/10.webp",
+                "profile": "/assets/clans/10.webp",
                 "others": []
             }
         },
@@ -424,7 +424,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/11.webp",
+                "profile": "/assets/clans/11.webp",
                 "others": []
             }
         },
@@ -451,7 +451,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/12.webp",
+                "profile": "/assets/clans/12.webp",
                 "others": []
             }
         },
@@ -474,7 +474,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/13.webp",
+                "profile": "/assets/clans/13.webp",
                 "others": []
             }
         },
@@ -501,7 +501,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/14.webp",
+                "profile": "/assets/clans/14.webp",
                 "others": []
             }
         },
@@ -528,7 +528,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/15.webp",
+                "profile": "/assets/clans/15.webp",
                 "others": []
             }
         },
@@ -546,7 +546,7 @@
             ],
             "signatureJutsu": [],
             "images": {
-                "profile": "src/assets/clans/unknown.webp",
+                "profile": "/assets/clans/unknown.webp",
                 "others": []
             }
         },
@@ -573,7 +573,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/17.webp",
+                "profile": "/assets/clans/17.webp",
                 "others": []
             }
         },
@@ -596,7 +596,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/18.webp",
+                "profile": "/assets/clans/18.webp",
                 "others": []
             }
         },
@@ -623,7 +623,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/19.webp",
+                "profile": "/assets/clans/19.webp",
                 "others": []
             }
         },
@@ -641,7 +641,7 @@
             ],
             "signatureJutsu": [],
             "images": {
-                "profile": "src/assets/clans/unknown.webp",
+                "profile": "/assets/clans/unknown.webp",
                 "others": []
             }
         },
@@ -668,7 +668,7 @@
                 }
             ],
             "images": {
-                "profile": "src/assets/clans/21.webp",
+                "profile": "/assets/clans/21.webp",
                 "others": []
             }
         },
@@ -686,7 +686,7 @@
             ],
             "signatureJutsu": [],
             "images": {
-                "profile": "src/assets/clans/unknown.webp",
+                "profile": "/assets/clans/unknown.webp",
                 "others": []
             }
         }

@@ -8,7 +8,11 @@ import CharacterCard from "../../components/characterCard/characterCard";
 import styles from './characters.module.css'
 import Footer from "../../components/footer/footer";
 
-const PAGE_SIZE = 24;
+import AdCard from "../../components/ads/adCard/adCard";
+import { Link } from "react-router-dom";
+
+const PAGE_SIZE = 25;
+const AD_EVERY = 8;
 
 const VILLAGES = [
     { value: "Hidden Leaf Village", label: "Hidden Leaf" },
@@ -136,10 +140,12 @@ export default function Characters() {
             <div className="container">
                 <Menu />
 
+
                 {/* <PageHeader title={`ALL  CHARACTERS`} /> */}
 
-                <div className={styles.topPageSpace}>               </div>
+                <div className="topPageSpace">               </div>
 
+                <div className={styles.adSpace}> </div>
                 {/* Filter section */}
                 <div className={styles.filterSection}>
                     <div className={styles.filterRow}>
@@ -186,26 +192,36 @@ export default function Characters() {
                             )}
                         </div>
                     )}
-                </div>
+                </div >
 
                 <div className={styles['characters-grid']}>
-                    {visibleCharacters.map((character) => (
-                        <CharacterCard
-                            key={character.id}
-                            name={character.name}
-                            image={character.images.profile}
-                            village={character.village}
-                            powerLevel={character.powerLevel}
-                        />
+                    {visibleCharacters.map((character, index) => (
+                        <>
+                            <Link to={`/characters/${character.id}`}>
+                                <CharacterCard
+                                    key={character.id}
+                                    name={character.name}
+                                    image={character.images.profile}
+                                    village={character.village}
+                                    powerLevel={character.powerLevel}
+                                />
+                            </Link>
+
+                            {(index + 1) % AD_EVERY === 0 && (
+                                <AdCard key={`ad-${index}`} />
+                            )}
+                        </>
                     ))}
                 </div>
 
-                {visibleCount < filteredCharacters.length && (
-                    <button className='load-more-btn' onClick={() => setVisibleCount(visibleCount + PAGE_SIZE)}>
-                        Load More
-                    </button>
-                )}
-            </div>
+                {
+                    visibleCount < filteredCharacters.length && (
+                        <button className='load-more-btn' onClick={() => setVisibleCount(visibleCount + PAGE_SIZE)}>
+                            Load More
+                        </button>
+                    )
+                }
+            </div >
             <Footer />
         </>
     )

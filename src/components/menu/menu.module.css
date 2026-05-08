@@ -42,6 +42,12 @@
     color: #290d00;
 }
 
+.menuItems {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
 .menuItem>svg {
     color: #290d00;
     stroke: currentColor;
@@ -65,4 +71,122 @@
 li {
     display: flex;
     align-items: center;
+}
+
+/* ── Search bar ── */
+
+.searchWrap {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.searchInputWrap {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: #f5f5f5;
+    border: 1px solid #e8e8e8;
+    border-radius: 999px;
+    padding: 8px 16px;
+    transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.searchInputWrap:focus-within {
+    border-color: #f28900;
+    box-shadow: 0 0 0 3px rgba(242, 137, 0, 0.12);
+}
+
+.searchIcon {
+    color: #999;
+    flex-shrink: 0;
+    transition: color 0.15s;
+}
+
+.searchInputWrap:focus-within .searchIcon {
+    color: #f28900;
+}
+
+.searchInput {
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 14px;
+    color: #290d00;
+    width: 220px;
+    font-family: inherit;
+}
+
+.searchInput::placeholder {
+    color: #aaa;
+}
+
+.suggestions {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    right: 0;
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    border-radius: 14px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+    list-style: none;
+    padding: 6px;
+    margin: 0;
+    z-index: 200;
+    overflow: hidden;
+}
+
+.suggestion {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 9px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.1s;
+}
+
+.suggestion:hover {
+    background: #fff5ec;
+}
+
+.suggestionName {
+    font-size: 14px;
+    font-weight: 500;
+    color: #290d00;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 150px;
+}
+
+.categoryBadge {
+    font-size: 11px;
+    font-weight: 600;
+    padding: 2px 9px;
+    border-radius: 999px;
+    flex-shrink: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+
+.cat_Character {
+    background: rgba(255, 106, 0, 0.12);
+    color: #d45a00;
+}
+
+.cat_Jutsu {
+    background: rgba(99, 153, 34, 0.15);
+    color: #4a8a00;
+}
+
+.cat_Clan {
+    background: rgba(80, 140, 200, 0.15);
+    color: #2266aa;
+}
+
+.cat_Item {
+    background: rgba(150, 80, 200, 0.12);
+    color: #7733bb;
 }

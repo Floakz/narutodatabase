@@ -7,15 +7,13 @@
     padding: 20px;
 }
 
-.topPageSpace {
-    display: flex;
-    justify-content: flex-end;
-    flex-direction: column;
-    align-items: flex-start;
-    height: 100px;
+.adSpace {
+    background-color: rgb(203, 203, 203);
+    width: 100%;
+    height: 110px;
+    margin: 0 0 20px 0;
+    border-radius: 5px;
 }
-
-
 
 
 /* ── Filter section — add these below ── */

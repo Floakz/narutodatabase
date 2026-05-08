@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(node -e ' *)"
+      "Bash(node -e ' *)",
+      "Bash(powershell -Command \"\\(Get-Content 'c:\\\\Users\\\\Corsair\\\\repos\\\\narutodatabase\\\\src\\\\data\\\\characters.json'\\) -replace '\\\\\"src/assets/', '\\\\\"/assets/' | Set-Content 'c:\\\\Users\\\\Corsair\\\\repos\\\\narutodatabase\\\\src\\\\data\\\\characters.json' -Encoding utf8\")",
+      "Bash(powershell -Command \"\\(Get-Content 'c:\\\\Users\\\\Corsair\\\\repos\\\\narutodatabase\\\\src\\\\data\\\\jutsus.json'\\) -replace '\\\\\"src/assets/', '\\\\\"/assets/' | Set-Content 'c:\\\\Users\\\\Corsair\\\\repos\\\\narutodatabase\\\\src\\\\data\\\\jutsus.json' -Encoding utf8\")",
+      "Bash(powershell -Command \"\\(Get-Content 'c:\\\\Users\\\\Corsair\\\\repos\\\\narutodatabase\\\\src\\\\data\\\\clans.json'\\) -replace '\\\\\"src/assets/', '\\\\\"/assets/' | Set-Content 'c:\\\\Users\\\\Corsair\\\\repos\\\\narutodatabase\\\\src\\\\data\\\\clans.json' -Encoding utf8\")",
+      "Bash(powershell -Command \"\\(Get-Content 'c:\\\\Users\\\\Corsair\\\\repos\\\\narutodatabase\\\\src\\\\data\\\\items.json'\\) -replace '\\\\\"src/assets/', '\\\\\"/assets/' | Set-Content 'c:\\\\Users\\\\Corsair\\\\repos\\\\narutodatabase\\\\src\\\\data\\\\items.json' -Encoding utf8\")"
     ]
   }
 }
