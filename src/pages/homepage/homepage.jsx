@@ -12,6 +12,7 @@ import ClanCard from "../../components/clanCard/clanCard";
 import styles from './homepage.module.css'
 import Footer from "../../components/footer/footer";
 import SectionHeader from "../../components/sectionHeader/sectionHeader";
+import { Link } from "react-router-dom";
 
 const PAGE_SIZE_1 = 10;
 const PAGE_SIZE_2 = 6;
@@ -42,28 +43,30 @@ export default function Homepage() {
                 <SectionHeader title="Most Popular Characters" link="/characters" cta="View All" />
                 <div className={styles['characters-grid']}>
                     {visibleCharacters.map((character) => (
-                        <CharacterCard
-                            key={character.id}
-                            name={character.name}
-                            image={character.images.profile}
-                            village={character.village}
-                            powerLevel={character.powerLevel}
-                        />
-                    ))}
+                        <Link to={`/characters/${character.id}`} style={{ textDecoration: 'none' }}>
+                            <CharacterCard
+                                key={character.id}
+                                name={character.name}
+                                image={character.images.profile}
+                                village={character.village}
+                                powerLevel={character.powerLevel}
+                            />
+                        </Link>))}
                 </div>
 
 
                 <SectionHeader title="Most known Jutsus" link="/jutsus" cta="View All" />
                 <div className={styles['jutsus-grid']}>
                     {visibleJutsus.map((jutsu) => (
-                        <JutsusCard
-                            key={jutsu.id}
-                            name={jutsu.name}
-                            image={jutsu.images.profile}
-                            type={jutsu.type}
-                            rank={jutsu.rank}
-                        />
-                    ))}
+                        <Link to={`/jutsus/${jutsu.id}`} style={{ textDecoration: 'none' }}>
+                            <JutsusCard
+                                key={jutsu.id}
+                                name={jutsu.name}
+                                image={jutsu.images.profile}
+                                type={jutsu.type}
+                                rank={jutsu.rank}
+                            />
+                        </Link>))}
                 </div>
 
 
