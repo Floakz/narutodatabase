@@ -230,7 +230,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/5.webp",
                 "others": []
             }
         },
@@ -257,7 +257,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/6.jfif",
                 "others": []
             }
         },
@@ -280,7 +280,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/7.webp",
                 "others": []
             }
         },
@@ -307,7 +307,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/8.webp",
                 "others": []
             }
         },
@@ -338,7 +338,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/9.webp",
                 "others": []
             }
         },
@@ -365,7 +365,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/10.webp",
                 "others": []
             }
         },
@@ -424,7 +424,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/11.webp",
                 "others": []
             }
         },
@@ -451,7 +451,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/12.webp",
                 "others": []
             }
         },
@@ -474,7 +474,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/13.webp",
                 "others": []
             }
         },
@@ -501,7 +501,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/14.webp",
                 "others": []
             }
         },
@@ -528,7 +528,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/15.webp",
                 "others": []
             }
         },
@@ -546,7 +546,7 @@
             ],
             "signatureJutsu": [],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/unknown.webp",
                 "others": []
             }
         },
@@ -573,7 +573,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/17.webp",
                 "others": []
             }
         },
@@ -596,7 +596,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/18.webp",
                 "others": []
             }
         },
@@ -623,7 +623,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/19.webp",
                 "others": []
             }
         },
@@ -641,7 +641,7 @@
             ],
             "signatureJutsu": [],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/unknown.webp",
                 "others": []
             }
         },
@@ -668,38 +668,7 @@
                 }
             ],
             "images": {
-                "profile": "",
-                "others": []
-            }
-        },
-        {
-            "id": 23,
-            "name": "Sarutobi",
-            "village": "Hidden Leaf Village",
-            "kekkeiGenkai": null,
-            "description": "One of Konoha's most storied clans, producing the Third Hokage and several elite jonin across generations.",
-            "notableMembers": [
-                {
-                    "id": 13,
-                    "name": "Hiruzen Sarutobi"
-                },
-                {
-                    "id": 56,
-                    "name": "Asuma Sarutobi"
-                },
-                {
-                    "id": 72,
-                    "name": "Konohamaru Sarutobi"
-                }
-            ],
-            "signatureJutsu": [
-                {
-                    "id": 48,
-                    "name": "Dead Demon Consuming Seal"
-                }
-            ],
-            "images": {
-                "profile": "",
+                "profile": "src/assets/clans/21.webp",
                 "others": []
             }
         },
@@ -717,7 +686,7 @@
             ],
             "signatureJutsu": [],
             "images": {
-                "profile": "",
+                "profile": "src/assets/clans/unknown.webp",
                 "others": []
             }
         }
