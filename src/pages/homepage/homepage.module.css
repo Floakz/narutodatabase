@@ -40,6 +40,11 @@
 
 
 .addPlacement {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8em;
+    font-weight: 800;
     background-color: rgb(219, 219, 219);
     border-radius: 5px;
     margin-top: 80px;

@@ -1,6 +1,53 @@
 import { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import styles from './menu.module.css';
+
+const OTHERS_CATEGORIES = ['Weapon', 'Item', 'Scroll', 'Building', 'Clothing', 'Artifact'];
+
+function OthersDropdown() {
+    const [open, setOpen] = useState(false);
+    const ref = useRef(null);
+    const navigate = useNavigate();
+
+    useEffect(() => {
+        const handler = (e) => {
+            if (ref.current && !ref.current.contains(e.target)) setOpen(false);
+        };
+        document.addEventListener('mousedown', handler);
+        return () => document.removeEventListener('mousedown', handler);
+    }, []);
+
+    return (
+        <li
+            ref={ref}
+            className={`${styles.menuItem} ${styles.othersItem}`}
+            onMouseEnter={() => setOpen(true)}
+            onMouseLeave={() => setOpen(false)}
+        >
+            <a href="/others">Others</a>
+            <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
+                className={`${styles.othersChevron} ${open ? styles.othersChevronOpen : ''}`}>
+                <path d="M6 9L12 15L18 9" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
+            {open && (
+                <div className={styles.othersPanel}>
+                    <a href="/others" className={styles.othersPanelAll}>All Items</a>
+                    <div className={styles.othersDivider} />
+                    {OTHERS_CATEGORIES.map((cat) => (
+                        <button
+                            key={cat}
+                            className={styles.othersPanelItem}
+                            onMouseDown={() => { navigate(`/others?category=${cat}`); setOpen(false); }}
+                            type="button"
+                        >
+                            {cat}
+                        </button>
+                    ))}
+                </div>
+            )}
+        </li>
+    );
+}
 import SiteSmallHeader from '../siteSmallHeader/siteSmallHeader';
 
 import charactersData from '../../data/characters.json';
@@ -9,10 +56,10 @@ import clansData from '../../data/clans.json';
 import itemsData from '../../data/items.json';
 
 const ALL_ENTRIES = [
-    ...charactersData.characters.map((c) => ({ name: c.name, category: 'Character', route: '/characters' })),
-    ...jutsusData.jutsus.map((j) => ({ name: j.name, category: 'Jutsu', route: '/jutsus' })),
-    ...clansData.clans.map((c) => ({ name: c.name, category: 'Clan', route: '/clans' })),
-    ...itemsData.items.map((i) => ({ name: i.name, category: 'Item', route: '/others' })),
+    ...charactersData.characters.map((c) => ({ name: c.name, category: 'Character', route: `/characters/${c.id}` })),
+    ...jutsusData.jutsus.map((j) => ({ name: j.name, category: 'Jutsu', route: `/jutsus/${j.id}` })),
+    ...clansData.clans.map((c) => ({ name: c.name, category: 'Clan', route: `/clans/${c.id}` })),
+    ...itemsData.items.map((i) => ({ name: i.name, category: 'Item', route: `/others/${i.id}` })),
 ];
 
 function SearchBar() {
@@ -106,7 +153,6 @@ export default function Menu() {
         { name: 'Characters', link: '/characters' },
         { name: 'Jutsus', link: '/jutsus' },
         { name: 'Clans', link: '/clans' },
-        { name: 'Others', link: '/others' },
     ];
 
     return (
@@ -120,13 +166,9 @@ export default function Menu() {
                         {menuItems.map((item, index) => (
                             <li key={index} className={styles.menuItem}>
                                 <a href={item.link}>{item.name}</a>
-                                {item.name === 'Others' && (
-                                    <svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <path d="M6 9L12 15L18 9" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
-                                    </svg>
-                                )}
                             </li>
                         ))}
+                        <OthersDropdown />
                     </ul>
                     <SearchBar />
                 </div>

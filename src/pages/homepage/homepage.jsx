@@ -20,6 +20,13 @@ const PAGE_SIZE_3 = 4;
 
 export default function Homepage() {
 
+    const clanCoverHomepage = [
+        'assets/homeCover/uchia-clan-home-cover.webp',
+        'assets/homeCover/senju-clan-home-cover.webp',
+        'assets/homeCover/uzumaki-clan-home-cover.webp',
+        'assets/homeCover/hyuga-clan-home-cover.webp',
+    ]
+
     const characters = charactersData.characters
     const justsus = jutsuData.jutsus
     const clans = clanData.clans
@@ -76,18 +83,19 @@ export default function Homepage() {
                         <SectionHeader title="World Clans" link="/clans" cta="View All" />
                         <div className={styles['clans-grid']}>
                             {visibleClans.map((clan) => (
-                                <ClanCard
-                                    key={clan.id}
-                                    name={clan.name}
-                                    image={clan.images.profile}
-                                    village={clan.village}
-                                />
+                                <Link to={`/clans/${clan.id}`} key={clan.id} style={{ textDecoration: 'none' }}>
+                                    <ClanCard
+                                        name={clan.name}
+                                        image={clanCoverHomepage[clan.id - 1]}
+                                        village={clan.village}
+                                    />
+                                </Link>
                             ))}
                         </div>
                     </div>
 
                     <div className={styles.addPlacement}>
-
+                        SPACE FOR AD
                     </div>
 
 
@@ -97,13 +105,14 @@ export default function Homepage() {
 
                 <SectionHeader title="Other Interesting Things" link="/others" cta="View All" />
                 <div className={styles['items-grid']}>
-                    {visibleItems.map((items) => (
-                        <ItemsCard
-                            key={items.id}
-                            name={items.name}
-                            image={items.images.profile}
-                            category={items.category}
-                        />
+                    {visibleItems.map((item) => (
+                        <Link to={`/others/${item.id}`} key={item.id} style={{ textDecoration: 'none' }}>
+                            <ItemsCard
+                                name={item.name}
+                                image={item.images.profile}
+                                category={item.category}
+                            />
+                        </Link>
                     ))}
                 </div>
 

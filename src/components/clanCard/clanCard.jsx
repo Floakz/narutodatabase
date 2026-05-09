@@ -10,7 +10,7 @@ export default function ClanCard({ name, image, village, powerLevel }) {
             <div className={styles.overlay} />
             <div className={styles.info}>
                 <h2 className={styles.name}>{name}</h2>
-                <p className={styles.village}>{village}</p>
+
             </div>
         </div>
     )

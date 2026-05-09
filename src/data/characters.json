@@ -7,17 +7,24 @@
             "clan": "Uzumaki",
             "powerLevel": 98,
             "description": "The Seventh Hokage and hero of the Fourth Shinobi World War. Jinchuriki of Kurama, the Nine-Tails fox.",
+            "extendedDescription": "After years of loneliness as the village outcast, Naruto fought through every hardship with unwavering determination, ultimately befriending even the Nine-Tailed Fox sealed within him. His mastery of Sage Mode, Rasengan variants, and Six Paths chakra made him nearly invincible during the Fourth Shinobi World War, where he single-handedly sustained the entire Allied Shinobi Forces. As Seventh Hokage, he fulfilled his lifelong dream of being acknowledged by his village while protecting the next generation.",
             "images": {
                 "profile": "/assets/characters/1.webp",
-                "others": []
+                "others": [
+                    "/assets/characters/others/1/1.webp",
+                    "/assets/characters/others/1/2.webp",
+                    "/assets/characters/others/1/3.webp",
+                    "/assets/characters/others/1/4.webp",
+                    "/assets/characters/others/1/5.webp"
+                ]
             },
             "chakraType": [
                 "Wind"
             ],
             "stats": {
-                "attack": "95/100",
-                "defense": "85/100",
-                "utility": "90/100",
+                "power": "95/100",
+                "chakra": "85/100",
+                "intelligence": "90/100",
                 "rank": "Hokage"
             }
         },
@@ -28,18 +35,27 @@
             "clan": "Uchiha",
             "powerLevel": 97,
             "description": "The last loyal member of the Uchiha clan and Naruto's eternal rival. Wielder of the Rinnegan and Sharingan.",
+            "extendedDescription": "Driven by grief and revenge after his brother Itachi massacred the Uchiha clan, Sasuke walked a dark path that took him to the brink of becoming the very evil he sought to destroy. After learning the truth about Itachi's sacrifice and confronting the cycle of hatred head-on, he chose redemption and became a guardian of the shinobi world. Wielding both the Eternal Mangekyo Sharingan and a Rinnegan granted by Hagoromo, he stands as Naruto's eternal counterpart — the darkness that defines the light.",
             "images": {
                 "profile": "/assets/characters/2.webp",
-                "others": []
+                "others": [
+                    "/assets/characters/others/2/1.webp",
+                    "/assets/characters/others/2/2.webp",
+                    "/assets/characters/others/2/3.webp",
+                    "/assets/characters/others/2/4.webp",
+                    "/assets/characters/others/2/5.webp",
+                    "/assets/characters/others/2/6.webp",
+                    "/assets/characters/others/2/7.webp"
+                ]
             },
             "chakraType": [
                 "Lightning",
                 "Fire"
             ],
             "stats": {
-                "attack": "95/100",
-                "defense": "85/100",
-                "utility": "90/100",
+                "power": "95/100",
+                "chakra": "85/100",
+                "intelligence": "90/100",
                 "rank": "Jonin"
             }
         },
@@ -50,18 +66,25 @@
             "clan": "Haruno",
             "powerLevel": 75,
             "description": "A medical ninja and one of the strongest kunoichi in the world. Student of Tsunade.",
+            "extendedDescription": "Once dismissed as the weakest member of Team 7, Sakura transformed under Tsunade's brutal training into a kunoichi of extraordinary power. Her superhuman chakra control allows her to concentrate devastating force into a single strike, capable of shattering the earth and overpowering opponents far larger than herself. As the world's foremost medical ninja, she has saved countless lives on the battlefield and surpassed her legendary master in both healing and combat.",
             "images": {
                 "profile": "/assets/characters/3.webp",
-                "others": []
+                "others": [
+                    "/assets/characters/others/3/1.webp",
+                    "/assets/characters/others/3/2.webp",
+                    "/assets/characters/others/3/3.webp",
+                    "/assets/characters/others/3/4.webp",
+                    "/assets/characters/others/3/5.webp"
+                ]
             },
             "chakraType": [
                 "Water",
                 "Earth"
             ],
             "stats": {
-                "attack": "75/100",
-                "defense": "65/100",
-                "utility": "85/100",
+                "power": "75/100",
+                "chakra": "65/100",
+                "intelligence": "85/100",
                 "rank": "Jonin"
             }
         },
@@ -72,6 +95,7 @@
             "clan": "Hatake",
             "powerLevel": 89,
             "description": "The Copy Ninja and former Sixth Hokage. Known for copying over a thousand jutsu with his Sharingan.",
+            "extendedDescription": "Legendary as the Copy Ninja who replicated over a thousand techniques using his gifted Sharingan, Kakashi Hatake rose to become one of Konoha's most celebrated shinobi. Burdened by the losses of his teammates Obito and Rin, he channeled his grief into becoming an exceptional teacher and leader, guiding Team 7 to greatness. As the Sixth Hokage, he temporarily led the village with wisdom and calm before passing the mantle to Naruto.",
             "images": {
                 "profile": "/assets/characters/4.webp",
                 "others": []
@@ -80,9 +104,9 @@
                 "Lightning"
             ],
             "stats": {
-                "attack": "80/100",
-                "defense": "75/100",
-                "utility": "95/100",
+                "power": "80/100",
+                "chakra": "75/100",
+                "intelligence": "95/100",
                 "rank": "Jonin"
             }
         },
@@ -93,6 +117,7 @@
             "clan": "Uchiha",
             "powerLevel": 96,
             "description": "A prodigy who massacred his clan to protect the village. One of the most powerful Uchiha to ever live.",
+            "extendedDescription": "Born a prodigy who awakened his Sharingan at age 8 and became an ANBU captain at 13, Itachi Uchiha bore a burden no child should ever carry — ordered to slaughter his own clan to prevent a coup that would destroy Konoha. He played the role of villain for years, enduring hatred from his brother while dying slowly from illness, all to protect the village and the brother he loved most. Posthumously revealed as a true hero, Itachi's name was cleared and his legacy stands as the ultimate sacrifice.",
             "images": {
                 "profile": "/assets/characters/5.webp",
                 "others": []
@@ -105,9 +130,9 @@
                 "Lightning"
             ],
             "stats": {
-                "attack": "90/100",
-                "defense": "85/100",
-                "utility": "95/100",
+                "power": "90/100",
+                "chakra": "85/100",
+                "intelligence": "95/100",
                 "rank": "ANBU"
             }
         },
@@ -118,6 +143,7 @@
             "clan": "Namikaze",
             "powerLevel": 96,
             "description": "The Fourth Hokage and Naruto's father. Known as the Yellow Flash for his unmatched speed with the Flying Thunder God technique.",
+            "extendedDescription": "Considered the most gifted shinobi of his generation, Minato Namikaze developed the Flying Thunder God technique to a level that made him nearly untouchable in battle, earning him the fearsome title Yellow Flash. Even Jiraiya admitted he had never taught a student as talented as Minato, who independently developed both the Rasengan and a complex barrier seal. He gave his life on the night of Naruto's birth, sealing Kurama within his newborn son to protect the village he loved.",
             "images": {
                 "profile": "/assets/characters/6.webp",
                 "others": []
@@ -126,9 +152,9 @@
                 "Wind"
             ],
             "stats": {
-                "attack": "90/100",
-                "defense": "78/100",
-                "utility": "98/100",
+                "power": "90/100",
+                "chakra": "78/100",
+                "intelligence": "98/100",
                 "rank": "Hokage"
             }
         },
@@ -139,6 +165,7 @@
             "clan": null,
             "powerLevel": 92,
             "description": "One of the Legendary Sannin and Naruto's godfather. A sage who mastered Sage Mode and trained the Fourth Hokage.",
+            "extendedDescription": "A legendary Sannin who spent decades wandering the world gathering intelligence, training students, and writing novels that paradoxically became sacred texts in the shinobi world. Jiraiya mastered Sage Mode from Mount Myoboku, channeling nature energy to amplify his already formidable power. He trained both Minato Namikaze and Naruto Uzumaki, shaping two generations of heroes, before sacrificing himself against Pain to send a final coded message that saved Konoha.",
             "images": {
                 "profile": "/assets/characters/7.webp ",
                 "others": []
@@ -151,9 +178,9 @@
                 "Lightning"
             ],
             "stats": {
-                "attack": "85/100",
-                "defense": "75/100",
-                "utility": "88/100",
+                "power": "85/100",
+                "chakra": "75/100",
+                "intelligence": "88/100",
                 "rank": "Jonin"
             }
         },
@@ -164,6 +191,7 @@
             "clan": "Senju",
             "powerLevel": 88,
             "description": "The Fifth Hokage and one of the Legendary Sannin. The greatest medical ninja in history.",
+            "extendedDescription": "The granddaughter of Hashirama Senju and one of the legendary Sannin, Tsunade revolutionized the practice of medical ninjutsu and raised it to an art form. Her Strength of a Hundred Seal releases stored chakra to grant near-immortal regeneration and superhuman physical might powerful enough to crack entire landscapes. Though she stepped away from shinobi life after losing her lover Dan and brother Nawaki, she returned to become the Fifth Hokage and lead Konoha through some of its darkest hours.",
             "images": {
                 "profile": "/assets/characters/8.webp",
                 "others": []
@@ -173,9 +201,9 @@
                 "Earth"
             ],
             "stats": {
-                "attack": "90/100",
-                "defense": "85/100",
-                "utility": "88/100",
+                "power": "90/100",
+                "chakra": "85/100",
+                "intelligence": "88/100",
                 "rank": "Hokage"
             }
         },
@@ -186,6 +214,7 @@
             "clan": null,
             "powerLevel": 90,
             "description": "One of the Legendary Sannin obsessed with immortality and forbidden jutsu. Former member of Akatsuki.",
+            "extendedDescription": "Once a candidate for Hokage, Orochimaru's obsessive pursuit of immortality and all the world's jutsu drove him to perform horrific experiments on subordinates and abandon any moral restraint. He developed terrifying techniques including the Living Corpse Reincarnation that transfers his soul between bodies, making him effectively deathless. Centuries of accumulated knowledge, a serpentine body capable of seemingly infinite regeneration, and mastery of forbidden jutsu make him one of the most dangerous and unpredictable figures in the shinobi world.",
             "images": {
                 "profile": "/assets/characters/9.webp",
                 "others": []
@@ -198,9 +227,9 @@
                 "Water"
             ],
             "stats": {
-                "attack": "80/100",
-                "defense": "85/100",
-                "utility": "95/100",
+                "power": "80/100",
+                "chakra": "85/100",
+                "intelligence": "95/100",
                 "rank": "Missing-nin"
             }
         },
@@ -211,6 +240,7 @@
             "clan": "Uchiha",
             "powerLevel": 99,
             "description": "The legendary leader of the Uchiha clan and co-founder of Hidden Leaf Village. One of the most powerful shinobi in history.",
+            "extendedDescription": "Universally feared as the strongest shinobi of his era, Madara Uchiha possessed a combination of battle genius, raw power, and sheer chakra reserves that made him a one-man army. After awakening both the Eternal Mangekyo Sharingan and the Rinnegan, he orchestrated a century-long plan to cast the entire world into the Infinite Tsukuyomi. Even after being reanimated as an undead warrior, he dominated the entire Allied Shinobi Forces single-handedly before achieving his ultimate Rinne-Sharingan transformation.",
             "images": {
                 "profile": "/assets/characters/10.webp",
                 "others": []
@@ -225,9 +255,9 @@
                 "Yang"
             ],
             "stats": {
-                "attack": "98/100",
-                "defense": "92/100",
-                "utility": "90/100",
+                "power": "98/100",
+                "chakra": "92/100",
+                "intelligence": "90/100",
                 "rank": "Kage"
             }
         },
@@ -238,6 +268,7 @@
             "clan": "Senju",
             "powerLevel": 99,
             "description": "The First Hokage and co-founder of Hidden Leaf Village. Known as the God of Shinobi, wielder of Wood Release.",
+            "extendedDescription": "Revered across all five nations as the God of Shinobi, Hashirama Senju possessed a unique Wood Release kekkei genkai that could restrain tailed beasts with ease and birth forests from bare earth. His vitality and regenerative abilities were so extraordinary that he never needed medical ninjutsu, healing from grievous wounds almost instantaneously. As the First Hokage, he founded the village system, distributed tailed beasts as a form of peace, and created a legacy so towering that shinobi still measure power against his standard centuries later.",
             "images": {
                 "profile": "/assets/characters/11.webp",
                 "others": []
@@ -249,9 +280,9 @@
                 "Yang"
             ],
             "stats": {
-                "attack": "95/100",
-                "defense": "95/100",
-                "utility": "88/100",
+                "power": "95/100",
+                "chakra": "95/100",
+                "intelligence": "88/100",
                 "rank": "Hokage"
             }
         },
@@ -262,6 +293,7 @@
             "clan": "Senju",
             "powerLevel": 91,
             "description": "The Second Hokage and creator of many foundational jutsu including the Shadow Clone and Reanimation techniques.",
+            "extendedDescription": "The Second Hokage and the brilliant architect of many foundational systems that still define Konoha today, including the Ninja Academy, ANBU, the Chunin Exam system, and the Bingo Book. He may be the most prolific jutsu inventor in history, creating the Flying Thunder God, Shadow Clone, Reanimation, and numerous water-style techniques. Despite his cold, calculating nature and admitted bias against the Uchiha clan, he served Konoha with absolute devotion and died fighting to protect his comrades.",
             "images": {
                 "profile": "/assets/characters/12.webp",
                 "others": []
@@ -276,9 +308,9 @@
                 "Yang"
             ],
             "stats": {
-                "attack": "85/100",
-                "defense": "78/100",
-                "utility": "95/100",
+                "power": "85/100",
+                "chakra": "78/100",
+                "intelligence": "95/100",
                 "rank": "Hokage"
             }
         },
@@ -289,6 +321,7 @@
             "clan": "Sarutobi",
             "powerLevel": 88,
             "description": "The Third Hokage, known as the God of Shinobi in his era. Mastered all five basic nature transformations.",
+            "extendedDescription": "The longest-serving Hokage and a man who witnessed and participated in nearly every major conflict in Konoha's history, Hiruzen earned the title God of Shinobi in his prime for his unmatched mastery of all five basic nature transformations and dozens of jutsu. As a teacher, he trained the legendary Sannin, leaving behind a legacy that shaped the shinobi world for generations. In his final act, he sacrificed his own life to seal away Orochimaru's arms, robbing the traitor of his jutsu at the cost of his own.",
             "images": {
                 "profile": "/assets/characters/13.webp",
                 "others": []
@@ -301,9 +334,9 @@
                 "Water"
             ],
             "stats": {
-                "attack": "82/100",
-                "defense": "78/100",
-                "utility": "88/100",
+                "power": "82/100",
+                "chakra": "78/100",
+                "intelligence": "88/100",
                 "rank": "Hokage"
             }
         },
@@ -314,6 +347,7 @@
             "clan": "Uzumaki",
             "powerLevel": 94,
             "description": "The leader of Akatsuki who sought peace through pain. Wielder of the Rinnegan and the Six Paths of Pain.",
+            "extendedDescription": "Born an Uzumaki orphan whose latent Rinnegan was secretly cultivated by Madara, Nagato channeled the grief of watching his friends die into a twisted philosophy: that only catastrophic pain shared by all could end the cycle of war. Channeling his power through six reanimated corpses known as the Six Paths of Pain, he obliterated Konoha in a single assault. Yet when Naruto confronted him not with force but with faith in a better future, Nagato chose to sacrifice his remaining life to resurrect those he had killed.",
             "images": {
                 "profile": "/assets/characters/14.webp",
                 "others": []
@@ -328,9 +362,9 @@
                 "Yang"
             ],
             "stats": {
-                "attack": "92/100",
-                "defense": "85/100",
-                "utility": "90/100",
+                "power": "92/100",
+                "chakra": "85/100",
+                "intelligence": "90/100",
                 "rank": "Missing-nin"
             }
         },
@@ -341,6 +375,7 @@
             "clan": null,
             "powerLevel": 78,
             "description": "Co-founder of Akatsuki and Pain's partner. Master of paper-based jutsu and the only female Akatsuki member.",
+            "extendedDescription": "The only female founding member of Akatsuki, Konan's calm exterior concealed a fierce loyalty to Nagato and a devastating mastery of paper-based ninjutsu that let her transform her body and surroundings into billions of explosive paper bombs. Her ultimate technique required 600 billion paper bombs detonating continuously for ten minutes — a trap that nearly killed Obito Uchiha. After Nagato's death, she became the guardian of the Rain Village, defending his memory until her last breath.",
             "images": {
                 "profile": "/assets/characters/15.webp",
                 "others": []
@@ -350,9 +385,9 @@
                 "Water"
             ],
             "stats": {
-                "attack": "72/100",
-                "defense": "70/100",
-                "utility": "78/100",
+                "power": "72/100",
+                "chakra": "70/100",
+                "intelligence": "78/100",
                 "rank": "Missing-nin"
             }
         },
@@ -363,6 +398,7 @@
             "clan": "Uchiha",
             "powerLevel": 93,
             "description": "A former Konoha ninja who became the true leader of Akatsuki under the alias Tobi. Wielder of the Mangekyo Sharingan and Rinnegan.",
+            "extendedDescription": "A cheerful, kind-hearted boy who dreamed of becoming Hokage, Obito was shattered by the death of Rin and twisted by Madara's manipulation into believing the world was not worth saving. Wielding the Kamui space-time ninjutsu that made him intangible, and later controlling the Nine-Tails and launching the Fourth Shinobi World War, he became the orchestrator of unimaginable tragedy. Yet in his final moments, Obito sacrificed himself to protect Kakashi and Naruto, dying as the hero he always wanted to be.",
             "images": {
                 "profile": "/assets/characters/16.webp",
                 "others": []
@@ -377,9 +413,9 @@
                 "Yang"
             ],
             "stats": {
-                "attack": "88/100",
-                "defense": "90/100",
-                "utility": "92/100",
+                "power": "88/100",
+                "chakra": "90/100",
+                "intelligence": "92/100",
                 "rank": "Missing-nin"
             }
         },
@@ -390,6 +426,7 @@
             "clan": "Hoshigaki",
             "powerLevel": 87,
             "description": "A former member of the Seven Ninja Swordsmen of the Mist and Akatsuki member. Known as the Tailless Tailed Beast.",
+            "extendedDescription": "One of the most powerful members of Akatsuki, Kisame was feared throughout the shinobi world for his monstrous chakra reserves — rivaling those of a tailed beast — and his symbiotic bond with Samehada, the living sword that devours chakra. His Water-style techniques were capable of generating entire oceans of water in seconds, transforming any battlefield into his personal domain. Even in his final moments, he chose to feed himself to his own summoned sharks rather than allow Konoha to extract his secrets.",
             "images": {
                 "profile": "/assets/characters/17.webp",
                 "others": []
@@ -398,9 +435,9 @@
                 "Water"
             ],
             "stats": {
-                "attack": "85/100",
-                "defense": "80/100",
-                "utility": "75/100",
+                "power": "85/100",
+                "chakra": "80/100",
+                "intelligence": "75/100",
                 "rank": "Missing-nin"
             }
         },
@@ -411,6 +448,7 @@
             "clan": null,
             "powerLevel": 82,
             "description": "An Akatsuki member and explosive clay artist who views his deadly detonations as the ultimate art form.",
+            "extendedDescription": "An S-rank missing-nin who turned his Explosion Release kekkei genkai into a philosophy, viewing every detonation as a fleeting masterpiece of art. He infused chakra-molded clay into his opponents, triggering explosions ranging in scale from microscopic to nuclear. His ultimate technique, C0, converted his entire body into a colossal bomb — a final, beautiful explosion he deemed his greatest artwork.",
             "images": {
                 "profile": "/assets/characters/18.webp",
                 "others": []
@@ -420,9 +458,9 @@
                 "Lightning"
             ],
             "stats": {
-                "attack": "85/100",
-                "defense": "55/100",
-                "utility": "72/100",
+                "power": "85/100",
+                "chakra": "55/100",
+                "intelligence": "72/100",
                 "rank": "Missing-nin"
             }
         },
@@ -433,6 +471,7 @@
             "clan": null,
             "powerLevel": 83,
             "description": "A puppet master from Hidden Sand Village who converted his own body into a puppet. Akatsuki member.",
+            "extendedDescription": "A puppeteer of unparalleled genius from Sunagakure, Sasori was so devoted to the art of puppet mastery that he converted his own living body into a puppet, achieving a form of immortality. He controlled over 298 human puppets simultaneously, each loaded with poisons, blades, and fire-spewing mechanisms. His ultimate weapon, the Third Kazekage puppet imbued with Iron Sand, is considered the most fearsome puppet ever created.",
             "images": {
                 "profile": "/assets/characters/19.webp",
                 "others": []
@@ -443,9 +482,9 @@
                 "Fire"
             ],
             "stats": {
-                "attack": "80/100",
-                "defense": "78/100",
-                "utility": "82/100",
+                "power": "80/100",
+                "chakra": "78/100",
+                "intelligence": "82/100",
                 "rank": "Missing-nin"
             }
         },
@@ -456,6 +495,7 @@
             "clan": null,
             "powerLevel": 75,
             "description": "An immortal Akatsuki member who worships the death god Jashin and uses a ritual curse jutsu.",
+            "extendedDescription": "A foul-mouthed, immortal zealot who worshipped the death god Jashin, Hidan was impossible to kill through conventional means — surviving decapitation and any wound that would be fatal to normal shinobi. His Jashin ritual linked his body to a target through their blood, transferring every wound he inflicted on himself to them with lethal effect. Only Shikamaru Nara's cold ingenuity ultimately rendered him harmless, burying him alive and severed from his body in the Nara forest.",
             "images": {
                 "profile": "/assets/characters/20.webp",
                 "others": []
@@ -464,9 +504,9 @@
                 "Water"
             ],
             "stats": {
-                "attack": "70/100",
-                "defense": "95/100",
-                "utility": "40/100",
+                "power": "70/100",
+                "chakra": "95/100",
+                "intelligence": "40/100",
                 "rank": "Missing-nin"
             }
         },
@@ -477,6 +517,7 @@
             "clan": null,
             "powerLevel": 84,
             "description": "An immortal Akatsuki member who can use all five nature transformations after stealing hearts from other ninja.",
+            "extendedDescription": "An ancient shinobi from Hidden Waterfall Village who had survived long enough to fight Hashirama Senju himself, Kakuzu achieved near-immortality by stealing five additional hearts from powerful opponents and stitching them into himself using dark tendrils. Each heart corresponded to a different nature transformation, making him one of the few ninja capable of using all five. He was finally defeated by Naruto's Wind Release Rasenshuriken, a technique powerful enough to destroy multiple hearts at once.",
             "images": {
                 "profile": "/assets/characters/21.webp",
                 "others": []
@@ -489,9 +530,9 @@
                 "Water"
             ],
             "stats": {
-                "attack": "82/100",
-                "defense": "88/100",
-                "utility": "75/100",
+                "power": "82/100",
+                "chakra": "88/100",
+                "intelligence": "75/100",
                 "rank": "Missing-nin"
             }
         },
@@ -502,6 +543,7 @@
             "clan": null,
             "powerLevel": 72,
             "description": "A dual-natured Akatsuki member created by Kaguya. Acts as spy and information gatherer for the organization.",
+            "extendedDescription": "A being created directly from the husk of Kaguya Otsutsuki, Zetsu served as Akatsuki's spy, infiltrator, and the secret hand behind decades of manipulation. His dual White and Black halves represented conflicting aspects of his creator's will — one acting as an eager subordinate, the other as the cold vessel of Madara's plans. Black Zetsu ultimately revealed his true allegiance to Kaguya and orchestrated the revival of his progenitor by manipulating Madara at the critical moment.",
             "images": {
                 "profile": "/assets/characters/22.webp",
                 "others": []
@@ -513,9 +555,9 @@
                 "Yang"
             ],
             "stats": {
-                "attack": "45/100",
-                "defense": "55/100",
-                "utility": "95/100",
+                "power": "45/100",
+                "chakra": "55/100",
+                "intelligence": "95/100",
                 "rank": "Unknown"
             }
         },
@@ -526,15 +568,16 @@
             "clan": null,
             "powerLevel": 100,
             "description": "The legendary owner of Ichiraku Ramen and Naruto's most important person. Some say his true power level is immeasurable.",
+            "extendedDescription": "The beloved owner of Ichiraku Ramen in the Hidden Leaf Village, Teuchi holds a unique place in the Naruto universe as Naruto's greatest source of comfort and joy throughout his life. His ramen, particularly the miso ramen with extra pork, is considered by Naruto to be the greatest food in the world. Though not a shinobi, Teuchi's warmth, consistency, and refusal to treat Naruto as an outcast made him one of the few people who helped keep Naruto's spirit alive during his loneliest years.",
             "images": {
                 "profile": "/assets/characters/23.webp",
                 "others": []
             },
             "chakraType": [],
             "stats": {
-                "attack": "100/100",
-                "defense": "100/100",
-                "utility": "100/100",
+                "power": "100/100",
+                "chakra": "100/100",
+                "intelligence": "100/100",
                 "rank": "Civilian"
             }
         },
@@ -545,15 +588,16 @@
             "clan": null,
             "powerLevel": 76,
             "description": "A taijutsu specialist who cannot use ninjutsu or genjutsu. His determination and hard work made him an elite shinobi.",
+            "extendedDescription": "A shinobi born without the ability to mold chakra for ninjutsu or genjutsu, Rock Lee refused to accept that as a limitation and dedicated every waking moment to mastering taijutsu beyond any human standard. Under Guy's guidance, he unlocked the Eight Inner Gates, achieving power that temporarily surpassed even a Kage at the cost of devastating physical strain. His match against Gaara in the Chunin Exams — where he removed his training weights and moved faster than the eye could follow — is considered one of the most inspiring battles in the series.",
             "images": {
                 "profile": "/assets/characters/24.webp",
                 "others": []
             },
             "chakraType": [],
             "stats": {
-                "attack": "85/100",
-                "defense": "60/100",
-                "utility": "40/100",
+                "power": "85/100",
+                "chakra": "60/100",
+                "intelligence": "40/100",
                 "rank": "Jonin"
             }
         },
@@ -564,6 +608,7 @@
             "clan": "Hyuga",
             "powerLevel": 79,
             "description": "A genius of the Hyuga clan who mastered the Byakugan and the Gentle Fist fighting style.",
+            "extendedDescription": "A genius of the Hyuga clan who was born into the branch family and branded with a curse seal, Neji initially carried bitterness about destiny that hardened him into a cold prodigy. Defeated by Naruto, who proved that fate could be defied, Neji opened himself to growth and became one of the most skilled young shinobi in Konoha. His mastery of the Gentle Fist style and his 360-degree Byakugan vision made him nearly impossible to approach in battle, and he died protecting Naruto and Hinata in the Fourth Shinobi World War.",
             "images": {
                 "profile": "/assets/characters/25.webp",
                 "others": []
@@ -573,9 +618,9 @@
                 "Earth"
             ],
             "stats": {
-                "attack": "78/100",
-                "defense": "80/100",
-                "utility": "75/100",
+                "power": "78/100",
+                "chakra": "80/100",
+                "intelligence": "75/100",
                 "rank": "Jonin"
             }
         },
@@ -586,6 +631,7 @@
             "clan": null,
             "powerLevel": 65,
             "description": "A weapons specialist from Team Guy who can summon and wield any weapon with exceptional precision.",
+            "extendedDescription": "A weapons specialist who dreamed of becoming as legendary as Tsunade, Tenten trained tirelessly to wield any weapon with perfect precision and learned to store arsenals in scrolls for instant deployment. Though often overshadowed by her teammates Lee and Neji, her technical mastery and knowledge of weaponry are unmatched among her peers. In the Fourth Shinobi World War, she briefly wielded the legendary Sage tools of Hagoromo, demonstrating a latent potential that had long gone unrecognized.",
             "images": {
                 "profile": "/assets/characters/26.webp",
                 "others": []
@@ -594,9 +640,9 @@
                 "Fire"
             ],
             "stats": {
-                "attack": "70/100",
-                "defense": "55/100",
-                "utility": "65/100",
+                "power": "70/100",
+                "chakra": "55/100",
+                "intelligence": "65/100",
                 "rank": "Chunin"
             }
         },
@@ -607,15 +653,16 @@
             "clan": null,
             "powerLevel": 88,
             "description": "The master of taijutsu and Rock Lee's teacher. Pushed the Eight Gates to their absolute limit to fight Madara.",
+            "extendedDescription": "The master of Konoha's Green Beast, Might Guy dedicated his entire existence to the path of hard work and physical training, believing that effort alone could surpass natural talent. Opening the Eighth Inner Gate against Madara Uchiha — the most powerful shinobi alive — he unleashed a level of power that Madara himself described as the most dangerous technique in existence. Though the effort left him on death's doorstep, Naruto's power kept him alive, and Guy stands as proof that passion and perseverance can reach the pinnacle of human strength.",
             "images": {
                 "profile": "/assets/characters/27.webp",
                 "others": []
             },
             "chakraType": [],
             "stats": {
-                "attack": "95/100",
-                "defense": "70/100",
-                "utility": "45/100",
+                "power": "95/100",
+                "chakra": "70/100",
+                "intelligence": "45/100",
                 "rank": "Jonin"
             }
         },
@@ -626,6 +673,7 @@
             "clan": "Nara",
             "powerLevel": 74,
             "description": "A strategic genius who uses Shadow Possession jutsu. Became Naruto's chief advisor as Hokage.",
+            "extendedDescription": "The laziest genius in Konoha, Shikamaru carries an IQ over 200 and the ability to project and control shadows with his clan's signature jutsu. He became the first of his graduating class to reach jonin rank and went on to serve as Naruto's chief strategist and adviser. Despite his preference for doing as little as possible, Shikamaru consistently steps up in the most critical moments, defeating powerful opponents through trap-setting and multi-step thinking that leaves enemies with no escape route.",
             "images": {
                 "profile": "/assets/characters/28.webp",
                 "others": []
@@ -636,9 +684,9 @@
                 "Fire"
             ],
             "stats": {
-                "attack": "65/100",
-                "defense": "68/100",
-                "utility": "95/100",
+                "power": "65/100",
+                "chakra": "68/100",
+                "intelligence": "95/100",
                 "rank": "Jonin"
             }
         },
@@ -649,6 +697,7 @@
             "clan": "Akimichi",
             "powerLevel": 70,
             "description": "A member of the Akimichi clan who can expand his body to tremendous size using calorie-based jutsu.",
+            "extendedDescription": "A gentle-hearted shinobi who was often underestimated due to his size, Choji's clan jutsu allows him to convert calories into chakra and expand body parts to monstrous proportions. His butterfly transformation, achieved through the Akimichi clan's last-resort pills, made him powerful enough to fight Akatsuki-level opponents. His friendship with Shikamaru is one of the most heartfelt bonds in the series, and Choji proved that kindness and determination are strengths in their own right.",
             "images": {
                 "profile": "/assets/characters/29.webp",
                 "others": []
@@ -658,9 +707,9 @@
                 "Yang"
             ],
             "stats": {
-                "attack": "78/100",
-                "defense": "72/100",
-                "utility": "55/100",
+                "power": "78/100",
+                "chakra": "72/100",
+                "intelligence": "55/100",
                 "rank": "Chunin"
             }
         },
@@ -671,6 +720,7 @@
             "clan": "Yamanaka",
             "powerLevel": 68,
             "description": "A kunoichi who specializes in mind-transfer jutsu. Part of the Ino-Shika-Cho formation with Shikamaru and Choji.",
+            "extendedDescription": "A kunoichi known for her strong personality and her clan's unique mind-transfer techniques, Ino can project her consciousness into an opponent's body to take control of their movements. In the Fourth Shinobi World War, she became the mental linchpin of the Allied Shinobi Forces, connecting the entire army's minds telepathically through her advanced sensory abilities. She later became the head of the Yamanaka clan and a key member of Konoha's Sensor Division.",
             "images": {
                 "profile": "/assets/characters/30.webp",
                 "others": []
@@ -681,9 +731,9 @@
                 "Yin"
             ],
             "stats": {
-                "attack": "55/100",
-                "defense": "55/100",
-                "utility": "85/100",
+                "power": "55/100",
+                "chakra": "55/100",
+                "intelligence": "85/100",
                 "rank": "Chunin"
             }
         },
@@ -694,6 +744,7 @@
             "clan": "Inuzuka",
             "powerLevel": 66,
             "description": "A ninja who fights alongside his dog Akamaru using beast-style combat techniques.",
+            "extendedDescription": "A brash, competitive ninja whose bond with his dog Akamaru forms the core of his combat style, Kiba uses Beast Human Clone and Fang techniques to transform into a spinning drill of destruction. His enhanced senses — smell in particular — make him one of the best trackers in Konoha, capable of detecting chakra signatures from great distances. Though he lost his bid to become Hokage to Kakashi, Kiba's loyalty and passion for his village never wavered.",
             "images": {
                 "profile": "/assets/characters/31.webp",
                 "others": []
@@ -704,9 +755,9 @@
                 "Fire"
             ],
             "stats": {
-                "attack": "70/100",
-                "defense": "58/100",
-                "utility": "65/100",
+                "power": "70/100",
+                "chakra": "58/100",
+                "intelligence": "65/100",
                 "rank": "Chunin"
             }
         },
@@ -717,6 +768,7 @@
             "clan": "Aburame",
             "powerLevel": 67,
             "description": "A quiet ninja from the Aburame clan who uses insects that feed on chakra as his primary weapon.",
+            "extendedDescription": "Quiet and methodical, Shino Aburame's entire combat style revolves around his symbiotic relationship with chakra-eating insects that live within his body, multiplying and spreading at his command. His ability to track targets through insects, drain their chakra silently, and overwhelm opponents with sheer numbers makes him a unique and deeply underestimated threat. Despite his unsettling demeanor, Shino is deeply compassionate and later became an academy teacher, helping the next generation of ninja.",
             "images": {
                 "profile": "/assets/characters/32.webp",
                 "others": []
@@ -726,9 +778,9 @@
                 "Fire"
             ],
             "stats": {
-                "attack": "65/100",
-                "defense": "65/100",
-                "utility": "80/100",
+                "power": "65/100",
+                "chakra": "65/100",
+                "intelligence": "80/100",
                 "rank": "Chunin"
             }
         },
@@ -739,6 +791,7 @@
             "clan": "Hyuga",
             "powerLevel": 72,
             "description": "A kind-hearted kunoichi from the Hyuga clan who wields the Byakugan and Gentle Fist. Naruto's wife.",
+            "extendedDescription": "Long overshadowed by self-doubt and the expectations of the main branch, Hinata Hyuga quietly grew into one of the most determined and capable kunoichi in Konoha. Her unwavering love for Naruto and her deeply personal struggle with inadequacy drove her to push past every limit, activating the Byakugan's full potential and developing her own unique Twin Lion Fists technique. As Naruto's wife and the mother of Boruto and Himawari, she represents the heart at the center of the Uzumaki family.",
             "images": {
                 "profile": "/assets/characters/33.webp",
                 "others": []
@@ -748,9 +801,9 @@
                 "Lightning"
             ],
             "stats": {
-                "attack": "70/100",
-                "defense": "72/100",
-                "utility": "68/100",
+                "power": "70/100",
+                "chakra": "72/100",
+                "intelligence": "68/100",
                 "rank": "Jonin"
             }
         },
@@ -761,6 +814,7 @@
             "clan": null,
             "powerLevel": 88,
             "description": "The Fifth Kazekage and former Jinchuriki of the One-Tail. Controls sand with devastating power.",
+            "extendedDescription": "Born as a weapon of war, Gaara spent his early years as a vessel for the One-Tailed beast Shukaku and was rejected by everyone around him, including his own father who tried to have him assassinated. His encounter with Naruto — who understood his loneliness from the inside — was the turning point that transformed a murderous child into the compassionate Fifth Kazekage. His absolute sand defense and precise control over vast quantities of sand make him a fortress and an artillery platform in one.",
             "images": {
                 "profile": "/assets/characters/34.webp",
                 "others": []
@@ -771,9 +825,9 @@
                 "Lightning"
             ],
             "stats": {
-                "attack": "85/100",
-                "defense": "95/100",
-                "utility": "70/100",
+                "power": "85/100",
+                "chakra": "95/100",
+                "intelligence": "70/100",
                 "rank": "Kage"
             }
         },
@@ -784,6 +838,7 @@
             "clan": null,
             "powerLevel": 74,
             "description": "A powerful wind-style kunoichi from Hidden Sand Village and elder sister of Gaara. Shikamaru's wife.",
+            "extendedDescription": "A sharp-tongued and fiercely independent kunoichi from Sunagakure, Temari wields her giant iron fan to channel powerful wind-style techniques capable of leveling forests and deflecting entire jutsu arrays. One of the most strategically minded fighters among her generation, she accurately predicted Shikamaru's moves during their Chunin Exam match. She later became a prominent jonin serving the alliance between Sunagakure and Konoha, and Shikamaru's wife.",
             "images": {
                 "profile": "/assets/characters/35.webp",
                 "others": []
@@ -792,9 +847,9 @@
                 "Wind"
             ],
             "stats": {
-                "attack": "75/100",
-                "defense": "65/100",
-                "utility": "70/100",
+                "power": "75/100",
+                "chakra": "65/100",
+                "intelligence": "70/100",
                 "rank": "Jonin"
             }
         },
@@ -805,6 +860,7 @@
             "clan": null,
             "powerLevel": 70,
             "description": "A skilled puppet master from Hidden Sand Village and Gaara's older brother.",
+            "extendedDescription": "The middle child of the Kazekage and Gaara's older brother, Kankuro is one of the most skilled puppet masters in the shinobi world, wielding multiple complex puppets loaded with an arsenal of poisons, blades, and hidden weapons. His precision and tactical use of poison-delivery mechanisms make him a formidable opponent even against physically superior enemies. After Sasori's defeat, Kankuro repaired and added Sasori's own puppet body to his collection, greatly expanding his arsenal.",
             "images": {
                 "profile": "/assets/characters/36.webp",
                 "others": []
@@ -814,9 +870,9 @@
                 "Wind"
             ],
             "stats": {
-                "attack": "70/100",
-                "defense": "65/100",
-                "utility": "72/100",
+                "power": "70/100",
+                "chakra": "65/100",
+                "intelligence": "72/100",
                 "rank": "Jonin"
             }
         },
@@ -827,6 +883,7 @@
             "clan": null,
             "powerLevel": 90,
             "description": "The Jinchuriki of the Eight-Tails and brother of the Fourth Raikage. A master of the Lariat technique and rap.",
+            "extendedDescription": "The boisterous, rap-obsessed jinchuriki of the Eight-Tails Gyuki and the adoptive brother of the Fourth Raikage, Killer Bee is one of the few hosts who achieved complete harmony with his tailed beast. His unique seven-sword style combined with Gyuki's devastating lariat makes him a nearly unstoppable force in close-quarters combat. Bee's mentorship was crucial to Naruto's ability to befriend Kurama, indirectly shaping the outcome of the Fourth Shinobi World War.",
             "images": {
                 "profile": "/assets/characters/37.webp",
                 "others": []
@@ -840,9 +897,9 @@
                 "Yang"
             ],
             "stats": {
-                "attack": "88/100",
-                "defense": "85/100",
-                "utility": "72/100",
+                "power": "88/100",
+                "chakra": "85/100",
+                "intelligence": "72/100",
                 "rank": "Jonin"
             }
         },
@@ -853,6 +910,7 @@
             "clan": null,
             "powerLevel": 88,
             "description": "The Fourth Raikage and leader of Hidden Cloud Village. Known for his incredible physical strength and Lightning Armor.",
+            "extendedDescription": "Renowned as the fastest man alive until Naruto achieved Nine-Tails Chakra Mode, the Fourth Raikage wrapped himself in Lightning Armor that boosted his reflexes and physical power to superhuman levels. His combination of raw strength capable of smashing through any defense and near-instantaneous movement speeds made him the most physically dominant Kage of his era. His hatred of the Akatsuki was personal — they had captured his brother Killer Bee — and he prosecuted the war against them with absolute ferocity.",
             "images": {
                 "profile": "/assets/characters/38.webp",
                 "others": []
@@ -861,9 +919,9 @@
                 "Lightning"
             ],
             "stats": {
-                "attack": "90/100",
-                "defense": "85/100",
-                "utility": "60/100",
+                "power": "90/100",
+                "chakra": "85/100",
+                "intelligence": "60/100",
                 "rank": "Kage"
             }
         },
@@ -874,6 +932,7 @@
             "clan": null,
             "powerLevel": 83,
             "description": "The Fifth Mizukage of Hidden Mist Village. Possesses two rare kekkei genkai: Lava Release and Boil Release.",
+            "extendedDescription": "The Fifth Mizukage who succeeded the manipulated Yagura and worked to heal the bloody reputation of the Village Hidden in the Mist, Mei Terumi is one of the few shinobi born with two kekkei genkai. Lava Release lets her spit volcanic matter that burns through anything, while Boil Release produces acidic mist that dissolves even Susanoo armor. Her sharp wit, fearless confidence, and lethal capability made her one of the most formidable Kage at the Five Kage Summit.",
             "images": {
                 "profile": "/assets/characters/39.webp",
                 "others": []
@@ -885,9 +944,9 @@
                 "Wind"
             ],
             "stats": {
-                "attack": "82/100",
-                "defense": "72/100",
-                "utility": "72/100",
+                "power": "82/100",
+                "chakra": "72/100",
+                "intelligence": "72/100",
                 "rank": "Kage"
             }
         },
@@ -898,6 +957,7 @@
             "clan": null,
             "powerLevel": 85,
             "description": "The Third Tsuchikage of Hidden Stone Village. A stubborn old kage who wields the rare Dust Release kekkei tota.",
+            "extendedDescription": "The Third Tsuchikage, a stubborn and proud old man who had lived long enough to fight both Madara Uchiha and the First Mizukage personally, Onoki carries the weight of a shinobi's compromises. His Dust Release kekkei tota — a combination of three nature transformations — reduces whatever it touches to molecules, making it one of the most absolute destruction techniques in existence. Despite his age, he remained fiercely combat-capable into his final years and played a crucial role in the Fourth Shinobi World War.",
             "images": {
                 "profile": "/assets/characters/40.webp",
                 "others": []
@@ -908,9 +968,9 @@
                 "Wind"
             ],
             "stats": {
-                "attack": "85/100",
-                "defense": "72/100",
-                "utility": "75/100",
+                "power": "85/100",
+                "chakra": "72/100",
+                "intelligence": "75/100",
                 "rank": "Kage"
             }
         },
@@ -921,6 +981,7 @@
             "clan": null,
             "powerLevel": 85,
             "description": "Orochimaru's former spy and right-hand man who later mastered Sage Mode and Reanimation jutsu.",
+            "extendedDescription": "Originally an orphan raised by the medical corps of Konoha who became Orochimaru's most loyal intelligence asset, Kabuto eventually surpassed his master after Orochimaru's death. By absorbing Orochimaru's DNA, snake sage essence, and the DNA of multiple legendary shinobi, he transformed into a being of extraordinary hybrid power. His mastery of the Edo Tensei Reanimation jutsu allowed him to deploy an army of history's greatest warriors, nearly turning the tide of the entire Fourth Shinobi World War.",
             "images": {
                 "profile": "/assets/characters/41.webp",
                 "others": []
@@ -933,9 +994,9 @@
                 "Fire"
             ],
             "stats": {
-                "attack": "78/100",
-                "defense": "75/100",
-                "utility": "92/100",
+                "power": "78/100",
+                "chakra": "75/100",
+                "intelligence": "92/100",
                 "rank": "Missing-nin"
             }
         },
@@ -946,6 +1007,7 @@
             "clan": "Otsutsuki",
             "powerLevel": 100,
             "description": "The progenitor of chakra and the final antagonist. The most powerful being in the entire series.",
+            "extendedDescription": "The mother of all chakra, Kaguya descended to Earth long before the shinobi era and consumed the fruit of the God Tree to gain incomprehensible power. Her Rinne Sharingan grants her access to all dimensions simultaneously, and her All-Killing Ash Bones technique can disintegrate anything it touches. After being sealed away by her own sons, she was resurrected in the Fourth Shinobi World War as the ultimate final enemy, requiring the combined power of Naruto, Sasuke, Sakura, Kakashi, and the summoned Kage to re-seal her.",
             "images": {
                 "profile": "/assets/characters/42.webp",
                 "others": []
@@ -961,9 +1023,9 @@
                 "Yin-Yang"
             ],
             "stats": {
-                "attack": "98/100",
-                "defense": "98/100",
-                "utility": "95/100",
+                "power": "98/100",
+                "chakra": "98/100",
+                "intelligence": "95/100",
                 "rank": "Otsutsuki"
             }
         },
@@ -974,6 +1036,7 @@
             "clan": "Otsutsuki",
             "powerLevel": 99,
             "description": "The Sage of Six Paths and son of Kaguya. Created ninshu which evolved into modern ninjutsu.",
+            "extendedDescription": "The legendary Sage of Six Paths whose existence borders myth and reality, Hagoromo was born to Kaguya and eventually led the rebellion that sealed his own mother away. His Six Paths chakra birthed the nine tailed beasts and established the chakra system that underpins all modern ninjutsu. He appeared to Naruto and Sasuke in astral form during the final war to grant them his power, having waited lifetimes for heirs worthy enough to break the cycle of hatred his mother's resurrection had restarted.",
             "images": {
                 "profile": "/assets/characters/43.webp",
                 "others": []
@@ -989,9 +1052,9 @@
                 "Yin-Yang"
             ],
             "stats": {
-                "attack": "95/100",
-                "defense": "90/100",
-                "utility": "98/100",
+                "power": "95/100",
+                "chakra": "90/100",
+                "intelligence": "98/100",
                 "rank": "Otsutsuki"
             }
         },
@@ -1002,6 +1065,7 @@
             "clan": "Otsutsuki",
             "powerLevel": 97,
             "description": "The twin brother of Hagoromo Otsutsuki. Wielder of the Tenseigan who protected the moon.",
+            "extendedDescription": "The twin brother of Hagoromo and co-founder of the battle that sealed Kaguya, Hamura chose a different path from his brother — he left the earth to guard the moon where Kaguya's Gedo Statue was imprisoned. His descendants, the Hyuga clan, inherited a weaker but still extraordinary version of the Tenseigan's vision. He appeared to Hinata to pass on his chakra, entrusting his legacy to an Uzumaki who had proven worthy of the Hamura bloodline.",
             "images": {
                 "profile": "/assets/characters/44.webp",
                 "others": []
@@ -1012,9 +1076,9 @@
                 "Yin-Yang"
             ],
             "stats": {
-                "attack": "90/100",
-                "defense": "88/100",
-                "utility": "85/100",
+                "power": "90/100",
+                "chakra": "88/100",
+                "intelligence": "85/100",
                 "rank": "Otsutsuki"
             }
         },
@@ -1025,6 +1089,7 @@
             "clan": "Otsutsuki",
             "powerLevel": 94,
             "description": "The eldest son of Hagoromo and ancestor of the Uchiha clan. The original wielder of the Sharingan.",
+            "extendedDescription": "The eldest son of Hagoromo and the original inheritor of his father's visual kekkei genkai that would evolve into the Sharingan. Gifted with immense natural power and the brilliance of his father's spiritual energy, Indra was denied succession of ninshu in favor of his more empathetic brother Ashura, seeding a resentment that echoed across centuries through his reincarnations. He is the progenitor of all Uchiha and the origin of the rivalry that shaped the entire Naruto universe.",
             "images": {
                 "profile": "/assets/characters/45.webp",
                 "others": []
@@ -1035,9 +1100,9 @@
                 "Yin"
             ],
             "stats": {
-                "attack": "92/100",
-                "defense": "85/100",
-                "utility": "85/100",
+                "power": "92/100",
+                "chakra": "85/100",
+                "intelligence": "85/100",
                 "rank": "Otsutsuki"
             }
         },
@@ -1048,6 +1113,7 @@
             "clan": "Otsutsuki",
             "powerLevel": 93,
             "description": "The younger son of Hagoromo and ancestor of the Senju and Uzumaki clans.",
+            "extendedDescription": "The younger son of Hagoromo, Ashura was not born with his brother's natural brilliance but proved through earnest effort, compassion, and the bonds he formed with others that he was the true inheritor of ninshu's spirit. Chosen by Hagoromo to lead, he is the ancestor of both the Senju and Uzumaki clans, passing down his father's vast life force and chakra reserves. The eternal rivalry between his soul and Indra's reincarnated through Hashirama and Madara, and later Naruto and Sasuke.",
             "images": {
                 "profile": "/assets/characters/46.webp",
                 "others": []
@@ -1059,9 +1125,9 @@
                 "Wood"
             ],
             "stats": {
-                "attack": "88/100",
-                "defense": "85/100",
-                "utility": "82/100",
+                "power": "88/100",
+                "chakra": "85/100",
+                "intelligence": "82/100",
                 "rank": "Otsutsuki"
             }
         },
@@ -1072,6 +1138,7 @@
             "clan": "Otsutsuki",
             "powerLevel": 97,
             "description": "A powerful Otsutsuki clan member who came to harvest the chakra fruit from Earth. Primary antagonist of Boruto.",
+            "extendedDescription": "A high-ranking member of the Otsutsuki Clan who traveled to Earth alongside Kinshiki to harvest the chakra fruit cultivated by the Nine-Tails, Momoshiki is one of the most powerful antagonists introduced in the Boruto era. His Rinnegan eyes allow him to absorb any ninjutsu and return it amplified many times over, making him nearly impossible to fight with conventional techniques. After being defeated and killed by Boruto, he implanted his karma seal on the boy, ensuring his eventual resurrection through Boruto's body.",
             "images": {
                 "profile": "/assets/characters/47.webp",
                 "others": []
@@ -1086,9 +1153,9 @@
                 "Yang"
             ],
             "stats": {
-                "attack": "95/100",
-                "defense": "90/100",
-                "utility": "85/100",
+                "power": "95/100",
+                "chakra": "90/100",
+                "intelligence": "85/100",
                 "rank": "Otsutsuki"
             }
         },
@@ -1099,6 +1166,7 @@
             "clan": "Otsutsuki",
             "powerLevel": 91,
             "description": "Momoshiki's subordinate and a powerful Otsutsuki warrior who can create weapons from his chakra.",
+            "extendedDescription": "A powerhouse warrior in service to Momoshiki, Kinshiki's combat strength is so extraordinary that even combined Kage-level shinobi struggled to contain him. His ability to generate any weapon — axes, swords, hammers — from raw chakra made him adaptable to any combat situation. Ultimately, he was consumed by Momoshiki to power the latter's transformation into a more devastating form, sacrificed as a resource in the cold calculus of Otsutsuki clan hierarchy.",
             "images": {
                 "profile": "/assets/characters/48.webp",
                 "others": []
@@ -1108,9 +1176,9 @@
                 "Yang"
             ],
             "stats": {
-                "attack": "88/100",
-                "defense": "82/100",
-                "utility": "75/100",
+                "power": "88/100",
+                "chakra": "82/100",
+                "intelligence": "75/100",
                 "rank": "Otsutsuki"
             }
         },
@@ -1121,6 +1189,7 @@
             "clan": "Uzumaki",
             "powerLevel": 82,
             "description": "Naruto's son and the main protagonist of Boruto. Possesses the Jougan and is a vessel for Momoshiki.",
+            "extendedDescription": "The son of the Seventh Hokage, Boruto grew up resenting his father's absence and the shadow of his legacy, pushing him to forge his own path as a shinobi. He possesses the Jougan, a mysterious dojutsu that can perceive chakra and dimensional boundaries, as well as a karma seal left by Momoshiki Otsutsuki that grants him immense power at the risk of losing himself. His rivalry with Kawaki and his desire to protect those he loves drive him forward even as the threat of becoming Momoshiki's vessel looms over every battle.",
             "images": {
                 "profile": "/assets/characters/49.webp",
                 "others": []
@@ -1130,9 +1199,9 @@
                 "Lightning"
             ],
             "stats": {
-                "attack": "78/100",
-                "defense": "70/100",
-                "utility": "80/100",
+                "power": "78/100",
+                "chakra": "70/100",
+                "intelligence": "80/100",
                 "rank": "Genin"
             }
         },
@@ -1143,6 +1212,7 @@
             "clan": "Uchiha",
             "powerLevel": 78,
             "description": "Sasuke and Sakura's daughter. Possesses the Sharingan and aims to become Hokage.",
+            "extendedDescription": "The daughter of Sasuke and Sakura, Sarada inherited her father's Sharingan and her mother's extraordinary chakra control and monstrous strength, making her a prodigy in her own right. Raised largely without her father's presence, she channeled her longing into a fierce ambition to become Hokage — not for glory, but to bridge the distance between shinobi and protect people the way Naruto always did. Her combination of Uchiha genjutsu mastery and Haruno-style strength makes her one of the most balanced and dangerous young shinobi of her generation.",
             "images": {
                 "profile": "/assets/characters/50.webp",
                 "others": []
@@ -1152,9 +1222,9 @@
                 "Fire"
             ],
             "stats": {
-                "attack": "76/100",
-                "defense": "68/100",
-                "utility": "72/100",
+                "power": "76/100",
+                "chakra": "68/100",
+                "intelligence": "72/100",
                 "rank": "Genin"
             }
         },
@@ -1165,6 +1235,7 @@
             "clan": null,
             "powerLevel": 79,
             "description": "Orochimaru's synthetic son who can use Sage Mode naturally. Boruto's teammate.",
+            "extendedDescription": "Created by Orochimaru through genetic engineering as his ideal masterpiece son, Mitsuki possesses the rare ability to activate Sage Mode instantaneously — something even Jiraiya never fully mastered. His serpentine flexibility, ability to extend his limbs, and calm, analytical personality make him a uniquely efficient and unsettling combatant. Despite the circumstances of his artificial birth, Mitsuki genuinely chose Boruto as his friend and sun, a rare act of authentic will from someone whose entire existence was engineered.",
             "images": {
                 "profile": "/assets/characters/51.webp",
                 "others": []
@@ -1174,9 +1245,9 @@
                 "Lightning"
             ],
             "stats": {
-                "attack": "78/100",
-                "defense": "70/100",
-                "utility": "75/100",
+                "power": "78/100",
+                "chakra": "70/100",
+                "intelligence": "75/100",
                 "rank": "Genin"
             }
         },
@@ -1187,6 +1258,7 @@
             "clan": null,
             "powerLevel": 85,
             "description": "A boy modified by Jigen to be the ultimate vessel. Raised by Naruto as part of his family.",
+            "extendedDescription": "Taken as a child and subjected to painful experimentation by Jigen to become a vessel for Isshiki Otsutsuki, Kawaki carries deep trauma behind a calculating exterior. Adopted by Naruto and slowly learning what a family means, his karma seal gave him incredible power at the cost of a future he never asked for. In the darkest timeline shown at the series' opening, he is responsible for ending the era of shinobi — yet whether he will walk that path or find redemption remains the central tension of Boruto's story.",
             "images": {
                 "profile": "/assets/characters/52.webp",
                 "others": []
@@ -1197,9 +1269,9 @@
                 "Yin-Yang"
             ],
             "stats": {
-                "attack": "83/100",
-                "defense": "80/100",
-                "utility": "75/100",
+                "power": "83/100",
+                "chakra": "80/100",
+                "intelligence": "75/100",
                 "rank": "Civilian"
             }
         },
@@ -1210,6 +1282,7 @@
             "clan": "Otsutsuki",
             "powerLevel": 98,
             "description": "The leader of Kara and a vessel for Isshiki Otsutsuki. One of the most powerful antagonists in Boruto.",
+            "extendedDescription": "The human vessel of Isshiki Otsutsuki and leader of the mysterious organization Kara, Jigen fought and simultaneously defeated both Naruto in Kurama Mode and Sasuke with his Rinnegan in a single engagement — the most lopsided victory shown in the series. His Sukunahikona technique shrinks objects and people to microscopic size, making it impossible to block or predict his attacks. As Isshiki, he is the mastermind of the Otsutsuki plan to cultivate and harvest a chakra fruit from Earth using Kawaki as a vessel.",
             "images": {
                 "profile": "/assets/characters/53.webp",
                 "others": []
@@ -1220,9 +1293,9 @@
                 "Yin-Yang"
             ],
             "stats": {
-                "attack": "96/100",
-                "defense": "90/100",
-                "utility": "92/100",
+                "power": "96/100",
+                "chakra": "90/100",
+                "intelligence": "92/100",
                 "rank": "Otsutsuki"
             }
         },
@@ -1233,6 +1306,7 @@
             "clan": null,
             "powerLevel": 68,
             "description": "A former student of Orochimaru who bears the Cursed Seal of Heaven. Works as a proctor for the Chunin Exams.",
+            "extendedDescription": "A survivor of Orochimaru's experiments who bears the Cursed Seal of Heaven and has spent her career trying to prove herself beyond that dark chapter of her past. Fast, aggressive, and knowledgeable about snake-based techniques from her time as Orochimaru's student, she served as a fearsome proctor during the Forest of Death stage of the Chunin Exams. Though her chakra was diminished by the seal over time, her fierce spirit and combat instincts kept her a capable and respected operative.",
             "images": {
                 "profile": "/assets/characters/54.webp",
                 "others": []
@@ -1243,9 +1317,9 @@
                 "Wind"
             ],
             "stats": {
-                "attack": "65/100",
-                "defense": "58/100",
-                "utility": "65/100",
+                "power": "65/100",
+                "chakra": "58/100",
+                "intelligence": "65/100",
                 "rank": "Jonin"
             }
         },
@@ -1256,6 +1330,7 @@
             "clan": "Yuhi",
             "powerLevel": 67,
             "description": "A jonin and genjutsu specialist who leads Team 8. Wife of Asuma Sarutobi.",
+            "extendedDescription": "One of Konoha's most gifted genjutsu practitioners, Kurenai was capable of weaving elaborate illusions that could trap even the most perceptive opponents. As the leader of Team 8, she guided Hinata, Kiba, and Shino with a patient hand that matched each student's unique needs. Her pregnancy after Asuma's death ensured that a piece of him survived, and she raised their daughter Mirai to become a capable kunoichi in her own right.",
             "images": {
                 "profile": "/assets/characters/55.webp",
                 "others": []
@@ -1265,9 +1340,9 @@
                 "Yin"
             ],
             "stats": {
-                "attack": "55/100",
-                "defense": "60/100",
-                "utility": "82/100",
+                "power": "55/100",
+                "chakra": "60/100",
+                "intelligence": "82/100",
                 "rank": "Jonin"
             }
         },
@@ -1278,6 +1353,7 @@
             "clan": "Sarutobi",
             "powerLevel": 75,
             "description": "A jonin and leader of Team 10. Son of the Third Hokage and a former member of the Twelve Guardian Ninja.",
+            "extendedDescription": "The son of the Third Hokage, Asuma lived under his father's legendary shadow and briefly left Konoha to serve in the Twelve Guardian Ninja before returning to lead his own team. His bladed chakra trench knives — capable of cutting through defenses using Wind Release — and his strategic mind made him a formidable jonin. His death at Hidan's hands was one of the series' most emotionally devastating moments, and Shikamaru's subsequent revenge arc stands as one of the most compelling character sequences in Shippuden.",
             "images": {
                 "profile": "/assets/characters/56.webp",
                 "others": []
@@ -1287,9 +1363,9 @@
                 "Wind"
             ],
             "stats": {
-                "attack": "75/100",
-                "defense": "65/100",
-                "utility": "70/100",
+                "power": "75/100",
+                "chakra": "65/100",
+                "intelligence": "70/100",
                 "rank": "Jonin"
             }
         },
@@ -1300,6 +1376,7 @@
             "clan": "Uchiha",
             "powerLevel": 90,
             "description": "A legendary Uchiha known as Shisui of the Body Flicker. Wielded the most powerful genjutsu, Kotoamatsukami.",
+            "extendedDescription": "Regarded as the most gifted Uchiha of his generation, Shisui was described by Itachi as the strongest Uchiha alive at the time of his death. His Mangekyo Sharingan ability, Kotoamatsukami, was capable of rewriting a target's free will so subtly that even the victim would never suspect it, making him the perfect operative for delicate missions. He chose to give one eye to Itachi and sacrifice himself to stop the Uchiha coup, entrusting the future he could not protect to his dearest friend.",
             "images": {
                 "profile": "/assets/characters/57.webp",
                 "others": []
@@ -1310,9 +1387,9 @@
                 "Yin"
             ],
             "stats": {
-                "attack": "80/100",
-                "defense": "78/100",
-                "utility": "98/100",
+                "power": "80/100",
+                "chakra": "78/100",
+                "intelligence": "98/100",
                 "rank": "ANBU"
             }
         },
@@ -1323,6 +1400,7 @@
             "clan": "Uchiha",
             "powerLevel": 82,
             "description": "The leader of the Uchiha clan and Itachi and Sasuke's father. Possessed the Sharingan and planned a coup.",
+            "extendedDescription": "The respected head of the Uchiha clan and a decorated police captain of Konoha who had awakened the Mangekyo Sharingan, Fugaku privately harbored deep bitterness at the village's treatment of his clan. He planned and led the Uchiha coup plot yet paradoxically chose not to use his Mangekyo to control the Nine-Tails even when he had the opportunity, unwilling to traumatize his son. He accepted his death at Itachi's hands with dignity, embracing his wife and telling his eldest son that he was proud of him.",
             "images": {
                 "profile": "/assets/characters/58.webp",
                 "others": []
@@ -1332,9 +1410,9 @@
                 "Lightning"
             ],
             "stats": {
-                "attack": "80/100",
-                "defense": "72/100",
-                "utility": "75/100",
+                "power": "80/100",
+                "chakra": "72/100",
+                "intelligence": "75/100",
                 "rank": "Jonin"
             }
         },
@@ -1345,6 +1423,7 @@
             "clan": "Uchiha",
             "powerLevel": 51,
             "description": "Itachi and Sasuke's mother and wife of Fugaku Uchiha. A gentle woman who loved her family deeply.",
+            "extendedDescription": "A loving mother and skilled kunoichi who was a close friend of Kushina Uzumaki during their years as young ninja, Mikoto Uchiha was the warm heart at the center of the Uchiha household. Despite knowing of Itachi's assignment to massacre the clan, she accepted her fate without struggle, asking only that Itachi take care of Sasuke. Her quiet courage and unconditional love for both her sons represent the human cost behind the political tragedy of the Uchiha massacre.",
             "images": {
                 "profile": "/assets/characters/59.webp",
                 "others": []
@@ -1353,9 +1432,9 @@
                 "Fire"
             ],
             "stats": {
-                "attack": "48/100",
-                "defense": "45/100",
-                "utility": "52/100",
+                "power": "48/100",
+                "chakra": "45/100",
+                "intelligence": "52/100",
                 "rank": "Jonin"
             }
         },
@@ -1366,6 +1445,7 @@
             "clan": "Uzumaki",
             "powerLevel": 85,
             "description": "Naruto's mother and the previous Jinchuriki of the Nine-Tails. Known as the Red Hot-Blooded Habanero.",
+            "extendedDescription": "A fiery Uzumaki from the Whirlpool Village who moved to Konoha to become the second host of the Nine-Tails, Kushina was feared in her youth as the Red Hot-Blooded Habanero for her blazing red hair and violent temper when provoked. Her Uzumaki chains and exceptional sealing jutsu made her uniquely suited as a jinchuriki, as she could suppress the Nine-Tails from within. In her final moments, she channeled everything she had into reinforcing the seal on Kurama within Naruto, imparting a lifetime of love and advice into the minutes she had left.",
             "images": {
                 "profile": "/assets/characters/60.webp",
                 "others": []
@@ -1377,9 +1457,9 @@
                 "Yang"
             ],
             "stats": {
-                "attack": "82/100",
-                "defense": "80/100",
-                "utility": "78/100",
+                "power": "82/100",
+                "chakra": "80/100",
+                "intelligence": "78/100",
                 "rank": "Jonin"
             }
         },
@@ -1390,6 +1470,7 @@
             "clan": "Uzumaki",
             "powerLevel": 83,
             "description": "Wife of Hashirama Senju and the first Jinchuriki of the Nine-Tails. A powerful fuinjutsu master.",
+            "extendedDescription": "A princess of the Uzumaki clan and wife of Hashirama Senju, Mito voluntarily became the first jinchuriki of the Nine-Tailed Fox to prevent the beast from falling into hostile hands after the Battle of the Valley of the End. Her extraordinary fuinjutsu mastery — a hallmark of Uzumaki clan heritage — allowed her to maintain control of the beast for an entire human lifetime. She lived a long life in Konoha, passing her role to Kushina only on her deathbed, having spent her years as a guardian rather than a warrior.",
             "images": {
                 "profile": "/assets/characters/61.webp",
                 "others": []
@@ -1401,9 +1482,9 @@
                 "Wind"
             ],
             "stats": {
-                "attack": "75/100",
-                "defense": "80/100",
-                "utility": "85/100",
+                "power": "75/100",
+                "chakra": "80/100",
+                "intelligence": "85/100",
                 "rank": "Jonin"
             }
         },
@@ -1414,6 +1495,7 @@
             "clan": "Shimura",
             "powerLevel": 83,
             "description": "The leader of Root and a shadow ruler of Konoha. Implanted Sharingan eyes in his arm to wield forbidden jutsu.",
+            "extendedDescription": "A war hawk who believed that Konoha could only be protected through ruthlessness, Danzo operated in Konoha's shadows as the founder of Root, a black-ops organization that carried out assassinations and ethically indefensible missions for the village's benefit. He implanted 10 Sharingan stolen from massacred Uchiha into his arm and fused Hashirama's cells to enhance his power, wielding Izanagi — the ability to rewrite reality — to cheat death in battle. History debates whether he was a villain or an amoral protector, but his methods left scars on everyone he touched.",
             "images": {
                 "profile": "/assets/characters/62.webp",
                 "others": []
@@ -1424,9 +1506,9 @@
                 "Earth"
             ],
             "stats": {
-                "attack": "80/100",
-                "defense": "82/100",
-                "utility": "75/100",
+                "power": "80/100",
+                "chakra": "82/100",
+                "intelligence": "75/100",
                 "rank": "Jonin"
             }
         },
@@ -1437,6 +1519,7 @@
             "clan": "Hyuga",
             "powerLevel": 78,
             "description": "The head of the Hyuga clan and father of Hinata and Hanabi. A stern but powerful Byakugan wielder.",
+            "extendedDescription": "The stern patriarch of the Hyuga clan's main branch, Hiashi killed his own twin brother to protect clan secrets during a diplomatic crisis — a burden that shaped his cold exterior for decades. Despite his harsh treatment of Hinata, which he came to deeply regret, he was always motivated by a desperate need to prepare his clan for the dangers of the shinobi world. By the Fourth Shinobi World War, he stood alongside his daughters on the battlefield, acknowledging both their strength and his failures as a father.",
             "images": {
                 "profile": "/assets/characters/63.webp",
                 "others": []
@@ -1446,9 +1529,9 @@
                 "Earth"
             ],
             "stats": {
-                "attack": "76/100",
-                "defense": "78/100",
-                "utility": "70/100",
+                "power": "76/100",
+                "chakra": "78/100",
+                "intelligence": "70/100",
                 "rank": "Jonin"
             }
         },
@@ -1459,6 +1542,7 @@
             "clan": "Hyuga",
             "powerLevel": 68,
             "description": "Hinata's younger sister and a prodigy of the Hyuga clan. Considered more talented than Hinata in the main branch.",
+            "extendedDescription": "The younger daughter of Hiashi Hyuga and considered a greater natural talent than her older sister Hinata, Hanabi carries herself with quiet confidence and sharp precision in her Gentle Fist technique. She became the heiress to the Hyuga clan's main branch and later played a key role in the Boruto era, where her Byakugan was briefly stolen by Toneri Otsutsuki. Her relationship with Hinata, once complicated by their competition for the heirship, grew into one of sisterly warmth and mutual respect.",
             "images": {
                 "profile": "/assets/characters/64.webp",
                 "others": []
@@ -1468,9 +1552,9 @@
                 "Earth"
             ],
             "stats": {
-                "attack": "65/100",
-                "defense": "68/100",
-                "utility": "62/100",
+                "power": "65/100",
+                "chakra": "68/100",
+                "intelligence": "62/100",
                 "rank": "Chunin"
             }
         },
@@ -1480,7 +1564,8 @@
             "village": "Hidden Mist Village",
             "clan": null,
             "powerLevel": 80,
-            "description": "The Demon of the Hidden Mist and one of the Seven Ninja Swordsmen. Wielder of the massive KubikiribÅchÅ sword.",
+            "description": "The Demon of the Hidden Mist and one of the Seven Ninja Swordsmen. Wielder of the massive Kubikiribōchō sword.",
+            "extendedDescription": "One of the Seven Ninja Swordsmen of the Mist and the first major villain of the series, Zabuza was known as the Demon of the Hidden Mist for massacring all graduating students during his own academy exam to prove his strength. His Silent Killing technique and mastery of Water-style jutsu made him a feared assassin, and his enormous Executioner's Blade was a symbol of terror throughout the Land of Water. In the end, the bond he refused to acknowledge with Haku broke through, and he died fighting for the boy he had always loved as more than a tool.",
             "images": {
                 "profile": "/assets/characters/65.webp",
                 "others": []
@@ -1490,9 +1575,9 @@
                 "Wind"
             ],
             "stats": {
-                "attack": "80/100",
-                "defense": "72/100",
-                "utility": "70/100",
+                "power": "80/100",
+                "chakra": "72/100",
+                "intelligence": "70/100",
                 "rank": "Missing-nin"
             }
         },
@@ -1503,6 +1588,7 @@
             "clan": null,
             "powerLevel": 72,
             "description": "Zabuza's loyal companion who possesses the rare Ice Release kekkei genkai.",
+            "extendedDescription": "A gentle, tragic figure who was born with the rare Ice Release kekkei genkai — a combination of Wind and Water natures so rare it had not appeared in generations. Found starving in the snow after his father killed his mother and tried to kill him, Haku was taken in by Zabuza and devoted his entire existence to being useful to the only person who ever gave him purpose. He died protecting Zabuza from Kakashi's Raikiri, asking Naruto in his final moments whether he thought a tool like him had value — a question Naruto answered with tears.",
             "images": {
                 "profile": "/assets/characters/66.webp",
                 "others": []
@@ -1513,9 +1599,9 @@
                 "Ice"
             ],
             "stats": {
-                "attack": "70/100",
-                "defense": "78/100",
-                "utility": "72/100",
+                "power": "70/100",
+                "chakra": "78/100",
+                "intelligence": "72/100",
                 "rank": "Genin"
             }
         },
@@ -1526,6 +1612,7 @@
             "clan": "Hozuki",
             "powerLevel": 70,
             "description": "A member of Sasuke's team Taka. Can liquify his body using the Hydrification Technique.",
+            "extendedDescription": "A reckless, sword-obsessed member of Sasuke's team Taka who escaped Orochimaru's imprisonment with the sole goal of collecting all seven swords of the Mist swordsmen. His Hydrification Technique lets him liquefy his body entirely, making most physical attacks pass harmlessly through him. Despite his abrasive personality, he is fiercely loyal to Sasuke's team and his dream of reviving the Seven Swordsmen drives his combat style and every ambition.",
             "images": {
                 "profile": "/assets/characters/67.webp",
                 "others": []
@@ -1534,9 +1621,9 @@
                 "Water"
             ],
             "stats": {
-                "attack": "68/100",
-                "defense": "72/100",
-                "utility": "65/100",
+                "power": "68/100",
+                "chakra": "72/100",
+                "intelligence": "65/100",
                 "rank": "Missing-nin"
             }
         },
@@ -1547,6 +1634,7 @@
             "clan": null,
             "powerLevel": 74,
             "description": "A member of Sasuke's team Taka who can passively absorb natural energy. The original source of the Cursed Seal.",
+            "extendedDescription": "A deeply troubled young man whose body naturally and uncontrollably absorbs nature energy, causing him to alternate between a gentle, childlike state and berserk rampages of terrifying power. The original source of the Cursed Seal technique that Orochimaru derived from studying his unique physiology, Jugo's transformation state grants him monstrous regeneration and physical enhancement. He follows Sasuke out of gratitude for being the only person capable of calming him.",
             "images": {
                 "profile": "/assets/characters/68.webp",
                 "others": []
@@ -1556,9 +1644,9 @@
                 "Yang"
             ],
             "stats": {
-                "attack": "78/100",
-                "defense": "70/100",
-                "utility": "60/100",
+                "power": "78/100",
+                "chakra": "70/100",
+                "intelligence": "60/100",
                 "rank": "Missing-nin"
             }
         },
@@ -1569,6 +1657,7 @@
             "clan": "Uzumaki",
             "powerLevel": 65,
             "description": "A member of Sasuke's team Taka with unique sensory abilities and healing powers through her chakra.",
+            "extendedDescription": "An Uzumaki clan member with an extraordinary sensory ability to read chakra signatures from vast distances with perfect clarity, Karin also possesses a unique healing power — those who bite her can absorb her chakra to heal wounds, though the process leaves visible marks. Her encyclopedic knowledge of Sasuke's chakra signature and her conflicted feelings for him made her simultaneously his most useful operative and most emotionally vulnerable teammate. Despite being nearly killed by him, she ultimately chose forgiveness.",
             "images": {
                 "profile": "/assets/characters/69.webp",
                 "others": []
@@ -1578,9 +1667,9 @@
                 "Yang"
             ],
             "stats": {
-                "attack": "45/100",
-                "defense": "55/100",
-                "utility": "88/100",
+                "power": "45/100",
+                "chakra": "55/100",
+                "intelligence": "88/100",
                 "rank": "Missing-nin"
             }
         },
@@ -1591,6 +1680,7 @@
             "clan": null,
             "powerLevel": 71,
             "description": "A former Root member who joined Team 7. Uses ink-based jutsu to bring his drawings to life.",
+            "extendedDescription": "A former member of Root who was raised from childhood without emotions, given a numbered designation instead of a name, and trained to eliminate any bond that might compromise his effectiveness as an operative. He joined Team 7 and — largely through Naruto's relentless genuine friendship — slowly began to understand what it means to care about others. His ink-based ninjutsu allows him to bring detailed drawings to life as creatures he can ride or command, reflecting an inner artistic sensibility that Root never fully suppressed.",
             "images": {
                 "profile": "/assets/characters/70.webp",
                 "others": []
@@ -1601,9 +1691,9 @@
                 "Yin"
             ],
             "stats": {
-                "attack": "68/100",
-                "defense": "60/100",
-                "utility": "78/100",
+                "power": "68/100",
+                "chakra": "60/100",
+                "intelligence": "78/100",
                 "rank": "ANBU"
             }
         },
@@ -1614,6 +1704,7 @@
             "clan": null,
             "powerLevel": 78,
             "description": "A former Root member who can use Wood Release due to Hashirama's cells being implanted in him as a child.",
+            "extendedDescription": "The only shinobi outside the Senju bloodline known to have successfully developed Wood Release, Yamato is the survivor of one of Orochimaru's most successful — and most disturbing — childhood experiments, where Hashirama's cells were implanted into dozens of children. The cells merged with his own, granting him partial access to the First Hokage's legendary power. As an ANBU operative and later acting captain of Team 7, he was known for keeping even the most chaotic missions on track with his reliable, steady leadership.",
             "images": {
                 "profile": "/assets/characters/71.webp",
                 "others": []
@@ -1624,9 +1715,9 @@
                 "Wood"
             ],
             "stats": {
-                "attack": "72/100",
-                "defense": "75/100",
-                "utility": "80/100",
+                "power": "72/100",
+                "chakra": "75/100",
+                "intelligence": "80/100",
                 "rank": "ANBU"
             }
         },
@@ -1637,6 +1728,7 @@
             "clan": "Sarutobi",
             "powerLevel": 72,
             "description": "The grandson of the Third Hokage and Naruto's self-proclaimed rival. Grew up to become a jonin and team leader.",
+            "extendedDescription": "The grandson of the Third Hokage who idolized Naruto and proclaimed him his rival from childhood, Konohamaru grew from a mischievous kid into a genuinely talented jonin. He was the first person outside of Naruto's generation to successfully master the Rasengan, and he later developed his own Rasengan variants. As the leader of Boruto's team, he carries on the tradition of Team 7's values into the next generation.",
             "images": {
                 "profile": "/assets/characters/72.webp",
                 "others": []
@@ -1648,9 +1740,9 @@
                 "Earth"
             ],
             "stats": {
-                "attack": "70/100",
-                "defense": "62/100",
-                "utility": "68/100",
+                "power": "70/100",
+                "chakra": "62/100",
+                "intelligence": "68/100",
                 "rank": "Jonin"
             }
         },
@@ -1661,6 +1753,7 @@
             "clan": "Umino",
             "powerLevel": 58,
             "description": "Naruto's beloved academy teacher and father figure. One of the first to acknowledge Naruto as a person.",
+            "extendedDescription": "The academy teacher who became Naruto's first genuine parental figure, Iruka himself understood the pain of losing family — his own parents died during the Nine-Tails attack on Konoha — and recognized in Naruto a grief that looked like defiance. His decision to acknowledge Naruto as a person rather than a monster was one of the most pivotal moments in the series, setting Naruto on the path toward becoming Hokage. Despite his modest power level, Iruka's emotional impact on the story is immeasurable.",
             "images": {
                 "profile": "/assets/characters/73.webp",
                 "others": []
@@ -1670,9 +1763,9 @@
                 "Fire"
             ],
             "stats": {
-                "attack": "52/100",
-                "defense": "55/100",
-                "utility": "60/100",
+                "power": "52/100",
+                "chakra": "55/100",
+                "intelligence": "60/100",
                 "rank": "Chunin"
             }
         },
@@ -1683,6 +1776,7 @@
             "clan": null,
             "powerLevel": 43,
             "description": "A jonin who specializes in training elite ninja. Known as the Closet Pervert.",
+            "extendedDescription": "A jonin who specializes in elite training methodology and serves as a private tutor to the children of important figures in Konoha, Ebisu is studious, disciplined, and deeply committed to the proper development of young shinobi. His nickname, the Closet Pervert, speaks to a hypocritical weakness that Jiraiya famously exploited. Despite being humiliated by Naruto and Jiraiya on separate occasions, he carried out his duties professionally and contributed during the Invasion of Pain.",
             "images": {
                 "profile": "/assets/characters/74.webp",
                 "others": []
@@ -1692,9 +1786,9 @@
                 "Earth"
             ],
             "stats": {
-                "attack": "38/100",
-                "defense": "40/100",
-                "utility": "48/100",
+                "power": "38/100",
+                "chakra": "40/100",
+                "intelligence": "48/100",
                 "rank": "Jonin"
             }
         },
@@ -1705,6 +1799,7 @@
             "clan": null,
             "powerLevel": 45,
             "description": "A jonin from Konoha who always has a senbon needle in his mouth. Served as a proctor during the Chunin Exams.",
+            "extendedDescription": "A sharp-eyed Konoha jonin who is rarely seen without his trademark senbon needle balanced between his teeth, Genma served as the proctor for the final round of the Chunin Exams and has appeared consistently as a capable, reliable operative in high-stakes scenarios. His battle knowledge and calm demeanor under pressure make him a trusted field operative despite his relatively modest profile compared to the legends around him.",
             "images": {
                 "profile": "/assets/characters/75.webp",
                 "others": []
@@ -1714,9 +1809,9 @@
                 "Fire"
             ],
             "stats": {
-                "attack": "42/100",
-                "defense": "42/100",
-                "utility": "45/100",
+                "power": "42/100",
+                "chakra": "42/100",
+                "intelligence": "45/100",
                 "rank": "Jonin"
             }
         },
@@ -1727,6 +1822,7 @@
             "clan": null,
             "powerLevel": 90,
             "description": "The Third Raikage of Hidden Cloud Village, considered one of the strongest Kage in history. Nearly impenetrable body.",
+            "extendedDescription": "The Third Raikage is considered by many to be the strongest Raikage in history, having survived fighting an entire army of shinobi alone to allow his comrades to escape. His body was so perfectly hardened through Lightning Release that only his own Hell Stab — a one-fingered strike of concentrated lightning — could pierce his own skin. He is the shinobi who single-handedly fought the Eight-Tails to a standstill, leaving a permanent scar on himself in the process.",
             "images": {
                 "profile": "/assets/characters/76.webp",
                 "others": []
@@ -1735,9 +1831,9 @@
                 "Lightning"
             ],
             "stats": {
-                "attack": "92/100",
-                "defense": "95/100",
-                "utility": "55/100",
+                "power": "92/100",
+                "chakra": "95/100",
+                "intelligence": "55/100",
                 "rank": "Kage"
             }
         },
@@ -1748,6 +1844,7 @@
             "clan": null,
             "powerLevel": 78,
             "description": "The right-hand man of the Fourth Raikage and later the Fifth Raikage. Possesses rare Storm Release.",
+            "extendedDescription": "The right-hand man and prized student of the Fourth Raikage, Darui possesses the extraordinarily rare Storm Release — a combination of Water and Lightning natures that fires rapid volleys of light-speed laser bolts. His easygoing personality belies a decisive, powerful combatant who played a critical role in the Fourth Shinobi World War. He later succeeded A to become the Fifth Raikage, guiding Hidden Cloud Village with his characteristic blend of casual confidence and genuine strength.",
             "images": {
                 "profile": "/assets/characters/77.webp",
                 "others": []
@@ -1758,9 +1855,9 @@
                 "Storm"
             ],
             "stats": {
-                "attack": "78/100",
-                "defense": "70/100",
-                "utility": "72/100",
+                "power": "78/100",
+                "chakra": "70/100",
+                "intelligence": "72/100",
                 "rank": "Jonin"
             }
         },
@@ -1771,6 +1868,7 @@
             "clan": null,
             "powerLevel": 65,
             "description": "A jonin from Hidden Cloud Village and skilled sensor type ninja who serves under the Fourth Raikage.",
+            "extendedDescription": "A sensor-type jonin from Hidden Cloud Village who combines his natural perception abilities with Lightning Release ninjutsu to serve as both intelligence asset and combat operative for the Raikage. His ability to detect and analyze chakra signatures at range made him invaluable during the Five Kage Summit and the Fourth Shinobi World War. Though he rarely takes center stage, his precision and reliability make him one of Hidden Cloud's most trusted operatives.",
             "images": {
                 "profile": "/assets/characters/78.webp",
                 "others": []
@@ -1780,9 +1878,9 @@
                 "Yin"
             ],
             "stats": {
-                "attack": "60/100",
-                "defense": "55/100",
-                "utility": "75/100",
+                "power": "60/100",
+                "chakra": "55/100",
+                "intelligence": "75/100",
                 "rank": "Jonin"
             }
         },
@@ -1793,6 +1891,7 @@
             "clan": null,
             "powerLevel": 67,
             "description": "A cool-headed kunoichi from Hidden Cloud Village who leads her own team.",
+            "extendedDescription": "A kunoichi from Hidden Cloud Village known for her calm, almost expressionless demeanor that conceals a formidable combat capability. She led her own team during the search for Killer Bee after his apparent capture by Akatsuki and handled diplomatic missions with composed efficiency. Her restraint and professionalism made her a capable representative of Hidden Cloud Village's shinobi values.",
             "images": {
                 "profile": "/assets/characters/79.webp",
                 "others": []
@@ -1802,9 +1901,9 @@
                 "Water"
             ],
             "stats": {
-                "attack": "62/100",
-                "defense": "60/100",
-                "utility": "58/100",
+                "power": "62/100",
+                "chakra": "60/100",
+                "intelligence": "58/100",
                 "rank": "Jonin"
             }
         },
@@ -1815,6 +1914,7 @@
             "clan": null,
             "powerLevel": 74,
             "description": "The supreme general of the samurai in the Land of Iron. A master swordsman of unmatched skill.",
+            "extendedDescription": "The supreme general of the samurai warriors of the Land of Iron and a swordsman whose skill was described by Hanzo of the Salamander — the most feared ninja of his era — as the one man who could defeat him in single combat. Mifune's Iai quickdraw technique leaves opponents unable to track or react to his blade. As a non-ninja who participated in the Five Kage Summit and the Fourth Shinobi World War, he demonstrated that bushido and steel can stand shoulder-to-shoulder with chakra and jutsu.",
             "images": {
                 "profile": "/assets/characters/80.webp",
                 "others": []
@@ -1823,9 +1923,9 @@
                 "Yin"
             ],
             "stats": {
-                "attack": "78/100",
-                "defense": "70/100",
-                "utility": "65/100",
+                "power": "78/100",
+                "chakra": "70/100",
+                "intelligence": "65/100",
                 "rank": "General"
             }
         },
@@ -1836,6 +1936,7 @@
             "clan": null,
             "powerLevel": 76,
             "description": "The Jinchuriki of the Seven-Tails from Hidden Waterfall Village. An energetic girl who longed for friendship.",
+            "extendedDescription": "The jinchuriki of the Seven-Tails Chomei from Hidden Waterfall Village, Fu was an energetic, beetle-obsessed young woman who longed desperately for friendship in a village that feared her for the beast within her. Her tailed beast's chakra granted her extraordinary flight capability and resilient armor-like properties. Like most jinchuriki, she was captured and her beast extracted by Akatsuki, a tragedy made sharper by her dying without the bonds she had always sought.",
             "images": {
                 "profile": "/assets/characters/81.webp",
                 "others": []
@@ -1846,9 +1947,9 @@
                 "Earth"
             ],
             "stats": {
-                "attack": "74/100",
-                "defense": "70/100",
-                "utility": "65/100",
+                "power": "74/100",
+                "chakra": "70/100",
+                "intelligence": "65/100",
                 "rank": "Jonin"
             }
         },
@@ -1859,6 +1960,7 @@
             "clan": null,
             "powerLevel": 77,
             "description": "The Jinchuriki of the Six-Tails from Hidden Mist Village. A bubble blower who tried to live peacefully.",
+            "extendedDescription": "The jinchuriki of the Six-Tails Saiken from Hidden Mist Village who wandered as a missing-nin after being haunted by the accidental death of his master, Utakata was a peaceful man who used his bubble-blowing pipe for beauty as much as combat. His tailed beast's Soap Bubble jutsu could expand into enormously pressurized spheres capable of devastating explosions. He died after Akatsuki captured him, and his brief mentorship of a young girl named Hotaru shows he was capable of the same compassion he had spent years fleeing.",
             "images": {
                 "profile": "/assets/characters/82.webp",
                 "others": []
@@ -1868,9 +1970,9 @@
                 "Wind"
             ],
             "stats": {
-                "attack": "75/100",
-                "defense": "72/100",
-                "utility": "68/100",
+                "power": "75/100",
+                "chakra": "72/100",
+                "intelligence": "68/100",
                 "rank": "Missing-nin"
             }
         },
@@ -1881,6 +1983,7 @@
             "clan": null,
             "powerLevel": 80,
             "description": "The Jinchuriki of the Two-Tails from Hidden Cloud Village. A skilled kunoichi who could fully transform into her beast.",
+            "extendedDescription": "A composed and elite kunoichi from Hidden Cloud Village who achieved complete mastery of her tailed beast, the Two-Tails Matatabi — one of only a handful of jinchuriki to do so. In her full Two-Tails transformation, she could unleash blue flames hot enough to incinerate almost anything and move with terrifying feline speed. She was captured by Hidan and Kakuzu despite putting up a formidable fight, her death serving as a dark demonstration of Akatsuki's overwhelming power.",
             "images": {
                 "profile": "/assets/characters/83.webp",
                 "others": []
@@ -1890,9 +1993,9 @@
                 "Lightning"
             ],
             "stats": {
-                "attack": "78/100",
-                "defense": "72/100",
-                "utility": "65/100",
+                "power": "78/100",
+                "chakra": "72/100",
+                "intelligence": "65/100",
                 "rank": "Jonin"
             }
         },
@@ -1903,6 +2006,7 @@
             "clan": null,
             "powerLevel": 82,
             "description": "The Fourth Mizukage and Jinchuriki of the Three-Tails. Known as the child prodigy who became Kage.",
+            "extendedDescription": "The youngest shinobi ever to achieve the title of Mizukage and one of the few jinchuriki to have achieved perfect sync with their tailed beast, Yagura ruled the Village Hidden in the Mist with an iron fist during what became known as the Blood Mist era. Unknown to his village, he was under the controlling influence of Obito Uchiha's Sharingan for the majority of his reign. In death, he was reanimated and fought with his genuine, unmanipulated strength revealed for the first time.",
             "images": {
                 "profile": "/assets/characters/84.webp",
                 "others": []
@@ -1913,9 +2017,9 @@
                 "Earth"
             ],
             "stats": {
-                "attack": "80/100",
-                "defense": "78/100",
-                "utility": "68/100",
+                "power": "80/100",
+                "chakra": "78/100",
+                "intelligence": "68/100",
                 "rank": "Kage"
             }
         },
@@ -1926,6 +2030,7 @@
             "clan": null,
             "powerLevel": 79,
             "description": "The Jinchuriki of the Four-Tails from Hidden Stone Village. Mastered Lava Release through his beast's power.",
+            "extendedDescription": "The jinchuriki of the Four-Tails Son Goku from Hidden Stone Village, Roshi left his home to master the Lava Release abilities granted by his tailed beast in solitude. He was one of the more experienced and powerful jinchuriki captured by Akatsuki, having spent decades learning to work in harmony with Son Goku's enormous power. His Lava Release techniques allowed him to cover battlefields in molten rock capable of destroying almost any defense.",
             "images": {
                 "profile": "/assets/characters/85.webp",
                 "others": []
@@ -1936,9 +2041,9 @@
                 "Lava"
             ],
             "stats": {
-                "attack": "80/100",
-                "defense": "70/100",
-                "utility": "65/100",
+                "power": "80/100",
+                "chakra": "70/100",
+                "intelligence": "65/100",
                 "rank": "Jonin"
             }
         },
@@ -1949,6 +2054,7 @@
             "clan": null,
             "powerLevel": 80,
             "description": "The Jinchuriki of the Five-Tails from Hidden Stone Village. A massive armored ninja who uses Steam Release.",
+            "extendedDescription": "The massive, steam-armored jinchuriki of the Five-Tails Kokuo from Hidden Stone Village, Han was a solitary and silent fighter who used Steam Release — a combination of Water and Fire natures — to accelerate his already tremendous physical attacks to blinding speeds. Almost nothing is known about his personality or motivations, as he rarely interacted with others during his lifetime. In death, he was reanimated by Kabuto and fought alongside the other captured jinchuriki against the Allied Shinobi Forces.",
             "images": {
                 "profile": "/assets/characters/86.webp",
                 "others": []
@@ -1959,9 +2065,9 @@
                 "Steam"
             ],
             "stats": {
-                "attack": "80/100",
-                "defense": "75/100",
-                "utility": "65/100",
+                "power": "80/100",
+                "chakra": "75/100",
+                "intelligence": "65/100",
                 "rank": "Jonin"
             }
         },
@@ -1972,6 +2078,7 @@
             "clan": null,
             "powerLevel": 79,
             "description": "An elder of Hidden Sand Village and master puppet user who created the technique to seal Shukaku into Gaara.",
+            "extendedDescription": "A legendary puppeteer from Hidden Sand Village who created the technique to seal Shukaku into the first host and had enough political experience to remember a time before the great villages existed, Chiyo was one of the most formidable elders in the shinobi world. Her Ten Puppets of Chikamatsu — copies of the original ten human puppets — could overwhelm most opponents through coordinated multi-directional assault. In her final act, she used the life-transferring technique she had invented to restore Gaara to life after Akatsuki extracted his tailed beast, giving her own remaining years to him without hesitation.",
             "images": {
                 "profile": "/assets/characters/88.webp",
                 "others": []
@@ -1982,9 +2089,9 @@
                 "Yin"
             ],
             "stats": {
-                "attack": "72/100",
-                "defense": "68/100",
-                "utility": "82/100",
+                "power": "72/100",
+                "chakra": "68/100",
+                "intelligence": "82/100",
                 "rank": "Elder"
             }
         },
@@ -1995,6 +2102,7 @@
             "clan": null,
             "powerLevel": 70,
             "description": "Chiyo's younger brother and an elder of Hidden Sand Village. A respected advisor to the Kazekage.",
+            "extendedDescription": "Chiyo's younger brother and a senior advisor to the Kazekage, Ebizo was a respected figure in Hidden Sand Village whose counsel carried significant weight in political matters. Though never reaching the legendary status of his sister, he was a reliable and experienced shinobi who witnessed the full arc of the village's history. He survived to old age, carrying on the memory of Chiyo's sacrifice and the lessons of the past.",
             "images": {
                 "profile": "/assets/characters/89.webp",
                 "others": []
@@ -2004,9 +2112,9 @@
                 "Earth"
             ],
             "stats": {
-                "attack": "62/100",
-                "defense": "60/100",
-                "utility": "70/100",
+                "power": "62/100",
+                "chakra": "60/100",
+                "intelligence": "70/100",
                 "rank": "Elder"
             }
         },
@@ -2017,6 +2125,7 @@
             "clan": null,
             "powerLevel": 70,
             "description": "A jonin from Hidden Sand Village and the sensei of Gaara, Temari, and Kankuro.",
+            "extendedDescription": "The jonin responsible for training Gaara, Temari, and Kankuro during their formative years, Baki shaped three of Hidden Sand Village's most powerful shinobi despite the extraordinary challenges of managing a team that included a jinchuriki. His Wind-style ninjutsu and precise cutting techniques made him a dangerous opponent, and his willingness to carry out missions serving the village's political interests reflected the pragmatic code of the shinobi world.",
             "images": {
                 "profile": "/assets/characters/90.webp",
                 "others": []
@@ -2026,9 +2135,9 @@
                 "Earth"
             ],
             "stats": {
-                "attack": "68/100",
-                "defense": "62/100",
-                "utility": "65/100",
+                "power": "68/100",
+                "chakra": "62/100",
+                "intelligence": "65/100",
                 "rank": "Jonin"
             }
         },
@@ -2039,6 +2148,7 @@
             "clan": null,
             "powerLevel": 76,
             "description": "A hero of Hidden Sand Village who wielded the rare Scorch Release kekkei genkai.",
+            "extendedDescription": "A hero of Hidden Sand Village who was celebrated for her rare Scorch Release kekkei genkai, which generates intensely hot orbs that evaporate all the moisture from a target's body, leaving them as a desiccated husk. She was betrayed and killed by her own village in a political arrangement, a sacrifice Hidden Sand later deeply regretted. Reanimated in the Fourth Shinobi World War, she fought with a lingering bitterness toward the village that sent her to die, but ultimately found peace.",
             "images": {
                 "profile": "/assets/characters/91.webp",
                 "others": []
@@ -2049,9 +2159,9 @@
                 "Scorch"
             ],
             "stats": {
-                "attack": "78/100",
-                "defense": "65/100",
-                "utility": "68/100",
+                "power": "78/100",
+                "chakra": "65/100",
+                "intelligence": "68/100",
                 "rank": "Jonin"
             }
         },
@@ -2062,6 +2172,7 @@
             "clan": null,
             "powerLevel": 73,
             "description": "A shinobi from Hidden Stone Village who possesses the rare Explosion Release kekkei genkai.",
+            "extendedDescription": "A shinobi from Hidden Stone Village possessing the rare Explosion Release kekkei genkai, which allows him to detonate anything he comes into contact with by infusing it with his own explosive chakra. His raw offensive capability was substantial, turning every touch into a potential landmine. He was reanimated by Kabuto during the Fourth Shinobi World War and fought alongside other Explosion Release users in a fearsome combined assault.",
             "images": {
                 "profile": "/assets/characters/92.webp",
                 "others": []
@@ -2072,9 +2183,9 @@
                 "Explosion"
             ],
             "stats": {
-                "attack": "80/100",
-                "defense": "55/100",
-                "utility": "60/100",
+                "power": "80/100",
+                "chakra": "55/100",
+                "intelligence": "60/100",
                 "rank": "Jonin"
             }
         },
@@ -2085,6 +2196,7 @@
             "clan": "Aburame",
             "powerLevel": 72,
             "description": "A Root member from the Aburame clan who uses nano-sized insects capable of spreading venom on contact.",
+            "extendedDescription": "A Root operative from the Aburame clan who was entrusted with an extraordinarily dangerous variant of insect — nano-sized parasites invisible to the naked eye that spread an incurable and rapidly spreading poison on contact. His mere touch was effectively a death sentence, making him one of the most dangerous close-range fighters in Root despite his unassuming appearance. He sacrificed himself to protect Danzo, demonstrating a loyalty that Root had successfully forged even without emotional education.",
             "images": {
                 "profile": "/assets/characters/93.webp",
                 "others": []
@@ -2094,9 +2206,9 @@
                 "Fire"
             ],
             "stats": {
-                "attack": "70/100",
-                "defense": "62/100",
-                "utility": "75/100",
+                "power": "70/100",
+                "chakra": "62/100",
+                "intelligence": "75/100",
                 "rank": "ANBU"
             }
         },
@@ -2107,6 +2219,7 @@
             "clan": "Yamanaka",
             "powerLevel": 68,
             "description": "A Root member from the Yamanaka clan who specializes in mind-based techniques.",
+            "extendedDescription": "A Root operative from the Yamanaka clan who specialized in mind-manipulation techniques serving Danzo's organization, Fu was trained to operate in the grey areas of Konoha's security apparatus. His clan techniques, applied with Root's ruthless efficiency, made him valuable for operations requiring silent subversion or extraction of information. Though he appears briefly, he represents the darker application of the Yamanaka clan's powerful mental arts.",
             "images": {
                 "profile": "/assets/characters/94.webp",
                 "others": []
@@ -2116,9 +2229,9 @@
                 "Yin"
             ],
             "stats": {
-                "attack": "55/100",
-                "defense": "58/100",
-                "utility": "80/100",
+                "power": "55/100",
+                "chakra": "58/100",
+                "intelligence": "80/100",
                 "rank": "ANBU"
             }
         },
@@ -2129,6 +2242,7 @@
             "clan": null,
             "powerLevel": 70,
             "description": "A sensor from Hidden Mist Village who stole a Byakugan from a Hyuga clan member during a past war.",
+            "extendedDescription": "A sensor ninja from Hidden Mist Village who stole a Byakugan from a Hyuga clan member during the Third Shinobi World War and implanted it in his own eye socket, gaining the ability to see and track chakra flow with Hyuga-level precision. His skill as a sensor made him an invaluable intelligence asset during the Five Kage Summit and the Fourth Shinobi World War. In the Boruto era, he was resurrected as a cyborg operative for Kara before being redeemed in his final moments.",
             "images": {
                 "profile": "/assets/characters/95.webp",
                 "others": []
@@ -2138,9 +2252,9 @@
                 "Earth"
             ],
             "stats": {
-                "attack": "62/100",
-                "defense": "60/100",
-                "utility": "78/100",
+                "power": "62/100",
+                "chakra": "60/100",
+                "intelligence": "78/100",
                 "rank": "Jonin"
             }
         },
@@ -2151,6 +2265,7 @@
             "clan": null,
             "powerLevel": 74,
             "description": "One of the Seven Ninja Swordsmen of the Mist and later the Sixth Mizukage.",
+            "extendedDescription": "One of the Seven Ninja Swordsmen of the Mist and wielder of Hiramekarei, a bandaged twin-handled sword capable of channeling and releasing chakra in various forms including hammers and blades of pure energy. Once a shy and uncertain young shinobi who doubted his own abilities, Chojuro grew into the Sixth Mizukage, leading Hidden Mist Village into a new era of peace and cooperation. His leadership represented the full healing of the village's bloody reputation.",
             "images": {
                 "profile": "/assets/characters/96.webp",
                 "others": []
@@ -2160,9 +2275,9 @@
                 "Earth"
             ],
             "stats": {
-                "attack": "72/100",
-                "defense": "68/100",
-                "utility": "65/100",
+                "power": "72/100",
+                "chakra": "68/100",
+                "intelligence": "65/100",
                 "rank": "Jonin"
             }
         },
@@ -2173,6 +2288,7 @@
             "clan": "Hozuki",
             "powerLevel": 78,
             "description": "Suigetsu's older brother and one of the legendary Seven Ninja Swordsmen of the Mist.",
+            "extendedDescription": "Suigetsu's older brother and a legendary member of the Seven Ninja Swordsmen of the Mist who reportedly mastered all seven of the clan's swords, earning him recognition as the most complete swordsman in the group's history. Like his brother, he possessed the Hydrification Technique that allowed him to convert his body to water, making him exceptionally difficult to harm. He died young, leaving behind a legacy that Suigetsu's quest to collect all seven swords was built around honoring.",
             "images": {
                 "profile": "/assets/characters/97.webp",
                 "others": []
@@ -2181,9 +2297,9 @@
                 "Water"
             ],
             "stats": {
-                "attack": "75/100",
-                "defense": "75/100",
-                "utility": "70/100",
+                "power": "75/100",
+                "chakra": "75/100",
+                "intelligence": "70/100",
                 "rank": "Jonin"
             }
         },
@@ -2194,6 +2310,7 @@
             "clan": null,
             "powerLevel": 74,
             "description": "One of the Seven Ninja Swordsmen of the Mist who wields the long needle-like sword Nuibari.",
+            "extendedDescription": "One of the Seven Ninja Swordsmen of the Mist who wielded the long, needle-like sword Nuibari, which was threaded through enemies and used to stitch multiple victims together with a wire in a technique called Long Sword Sewing. His precise and coldly methodical approach to combat made him one of the most feared swordsmen of the Mist's peak era. He was reanimated during the Fourth Shinobi World War as part of Kabuto's assembled army of legendary dead.",
             "images": {
                 "profile": "/assets/characters/98.webp",
                 "others": []
@@ -2203,9 +2320,9 @@
                 "Wind"
             ],
             "stats": {
-                "attack": "72/100",
-                "defense": "65/100",
-                "utility": "68/100",
+                "power": "72/100",
+                "chakra": "65/100",
+                "intelligence": "68/100",
                 "rank": "Jonin"
             }
         },
@@ -2216,6 +2333,7 @@
             "clan": null,
             "powerLevel": 73,
             "description": "One of the Seven Ninja Swordsmen of the Mist who wields the explosive sword Shibuki.",
+            "extendedDescription": "A member of the legendary Seven Ninja Swordsmen of the Mist and wielder of Shibuki, the explosive sword whose blade was embedded with explosive tags that detonated on contact with targets. His volatile, aggressive combat style matched the nature of his weapon, turning every swing into a potential explosion. He was reanimated by Kabuto alongside the other Swordsmen to assault the Allied Shinobi Forces in the Fourth Shinobi World War.",
             "images": {
                 "profile": "/assets/characters/99.webp",
                 "others": []
@@ -2225,9 +2343,9 @@
                 "Fire"
             ],
             "stats": {
-                "attack": "72/100",
-                "defense": "62/100",
-                "utility": "65/100",
+                "power": "72/100",
+                "chakra": "62/100",
+                "intelligence": "65/100",
                 "rank": "Jonin"
             }
         },
@@ -2238,6 +2356,7 @@
             "clan": null,
             "powerLevel": 72,
             "description": "One of the Seven Ninja Swordsmen of the Mist who wielded Samehada before Kisame.",
+            "extendedDescription": "The previous wielder of Samehada before Kisame Hoshigaki, Fuguki was one of the Seven Ninja Swordsmen of the Mist and was later revealed to have been a traitor who sold classified information about jinchuriki locations to outside parties. His betrayal was ultimately discovered and he was killed by Kisame, who wielded Samehada so naturally that the sword bonded exclusively to him afterward. He represents the corruption that festered within the Mist Village during its darkest era.",
             "images": {
                 "profile": "/assets/characters/100.webp",
                 "others": []
@@ -2246,9 +2365,9 @@
                 "Water"
             ],
             "stats": {
-                "attack": "68/100",
-                "defense": "65/100",
-                "utility": "62/100",
+                "power": "68/100",
+                "chakra": "65/100",
+                "intelligence": "62/100",
                 "rank": "Jonin"
             }
         }

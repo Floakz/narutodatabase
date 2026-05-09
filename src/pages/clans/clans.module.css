@@ -1,0 +1,215 @@
+.clans-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.adSpace {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8em;
+    font-weight: 800;
+    text-transform: uppercase;
+    background-color: rgb(203, 203, 203);
+    width: 100%;
+    height: 110px;
+    margin: 0 0 20px 0;
+    border-radius: 5px;
+}
+
+.filterSection {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.filterRow {
+    display: flex;
+    gap: 12px;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+
+.dropdownField {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.dropdownLabel {
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.dropdownWrap {
+    background-color: rgb(255, 89, 0);
+    border-radius: 999px;
+    position: relative;
+    display: inline-block;
+}
+
+.trigger {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 9px 14px;
+    border-radius: 999px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    background: rgba(50, 9, 1, 0.06);
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.85);
+    min-width: 180px;
+    justify-content: space-between;
+    transition: background 0.15s, border-color 0.15s;
+}
+
+.trigger:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.3);
+}
+
+.triggerActive {
+    border-color: rgb(255, 106, 0) !important;
+    box-shadow: 0 0 0 2px rgba(255, 106, 0, 0.2);
+}
+
+.triggerInner {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: rgb(255, 106, 0);
+    flex-shrink: 0;
+}
+
+.chevron {
+    color: rgba(255, 255, 255, 0.4);
+    flex-shrink: 0;
+    transition: transform 0.2s ease;
+}
+
+.chevronOpen {
+    transform: rotate(180deg);
+}
+
+.panel {
+    position: absolute;
+    top: calc(100% + 6px);
+    left: 0;
+    min-width: 100%;
+    background: #3f1a01;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 14px;
+    overflow: hidden;
+    z-index: 99;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(-6px);
+    transition: opacity 0.15s ease, transform 0.15s ease;
+}
+
+.panelOpen {
+    opacity: 1;
+    pointer-events: all;
+    transform: translateY(0);
+}
+
+.opt {
+    padding: 9px 14px;
+    font-size: 14px;
+    color: rgb(255, 233, 213);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: background 0.1s;
+}
+
+.opt:hover {
+    background: rgba(255, 255, 255, 0.07);
+}
+
+.optSelected {
+    color: rgb(255, 106, 0);
+    font-weight: 500;
+}
+
+.optCheck {
+    font-size: 13px;
+    opacity: 0;
+    color: rgb(255, 106, 0);
+    flex-shrink: 0;
+}
+
+.optSelected .optCheck {
+    opacity: 1;
+}
+
+.resetBtn {
+    padding: 9px 16px;
+    border-radius: 999px;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    background: transparent;
+    cursor: pointer;
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.45);
+    align-self: flex-end;
+    transition: color 0.15s, border-color 0.15s;
+}
+
+.resetBtn:hover {
+    color: rgba(255, 255, 255, 0.8);
+    border-color: rgba(255, 255, 255, 0.25);
+}
+
+.pills {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    height: 40px;
+    margin-top: 0;
+}
+
+.pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 30px 4px 30px;
+    border-radius: 999px;
+    font-size: 12px;
+    font-weight: 500;
+    background: rgba(255, 106, 0, 0.15);
+    color: rgb(255, 160, 80);
+    border: 1px solid rgba(255, 106, 0, 0.3);
+}
+
+.pillX {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: rgb(255, 120, 40);
+    font-size: 15px;
+    line-height: 1;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    opacity: 0.7;
+    transition: opacity 0.1s;
+}
+
+.pillX:hover {
+    opacity: 1;
+}
