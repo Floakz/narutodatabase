@@ -112,7 +112,7 @@ export default function Clans() {
 
                 <div className="topPageSpace"></div>
 
-                <div className={styles.adSpace}>AD SPACE</div>
+                <div className={styles.adSpace}></div>
 
                 <div className={styles.filterSection}>
                     <div className={styles.filterRow}>

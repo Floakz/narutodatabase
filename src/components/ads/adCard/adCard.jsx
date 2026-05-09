@@ -14,7 +14,7 @@ export default function AdCard() {
     }, []);
 
     return (
-        <div ref={ref} className={styles.adCard}> AD SPACE
+        <div ref={ref} className={styles.adCard}>
             <ins
                 className="adsbygoogle"
                 style={{ display: "block" }}

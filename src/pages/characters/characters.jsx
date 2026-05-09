@@ -145,7 +145,7 @@ export default function Characters() {
 
                 <div className="topPageSpace">               </div>
 
-                <div className={styles.adSpace}> AD Space</div>
+                <div className={styles.adSpace}> </div>
                 {/* Filter section */}
                 <div className={styles.filterSection}>
                     <div className={styles.filterRow}>

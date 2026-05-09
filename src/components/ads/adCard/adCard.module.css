@@ -7,3 +7,13 @@
     background-color: rgb(177, 177, 177);
     border-radius: 5px;
 }
+
+
+@media (max-width: 480px) {
+
+    .adCard {
+        height: 200PX;
+    }
+
+
+}

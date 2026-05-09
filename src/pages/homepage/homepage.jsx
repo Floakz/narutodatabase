@@ -95,7 +95,7 @@ export default function Homepage() {
                     </div>
 
                     <div className={styles.addPlacement}>
-                        SPACE FOR AD
+
                     </div>
 
 

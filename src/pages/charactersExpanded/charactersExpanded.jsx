@@ -54,7 +54,7 @@ export default function CharactersExpanded({ }) {
                             </div>
                         </div>
 
-                        <div className={styles.adSpot}> AD SPOT</div>
+                        <div className={styles.adSpot}> </div>
 
 
                         <div className={styles.statsSectionWrapper}>

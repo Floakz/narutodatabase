@@ -50,7 +50,7 @@ export default function OthersExpanded() {
                             </div>
                         </div>
 
-                        <div className={styles.adSpot}>AD SPOT</div>
+                        <div className={styles.adSpot}></div>
 
                         {item.associatedCharacters.length > 0 && (
                             <div className={styles.associatedSection}>

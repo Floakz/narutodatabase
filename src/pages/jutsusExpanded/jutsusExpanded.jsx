@@ -71,7 +71,7 @@ export default function JutsusExpanded() {
                             </div>
                         </div>
 
-                        <div className={styles.adSpot}>AD SPOT</div>
+                        <div className={styles.adSpot}></div>
 
 
 
