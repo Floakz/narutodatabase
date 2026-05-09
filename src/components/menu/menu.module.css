@@ -287,3 +287,91 @@ li {
     background: #fff5ec;
     color: #ff4800;
 }
+
+/* ── Hamburger button ── */
+.hamburger {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    width: 36px;
+    height: 36px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+}
+
+.hamburgerLine {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background-color: #290d00;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+/* ── Mobile nav panel ── */
+.mobileNav {
+    background: #fff;
+    border-top: 1px solid #f0e0d0;
+    padding: 16px 20px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.mobileNavList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.mobileNavItem {
+    display: block;
+}
+
+.mobileNavItem a {
+    display: block;
+    padding: 11px 12px;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #290d00;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background 0.1s, color 0.1s;
+    letter-spacing: 0.02em;
+}
+
+.mobileNavItem a:hover {
+    background: #fff5ec;
+    color: #ff4800;
+}
+
+/* ── Responsive breakpoints ── */
+@media (max-width: 768px) {
+    .menuItems {
+        display: none;
+    }
+
+    .hamburger {
+        display: flex;
+    }
+
+    .searchWrap {
+        width: 100%;
+    }
+
+    .searchInputWrap {
+        flex: 1;
+    }
+
+    .searchInput {
+        width: 100%;
+        min-width: 0;
+    }
+}

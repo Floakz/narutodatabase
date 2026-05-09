@@ -149,10 +149,17 @@ function SearchBar() {
 }
 
 export default function Menu() {
+    const [mobileOpen, setMobileOpen] = useState(false);
+
     const menuItems = [
         { name: 'Characters', link: '/characters' },
         { name: 'Jutsus', link: '/jutsus' },
         { name: 'Clans', link: '/clans' },
+    ];
+
+    const mobileMenuItems = [
+        ...menuItems,
+        { name: 'Others', link: '/others' },
     ];
 
     return (
@@ -172,7 +179,31 @@ export default function Menu() {
                     </ul>
                     <SearchBar />
                 </div>
+
+                <button
+                    className={styles.hamburger}
+                    onClick={() => setMobileOpen(!mobileOpen)}
+                    aria-label="Toggle navigation"
+                    aria-expanded={mobileOpen}
+                >
+                    <span className={styles.hamburgerLine}></span>
+                    <span className={styles.hamburgerLine}></span>
+                    <span className={styles.hamburgerLine}></span>
+                </button>
             </div>
+
+            {mobileOpen && (
+                <div className={styles.mobileNav}>
+                    <ul className={styles.mobileNavList}>
+                        {mobileMenuItems.map((item, index) => (
+                            <li key={index} className={styles.mobileNavItem}>
+                                <a href={item.link} onClick={() => setMobileOpen(false)}>{item.name}</a>
+                            </li>
+                        ))}
+                    </ul>
+                    <SearchBar />
+                </div>
+            )}
         </div>
     );
 }

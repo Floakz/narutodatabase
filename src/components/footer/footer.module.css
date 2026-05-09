@@ -21,3 +21,15 @@
 .innerFooter img {
     width: 150px;
 }
+
+@media (max-width: 768px) {
+    .footer {
+        padding: 40px 20px 60px;
+    }
+
+    .innerFooter {
+        flex-direction: column;
+        align-items: center;
+        gap: 24px;
+    }
+}

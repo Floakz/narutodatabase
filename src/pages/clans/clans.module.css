@@ -213,3 +213,27 @@
 .pillX:hover {
     opacity: 1;
 }
+
+@media (max-width: 768px) {
+    .filterSection {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px;
+    }
+
+    .filterRow {
+        width: 100%;
+    }
+
+    .trigger {
+        min-width: 140px;
+    }
+
+    .pills {
+        height: auto;
+    }
+
+    .clans-grid {
+        padding: 0;
+    }
+}

@@ -298,3 +298,84 @@
     -moz-box-shadow: 0px 0px 89px 17px rgba(255, 144, 46, 0.49);
     box-shadow: 0px 0px 89px 17px rgba(255, 144, 46, 0.49);
 }
+
+@media (max-width: 768px) {
+    .titleExpanded {
+        font-size: 3em;
+        padding: 0 16px;
+    }
+
+    .introInfoWrapper {
+        flex-direction: column;
+        max-width: calc(100vw - 32px);
+        margin-top: 40px;
+    }
+
+    .characterMainImage {
+        width: 100%;
+        height: 260px;
+    }
+
+    .introInfo {
+        padding: 20px 0;
+    }
+
+    .adSpot {
+        max-width: calc(100vw - 32px);
+    }
+
+    .statsSectionWrapper {
+        max-width: calc(100vw - 32px);
+        padding: 24px 16px;
+    }
+
+    .statsContainer {
+        grid-template-columns: 1fr;
+    }
+
+    .statBarWrapper,
+    .statTitle {
+        width: 100%;
+    }
+
+    .extraInfoWrapper {
+        flex-direction: column;
+        gap: 24px;
+        max-width: calc(100vw - 32px);
+    }
+
+    .extraInfoWrapper > div:nth-of-type(2) {
+        width: 100%;
+    }
+
+    .relatedSection {
+        max-width: calc(100vw - 32px);
+    }
+
+    .carroselWrapper {
+        max-width: calc(100vw - 32px);
+    }
+
+    .relatedGrid {
+        flex-wrap: wrap;
+    }
+
+    .relatedCard {
+        flex: none;
+        width: calc(50% - 7px);
+    }
+}
+
+@media (max-width: 480px) {
+    .titleExpanded {
+        font-size: 2.2em;
+    }
+
+    .quickFactsContainer > p {
+        width: 100%;
+    }
+
+    .relatedCard {
+        width: 100%;
+    }
+}

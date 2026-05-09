@@ -247,3 +247,65 @@
     font-size: 0.88em;
     text-align: center;
 }
+
+@media (max-width: 768px) {
+    .titleExpanded {
+        font-size: 3em;
+        padding: 0 16px;
+    }
+
+    .introInfoWrapper {
+        flex-direction: column;
+        max-width: calc(100vw - 32px);
+        margin-top: 40px;
+    }
+
+    .clanMainImage {
+        width: 100%;
+        height: 260px;
+    }
+
+    .introInfo {
+        padding: 20px 0;
+    }
+
+    .adSpot {
+        max-width: calc(100vw - 32px);
+    }
+
+    .membersSection,
+    .jutsusSection {
+        max-width: calc(100vw - 32px);
+    }
+
+    .carrosselWrapper {
+        max-width: calc(100vw - 32px);
+    }
+
+    .relatedSection {
+        max-width: calc(100vw - 32px);
+    }
+
+    .relatedGrid {
+        flex-wrap: wrap;
+    }
+
+    .relatedCard {
+        flex: none;
+        width: calc(50% - 7px);
+    }
+}
+
+@media (max-width: 480px) {
+    .titleExpanded {
+        font-size: 2.2em;
+    }
+
+    .quickFactsContainer > p {
+        width: 100%;
+    }
+
+    .relatedCard {
+        width: 100%;
+    }
+}

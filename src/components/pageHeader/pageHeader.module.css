@@ -9,24 +9,58 @@
     margin-top: 200px;
 }
 
-.pageHeader h1 {
-    text-align: center;
-    line-height: 1em;
-    max-width: 900px;
-    font-size: 6em;
-    font-weight: 900;
-    color: #491700;
-    text-transform: uppercase;
+
+
+.bannerMB {
+    display: none;
 }
 
-.pageHeader span {
-    font-size: 1.3em;
-    text-transform: uppercase;
-    color: #ffffff;
-    background-color: #f66c2d;
-    border: 1px solid rgb(68, 0, 11);
-    padding: 5px 20px;
-    font-weight: 800;
-    border-radius: 20px;
-    text-align: center;
+.bannerLG {
+    display: block;
+}
+
+
+
+@media (max-width: 1024px) {
+    .pageHeader {
+        margin-top: 160px;
+    }
+
+    .pageHeader h1 {
+        font-size: 4.5em;
+    }
+
+    .bannerMB {
+        display: none;
+    }
+
+    .bannerLG {
+        display: block;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .bannerLG {
+        display: none;
+    }
+
+    .bannerMB {
+        display: block;
+    }
+
+
+    .pageHeader {
+        margin-top: 120px;
+        height: auto;
+        gap: 20px;
+    }
+
+    .pageHeader h1 {
+        font-size: 2.8em;
+    }
+
+    .pageHeader span {
+        font-size: 1em;
+    }
 }
