@@ -73,6 +73,17 @@
     text-overflow: ellipsis;
 }
 
+.category {
+    color: white;
+    background-color: rgb(62, 44, 10);
+    width: fit-content;
+    padding: 0 20px;
+    border-radius: 20px;
+    font-size: 0.8em;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
 .village {
     font-size: 13px;
     color: rgba(255, 255, 255, 0.75);

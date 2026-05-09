@@ -14,7 +14,7 @@ const CATEGORIES = [
     { value: "Weapon", label: "Weapon" },
     { value: "Item", label: "Item" },
     { value: "Scroll", label: "Scroll" },
-    { value: "Building", label: "Building" },
+    { value: "Location", label: "Location" },
     { value: "Clothing", label: "Clothing" },
     { value: "Artifact", label: "Artifact" },
 ];

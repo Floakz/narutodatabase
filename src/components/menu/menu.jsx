@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import styles from './menu.module.css';
 
-const OTHERS_CATEGORIES = ['Weapon', 'Item', 'Scroll', 'Building', 'Clothing', 'Artifact'];
+const OTHERS_CATEGORIES = ['Weapon', 'Item', 'Scroll', 'Location', 'Clothing', 'Artifact'];
 
 function OthersDropdown() {
     const [open, setOpen] = useState(false);

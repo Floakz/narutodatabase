@@ -1,4 +1,4 @@
-﻿{
+{
     "items": [
         {
             "id": 1,
@@ -28,7 +28,7 @@
         },
         {
             "id": 2,
-            "name": "KubikiribÅchÅ",
+            "name": "Executioner's Blade",
             "category": "Weapon",
             "description": "A massive executioner's blade that can regenerate itself using the iron from the blood of those it cuts. One of the Seven Swords of the Mist, famously wielded by Zabuza.",
             "associatedCharacters": [
@@ -339,35 +339,9 @@
             }
         },
         {
-            "id": 18,
-            "name": "Uchiha Stone Tablet",
-            "category": "Scroll",
-            "description": "A stone tablet kept secret within the Uchiha clan that contains prophecies and history written by Hagoromo. Madara used it to plan his Eye of the Moon plan.",
-            "associatedCharacters": [
-                {
-                    "id": 10,
-                    "name": "Madara Uchiha"
-                },
-                {
-                    "id": 5,
-                    "name": "Itachi Uchiha"
-                }
-            ],
-            "associatedClans": [
-                {
-                    "id": 1,
-                    "name": "Uchiha"
-                }
-            ],
-            "images": {
-                "profile": "/assets/items/18.webp",
-                "others": []
-            }
-        },
-        {
             "id": 19,
             "name": "Hokage Rock",
-            "category": "Building",
+            "category": "Location",
             "description": "A massive stone cliff face carved with the faces of every Hokage. Overlooking the Hidden Leaf Village, it is the most iconic landmark in Konoha.",
             "associatedCharacters": [
                 {
@@ -408,7 +382,7 @@
         {
             "id": 20,
             "name": "Ichiraku Ramen",
-            "category": "Building",
+            "category": "Location",
             "description": "Naruto's favorite ramen stand located in the Hidden Leaf Village. Run by Teuchi and his daughter Ayame, it is one of the most beloved locations in the entire series.",
             "associatedCharacters": [
                 {
@@ -429,19 +403,19 @@
         {
             "id": 21,
             "name": "Chunin Exam Arena",
-            "category": "Building",
+            "category": "Location",
             "description": "The stadium in Konoha where the final stage of the Chunin Exams is held. Site of many legendary battles including Naruto vs Neji and Sasuke vs Gaara.",
             "associatedCharacters": [],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/21.webp",
                 "others": []
             }
         },
         {
             "id": 22,
             "name": "Forest of Death",
-            "category": "Building",
+            "category": "Location",
             "description": "Training Ground 44 in Konoha, used as the second stage of the Chunin Exams. A massive dangerous forest filled with giant predatory creatures.",
             "associatedCharacters": [
                 {
@@ -455,14 +429,14 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/22.webp",
                 "others": []
             }
         },
         {
             "id": 23,
             "name": "Valley of the End",
-            "category": "Building",
+            "category": "Location",
             "description": "A massive waterfall on the border of the Land of Fire marked by two giant statues of Hashirama and Madara. Site of two legendary battles between Naruto and Sasuke.",
             "associatedCharacters": [
                 {
@@ -484,14 +458,14 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/23.webp",
                 "others": []
             }
         },
         {
             "id": 24,
             "name": "Training Ground 7",
-            "category": "Building",
+            "category": "Location",
             "description": "The iconic training ground where Team 7 trained under Kakashi. Marked by the memorial stone listing all of Konoha's fallen shinobi.",
             "associatedCharacters": [
                 {
@@ -513,14 +487,14 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/24.webp",
                 "others": []
             }
         },
         {
             "id": 25,
             "name": "Ryuchi Cave",
-            "category": "Building",
+            "category": "Location",
             "description": "The sacred home of the White Snake Sage and the snake summoning clan. Located at the end of a treacherous journey, it is where Kabuto trained to master Sage Mode.",
             "associatedCharacters": [
                 {
@@ -534,14 +508,14 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/25.webp",
                 "others": []
             }
         },
         {
             "id": 26,
             "name": "Mount Myoboku",
-            "category": "Building",
+            "category": "Location",
             "description": "The sacred mountain home of the toad summoning clan and the Great Toad Sage. The place where Naruto and Jiraiya trained to master Sage Mode.",
             "associatedCharacters": [
                 {
@@ -559,14 +533,14 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/26.webp",
                 "others": []
             }
         },
         {
             "id": 27,
             "name": "Shikkotsu Forest",
-            "category": "Building",
+            "category": "Location",
             "description": "The sacred home of the slug summoning clan where the slug sage resides. One of the three great sage locations alongside Mount Myoboku and Ryuchi Cave.",
             "associatedCharacters": [
                 {
@@ -580,7 +554,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/27.webp",
                 "others": []
             }
         },
@@ -621,7 +595,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/28.webp",
                 "others": []
             }
         },
@@ -666,7 +640,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/29.webp",
                 "others": []
             }
         },
@@ -691,7 +665,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/30.webp",
                 "others": []
             }
         },
@@ -720,7 +694,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/31.webp",
                 "others": []
             }
         },
@@ -742,7 +716,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/32.webp",
                 "others": []
             }
         },
@@ -767,50 +741,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
-                "others": []
-            }
-        },
-        {
-            "id": 34,
-            "name": "Tenseigan",
-            "category": "Artifact",
-            "description": "A powerful dojutsu created by combining Otsutsuki and Hyuga chakra. Grants the user immense power and the ability to manipulate attractive and repulsive forces.",
-            "associatedCharacters": [
-                {
-                    "id": 44,
-                    "name": "Hamura Otsutsuki"
-                }
-            ],
-            "associatedClans": [
-                {
-                    "id": 12,
-                    "name": "Otsutsuki"
-                },
-                {
-                    "id": 4,
-                    "name": "Hyuga"
-                }
-            ],
-            "images": {
-                "profile": "",
-                "others": []
-            }
-        },
-        {
-            "id": 35,
-            "name": "Scroll of Seals",
-            "category": "Scroll",
-            "description": "A large scroll used to store weapons, objects, and other items through sealing jutsu. Ninja carry these to deploy large quantities of equipment instantly in battle.",
-            "associatedCharacters": [
-                {
-                    "id": 26,
-                    "name": "Tenten"
-                }
-            ],
-            "associatedClans": [],
-            "images": {
-                "profile": "",
+                "profile": "/assets/items/33.webp",
                 "others": []
             }
         },
@@ -827,13 +758,13 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/36.webp",
                 "others": []
             }
         },
         {
             "id": 37,
-            "name": "Sasori's Human Puppet â€” Third Kazekage",
+            "name": "Third Kazekage Puppet",
             "category": "Artifact",
             "description": "Sasori converted the body of the Third Kazekage into a puppet, preserving his Iron Sand kekkei genkai ability. Considered Sasori's most powerful puppet.",
             "associatedCharacters": [
@@ -844,7 +775,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/37.webp",
                 "others": []
             }
         },
@@ -861,7 +792,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/38.webp",
                 "others": []
             }
         },
@@ -882,7 +813,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/39.webp",
                 "others": []
             }
         },
@@ -899,32 +830,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
-                "others": []
-            }
-        },
-        {
-            "id": 41,
-            "name": "Orochimaru's Cursed Seal",
-            "category": "Artifact",
-            "description": "A special mark applied by Orochimaru through a bite that brands the recipient with a seal granting enormous power. Comes in two forms: Heaven and Earth.",
-            "associatedCharacters": [
-                {
-                    "id": 9,
-                    "name": "Orochimaru"
-                },
-                {
-                    "id": 2,
-                    "name": "Sasuke Uchiha"
-                },
-                {
-                    "id": 54,
-                    "name": "Anko Mitarashi"
-                }
-            ],
-            "associatedClans": [],
-            "images": {
-                "profile": "",
+                "profile": "/assets/items/40.webp",
                 "others": []
             }
         },
@@ -945,14 +851,14 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/42.webp",
                 "others": []
             }
         },
         {
             "id": 43,
             "name": "Konoha Memorial Stone",
-            "category": "Building",
+            "category": "Location",
             "description": "A black stone monument in Training Ground 7 engraved with the names of every Konoha shinobi who died in the line of duty. A place of quiet mourning for Kakashi.",
             "associatedCharacters": [
                 {
@@ -966,24 +872,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
-                "others": []
-            }
-        },
-        {
-            "id": 44,
-            "name": "Deidara's Clay Spiders",
-            "category": "Weapon",
-            "description": "Small explosive clay sculptures shaped like spiders used by Deidara for tracking and surprise detonations. A versatile tool in his explosive art arsenal.",
-            "associatedCharacters": [
-                {
-                    "id": 18,
-                    "name": "Deidara"
-                }
-            ],
-            "associatedClans": [],
-            "images": {
-                "profile": "",
+                "profile": "/assets/items/43.webp",
                 "others": []
             }
         },
@@ -1000,24 +889,7 @@
             ],
             "associatedClans": [],
             "images": {
-                "profile": "",
-                "others": []
-            }
-        },
-        {
-            "id": 46,
-            "name": "Iron Sand",
-            "category": "Artifact",
-            "description": "A kekkei genkai unique to the Third Kazekage that allows manipulation of magnetic forces to control iron powder as a weapon. Later used by Sasori's puppet.",
-            "associatedCharacters": [
-                {
-                    "id": 19,
-                    "name": "Sasori"
-                }
-            ],
-            "associatedClans": [],
-            "images": {
-                "profile": "",
+                "profile": "/assets/items/45.webp",
                 "others": []
             }
         },
@@ -1039,7 +911,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/47.webp",
                 "others": []
             }
         },
@@ -1051,33 +923,7 @@
             "associatedCharacters": [],
             "associatedClans": [],
             "images": {
-                "profile": "",
-                "others": []
-            }
-        },
-        {
-            "id": 49,
-            "name": "Hashirama's Wood Dragon",
-            "category": "Artifact",
-            "description": "A massive wooden dragon created by Hashirama's Wood Release that can suppress Tailed Beast chakra. Used to restrain the Nine-Tails and later replicated by Yamato.",
-            "associatedCharacters": [
-                {
-                    "id": 11,
-                    "name": "Hashirama Senju"
-                },
-                {
-                    "id": 71,
-                    "name": "Yamato"
-                }
-            ],
-            "associatedClans": [
-                {
-                    "id": 2,
-                    "name": "Senju"
-                }
-            ],
-            "images": {
-                "profile": "",
+                "profile": "/assets/items/48.webp",
                 "others": []
             }
         },
@@ -1099,7 +945,7 @@
                 }
             ],
             "images": {
-                "profile": "",
+                "profile": "/assets/items/50.webp",
                 "others": []
             }
         }

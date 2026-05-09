@@ -87,7 +87,7 @@ export default function CharactersExpanded({ }) {
 
                         {relatedCharacters.length > 0 && (
                             <div className={styles.relatedSection}>
-                                <span className={styles.relatedTitle}>✨ Other related characters</span>
+                                <span className={styles.relatedTitle}>✨ Other characters</span>
                                 <div className={styles.relatedGrid}>
                                     {relatedCharacters.map(c => (
                                         <Link to={`/characters/${c.id}`} key={c.id} className={styles.relatedCard}>
@@ -112,11 +112,3 @@ export default function CharactersExpanded({ }) {
 
 
 
-{/* <div className={styles.charactersExpanded}>
-    <p>{character.name}</p>
-    <p>{character.village}</p>
-    <p>{character.clan}</p>
-    <p>{character.powerLevel}</p>
-    <p>{character.description}</p>
-    <p>{character.chakraType}</p>
-    <img src={character.images.profile} alt={character.name} />            </div> */}

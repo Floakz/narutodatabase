@@ -2370,6 +2370,28 @@
                 "intelligence": "62/100",
                 "rank": "Jonin"
             }
+        },
+        {
+            "id": 101,
+            "name": "Kagura Karatachi",
+            "village": "Hidden Mist Village",
+            "clan": null,
+            "powerLevel": 62,
+            "description": "Kagura Karatachi is a shinobi from the Hidden Mist Village and a descendant of the infamous Fourth Mizukage. Calm, kind, and thoughtful, he struggles with the dark legacy tied to his bloodline while trying to become a better leader and protect his village. Despite his gentle nature, he is highly skilled with a sword and possesses immense hidden strength.",
+            "extendedDescription": "Kagura Karatachi is a shinobi from Kirigakure, the Hidden Mist Village, and a descendant of Yagura Karatachi, the feared Fourth Mizukage. Unlike his ancestor, Kagura is calm, kind, and deeply troubled by the violent legacy tied to his family name. He constantly struggles with the fear of losing control of the darkness inside him, while trying to prove that people are not defined by their bloodline. Under the guidance of Chojuro, the Sixth Mizukage, Kagura becomes a talented swordsman and earns the trust to wield Hiramekarei, one of the legendary Mist swords. Throughout the story, his friendships and experiences help him grow into a brave and compassionate protector who wants to lead the Hidden Mist toward a better future.",
+            "images": {
+                "profile": "/assets/characters/101.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water"
+            ],
+            "stats": {
+                "power": "72/100",
+                "chakra": "68/100",
+                "intelligence": "65/100",
+                "rank": "Chunin"
+            }
         }
     ]
 }
