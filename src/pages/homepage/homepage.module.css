@@ -109,10 +109,18 @@
 }
 
 @media (max-width: 480px) {
+
     .characters-grid,
     .jutsus-grid,
     .items-grid,
     .clans-grid {
         grid-template-columns: 1fr;
     }
+
+
+
+    .addPlacement {
+        height: 70px;
+    }
+
 }
