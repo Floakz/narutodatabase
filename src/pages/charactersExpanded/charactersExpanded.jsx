@@ -75,7 +75,7 @@ export default function CharactersExpanded({ }) {
                                 {character.extendedDescription || character.description}
                             </div>
 
-                            <div>AD SPOT</div>
+                            <div></div>
 
                         </div>
 

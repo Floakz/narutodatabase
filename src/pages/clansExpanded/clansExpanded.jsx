@@ -51,7 +51,7 @@ export default function ClansExpanded() {
                             </div>
                         </div>
 
-                        <div className={styles.adSpot}>AD SPOT</div>
+                        <div className={styles.adSpot}></div>
 
                         {clan.notableMembers.length > 0 && (
                             <div className={styles.membersSection}>
