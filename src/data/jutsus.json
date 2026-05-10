@@ -20,6 +20,10 @@
                 {
                     "id": 72,
                     "name": "Konohamaru Sarutobi"
+                },
+                {
+                    "id": 49,
+                    "name": "Boruto Uzumaki"
                 }
             ],
             "clan": null,
@@ -324,6 +328,14 @@
                 {
                     "id": 24,
                     "name": "Rock Lee"
+                },
+                {
+                    "id": 172,
+                    "name": "Might Duy"
+                },
+                {
+                    "id": 147,
+                    "name": "Metal Lee"
                 }
             ],
             "clan": null,
@@ -346,6 +358,14 @@
                 {
                     "id": 28,
                     "name": "Shikamaru Nara"
+                },
+                {
+                    "id": 103,
+                    "name": "Shikaku Nara"
+                },
+                {
+                    "id": 149,
+                    "name": "Shikadai Nara"
                 }
             ],
             "clan": "Nara",
@@ -374,6 +394,14 @@
                 {
                     "id": 63,
                     "name": "Hiashi Hyuga"
+                },
+                {
+                    "id": 112,
+                    "name": "Hizashi Hyuga"
+                },
+                {
+                    "id": 64,
+                    "name": "Hanabi Hyuga"
                 }
             ],
             "clan": "Hyuga",
@@ -406,6 +434,14 @@
                 {
                     "id": 64,
                     "name": "Hanabi Hyuga"
+                },
+                {
+                    "id": 112,
+                    "name": "Hizashi Hyuga"
+                },
+                {
+                    "id": 126,
+                    "name": "Toneri Otsutsuki"
                 }
             ],
             "clan": "Hyuga",
@@ -444,6 +480,18 @@
                 {
                     "id": 16,
                     "name": "Obito Uchiha"
+                },
+                {
+                    "id": 50,
+                    "name": "Sarada Uchiha"
+                },
+                {
+                    "id": 165,
+                    "name": "Izumi Uchiha"
+                },
+                {
+                    "id": 167,
+                    "name": "Shin Uchiha"
                 }
             ],
             "clan": "Uchiha",
@@ -482,6 +530,14 @@
                 {
                     "id": 57,
                     "name": "Shisui Uchiha"
+                },
+                {
+                    "id": 58,
+                    "name": "Fugaku Uchiha"
+                },
+                {
+                    "id": 174,
+                    "name": "Izuna Uchiha"
                 }
             ],
             "clan": "Uchiha",
@@ -617,6 +673,14 @@
                 {
                     "id": 41,
                     "name": "Kabuto Yakushi"
+                },
+                {
+                    "id": 128,
+                    "name": "Koji Kashin"
+                },
+                {
+                    "id": 51,
+                    "name": "Mitsuki"
                 }
             ],
             "clan": null,
@@ -692,6 +756,14 @@
                 {
                     "id": 71,
                     "name": "Yamato"
+                },
+                {
+                    "id": 132,
+                    "name": "Moegi Kazamatsuri"
+                },
+                {
+                    "id": 194,
+                    "name": "Victor"
                 }
             ],
             "clan": "Senju",
@@ -716,6 +788,10 @@
                 {
                     "id": 40,
                     "name": "Onoki"
+                },
+                {
+                    "id": 142,
+                    "name": "Mu (Second Tsuchikage)"
                 }
             ],
             "clan": null,
@@ -743,6 +819,14 @@
                 {
                     "id": 85,
                     "name": "Roshi"
+                },
+                {
+                    "id": 143,
+                    "name": "Kurotsuchi"
+                },
+                {
+                    "id": 156,
+                    "name": "Son Goku (Four-Tails)"
                 }
             ],
             "clan": null,
@@ -900,6 +984,14 @@
                 {
                     "id": 3,
                     "name": "Sakura Haruno"
+                },
+                {
+                    "id": 8,
+                    "name": "Tsunade"
+                },
+                {
+                    "id": 6,
+                    "name": "Minato Namikaze"
                 }
             ],
             "clan": null,
@@ -1114,6 +1206,10 @@
                 {
                     "id": 97,
                     "name": "Mangetsu Hozuki"
+                },
+                {
+                    "id": 141,
+                    "name": "Gengetsu Hozuki (Second Mizukage)"
                 }
             ],
             "clan": "Hozuki",
@@ -1136,6 +1232,14 @@
                 {
                     "id": 30,
                     "name": "Ino Yamanaka"
+                },
+                {
+                    "id": 104,
+                    "name": "Inoichi Yamanaka"
+                },
+                {
+                    "id": 148,
+                    "name": "Inojin Yamanaka"
                 }
             ],
             "clan": "Yamanaka",
@@ -1158,6 +1262,14 @@
                 {
                     "id": 29,
                     "name": "Choji Akimichi"
+                },
+                {
+                    "id": 105,
+                    "name": "Choza Akimichi"
+                },
+                {
+                    "id": 150,
+                    "name": "Chocho Akimichi"
                 }
             ],
             "clan": "Akimichi",
@@ -1202,6 +1314,10 @@
                 {
                     "id": 31,
                     "name": "Kiba Inuzuka"
+                },
+                {
+                    "id": 123,
+                    "name": "Tsume Inuzuka"
                 }
             ],
             "clan": "Inuzuka",
@@ -1449,6 +1565,14 @@
                 {
                     "id": 58,
                     "name": "Fugaku Uchiha"
+                },
+                {
+                    "id": 59,
+                    "name": "Mikoto Uchiha"
+                },
+                {
+                    "id": 175,
+                    "name": "Kagami Uchiha"
                 }
             ],
             "clan": "Uchiha",
@@ -1542,6 +1666,26 @@
                 {
                     "id": 54,
                     "name": "Anko Mitarashi"
+                },
+                {
+                    "id": 116,
+                    "name": "Kimimaro"
+                },
+                {
+                    "id": 117,
+                    "name": "Tayuya"
+                },
+                {
+                    "id": 118,
+                    "name": "Kidomaru"
+                },
+                {
+                    "id": 119,
+                    "name": "Jirobo"
+                },
+                {
+                    "id": 120,
+                    "name": "Sakon and Ukon"
                 }
             ],
             "clan": null,
@@ -1810,6 +1954,10 @@
                 {
                     "id": 33,
                     "name": "Hinata Hyuga"
+                },
+                {
+                    "id": 163,
+                    "name": "Shizune"
                 }
             ],
             "clan": null,
@@ -1858,6 +2006,10 @@
                 {
                     "id": 8,
                     "name": "Tsunade"
+                },
+                {
+                    "id": 163,
+                    "name": "Shizune"
                 }
             ],
             "clan": null,
@@ -1938,6 +2090,14 @@
                 {
                     "id": 34,
                     "name": "Gaara"
+                },
+                {
+                    "id": 152,
+                    "name": "Kurama (Nine-Tails)"
+                },
+                {
+                    "id": 160,
+                    "name": "Gyuki (Eight-Tails)"
                 }
             ],
             "clan": null,
@@ -1976,7 +2136,7 @@
         },
         {
             "id": 77,
-            "name": "Sage Art: Wood Release â€” True Several Thousand Hands",
+            "name": "Sage Art: Wood Release True Several Thousand Hands",
             "type": "Ninjutsu",
             "rank": "S",
             "chakraType": [

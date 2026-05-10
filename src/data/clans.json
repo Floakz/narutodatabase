@@ -34,6 +34,26 @@
                 {
                     "id": 59,
                     "name": "Mikoto Uchiha"
+                },
+                {
+                    "id": 50,
+                    "name": "Sarada Uchiha"
+                },
+                {
+                    "id": 165,
+                    "name": "Izumi Uchiha"
+                },
+                {
+                    "id": 174,
+                    "name": "Izuna Uchiha"
+                },
+                {
+                    "id": 175,
+                    "name": "Kagami Uchiha"
+                },
+                {
+                    "id": 167,
+                    "name": "Shin Uchiha"
                 }
             ],
             "signatureJutsu": [
@@ -85,6 +105,10 @@
                 {
                     "id": 8,
                     "name": "Tsunade"
+                },
+                {
+                    "id": 114,
+                    "name": "Nawaki"
                 }
             ],
             "signatureJutsu": [
@@ -128,6 +152,18 @@
                 {
                     "id": 69,
                     "name": "Karin Uzumaki"
+                },
+                {
+                    "id": 49,
+                    "name": "Boruto Uzumaki"
+                },
+                {
+                    "id": 151,
+                    "name": "Himawari Uzumaki"
+                },
+                {
+                    "id": 102,
+                    "name": "Yahiko"
                 }
             ],
             "signatureJutsu": [
@@ -167,6 +203,10 @@
                 {
                     "id": 64,
                     "name": "Hanabi Hyuga"
+                },
+                {
+                    "id": 112,
+                    "name": "Hizashi Hyuga"
                 }
             ],
             "signatureJutsu": [
@@ -198,6 +238,14 @@
                 {
                     "id": 28,
                     "name": "Shikamaru Nara"
+                },
+                {
+                    "id": 103,
+                    "name": "Shikaku Nara"
+                },
+                {
+                    "id": 149,
+                    "name": "Shikadai Nara"
                 }
             ],
             "signatureJutsu": [
@@ -221,6 +269,14 @@
                 {
                     "id": 29,
                     "name": "Choji Akimichi"
+                },
+                {
+                    "id": 105,
+                    "name": "Choza Akimichi"
+                },
+                {
+                    "id": 150,
+                    "name": "Chocho Akimichi"
                 }
             ],
             "signatureJutsu": [
@@ -248,6 +304,14 @@
                 {
                     "id": 94,
                     "name": "Fu Yamanaka"
+                },
+                {
+                    "id": 104,
+                    "name": "Inoichi Yamanaka"
+                },
+                {
+                    "id": 148,
+                    "name": "Inojin Yamanaka"
                 }
             ],
             "signatureJutsu": [
@@ -271,6 +335,14 @@
                 {
                     "id": 31,
                     "name": "Kiba Inuzuka"
+                },
+                {
+                    "id": 123,
+                    "name": "Tsume Inuzuka"
+                },
+                {
+                    "id": 124,
+                    "name": "Hana Inuzuka"
                 }
             ],
             "signatureJutsu": [
@@ -329,6 +401,14 @@
                 {
                     "id": 72,
                     "name": "Konohamaru Sarutobi"
+                },
+                {
+                    "id": 171,
+                    "name": "Mirai Sarutobi"
+                },
+                {
+                    "id": 193,
+                    "name": "Biwako Sarutobi"
                 }
             ],
             "signatureJutsu": [
@@ -352,6 +432,10 @@
                 {
                     "id": 4,
                     "name": "Kakashi Hatake"
+                },
+                {
+                    "id": 173,
+                    "name": "Sakumo Hatake"
                 }
             ],
             "signatureJutsu": [
@@ -399,6 +483,18 @@
                 {
                     "id": 48,
                     "name": "Kinshiki Otsutsuki"
+                },
+                {
+                    "id": 126,
+                    "name": "Toneri Otsutsuki"
+                },
+                {
+                    "id": 188,
+                    "name": "Urashiki Otsutsuki"
+                },
+                {
+                    "id": 53,
+                    "name": "Jigen (Isshiki Otsutsuki)"
                 }
             ],
             "signatureJutsu": [
@@ -438,6 +534,10 @@
                 {
                     "id": 97,
                     "name": "Mangetsu Hozuki"
+                },
+                {
+                    "id": 141,
+                    "name": "Gengetsu Hozuki (Second Mizukage)"
                 }
             ],
             "signatureJutsu": [
@@ -610,6 +710,14 @@
                 {
                     "id": 3,
                     "name": "Sakura Haruno"
+                },
+                {
+                    "id": 189,
+                    "name": "Mebuki Haruno"
+                },
+                {
+                    "id": 190,
+                    "name": "Kizashi Haruno"
                 }
             ],
             "signatureJutsu": [
@@ -682,6 +790,46 @@
                 {
                     "id": 73,
                     "name": "Iruka Umino"
+                }
+            ],
+            "signatureJutsu": [],
+            "images": {
+                "profile": "/assets/clans/unknown.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 23,
+            "name": "Kaguya",
+            "village": null,
+            "kekkeiGenkai": "Shikotsumyaku",
+            "description": "A nearly extinct and bloodthirsty clan that attacked Hidden Mist Village purely for the joy of battle and was wiped out as a result. Their unique Shikotsumyaku kekkei genkai allows control over the skeletal structure.",
+            "notableMembers": [
+                {
+                    "id": 116,
+                    "name": "Kimimaro"
+                }
+            ],
+            "signatureJutsu": [],
+            "images": {
+                "profile": "/assets/clans/unknown.webp",
+                "others": []
+            }
+        },
+        {
+            "id": 25,
+            "name": "Morino",
+            "village": "Hidden Leaf Village",
+            "kekkeiGenkai": null,
+            "description": "The clan of Ibiki Morino, head of Konoha's Torture and Interrogation Force. Known for endurance and psychological resilience.",
+            "notableMembers": [
+                {
+                    "id": 108,
+                    "name": "Ibiki Morino"
+                },
+                {
+                    "id": 197,
+                    "name": "Idate Morino"
                 }
             ],
             "signatureJutsu": [],

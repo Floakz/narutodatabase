@@ -134,16 +134,14 @@
 
 .membersGrid,
 .jutsusGrid {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 140px);
     gap: 14px;
-    flex-wrap: wrap;
 }
 
 .memberCard,
 .jutsuCard {
-    flex: 1;
-    min-width: 120px;
-    max-width: 200px;
+    width: 140px;
     position: relative;
     border-radius: 16px;
     overflow: hidden;

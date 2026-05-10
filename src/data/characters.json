@@ -2392,6 +2392,2259 @@
                 "intelligence": "65/100",
                 "rank": "Chunin"
             }
+        },
+        {
+            "id": 102,
+            "name": "Yahiko",
+            "village": "Hidden Rain Village",
+            "clan": null,
+            "powerLevel": 78,
+            "description": "Co-founder of the original Akatsuki alongside Nagato and Konan. A determined orphan who dreamed of peace without bloodshed.",
+            "extendedDescription": "Born an orphan in the war-torn Hidden Rain Village, Yahiko grew up surviving on scraps alongside Nagato and Konan until Jiraiya found them and briefly trained them. His charisma and conviction made him the natural leader of the original Akatsuki — an organisation then dedicated to ending war rather than perpetuating it. He died by suicide rather than allow Nagato to be used as a hostage by Hanzo and Danzo, an act of defiance whose grief shattered Nagato and redirected the Akatsuki toward darkness. The Six Paths of Pain body modelled after Yahiko became Pain's primary vessel.",
+            "images": {
+                "profile": "/assets/characters/102.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind",
+                "Water"
+            ],
+            "stats": {
+                "power": "72/100",
+                "chakra": "65/100",
+                "intelligence": "70/100",
+                "rank": "Missing-nin"
+            }
+        },
+        {
+            "id": 103,
+            "name": "Shikaku Nara",
+            "village": "Hidden Leaf Village",
+            "clan": "Nara",
+            "powerLevel": 82,
+            "description": "Shikamaru's father and head of the Nara clan. Served as the chief strategist of the Allied Shinobi Forces.",
+            "extendedDescription": "The head of the Nara clan and the supreme strategist of the Allied Shinobi Forces during the Fourth Shinobi World War, Shikaku Nara was considered the sharpest military mind in the shinobi world. He managed the entire war effort from Konoha's command centre, coordinating hundreds of thousands of troops across multiple fronts with the same effortless genius his son inherited. He died in the first strike of the Ten-Tails attack, but not before transmitting his final battle strategy to the entire army through Ino's telepathy — a last plan that ultimately helped turn the tide.",
+            "images": {
+                "profile": "/assets/characters/103.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Yin",
+                "Earth",
+                "Fire"
+            ],
+            "stats": {
+                "power": "70/100",
+                "chakra": "70/100",
+                "intelligence": "98/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 104,
+            "name": "Inoichi Yamanaka",
+            "village": "Hidden Leaf Village",
+            "clan": "Yamanaka",
+            "powerLevel": 78,
+            "description": "Ino's father and head of the Yamanaka clan. Led Konoha's Intelligence Division and was a master of mind techniques.",
+            "extendedDescription": "The head of the Yamanaka clan and the director of Konoha's Torture and Interrogation Force's intelligence division, Inoichi Yamanaka was one of the village's most trusted operatives. His mastery of mind-transfer and telepathic techniques allowed him to extract information from the most hardened enemies without leaving a trace. During the Fourth Shinobi World War, he served as the communications hub for the entire Allied network, relaying Shikaku's final strategy across the battlefield moments before their shared death in the Ten-Tails' first assault.",
+            "images": {
+                "profile": "/assets/characters/104.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Earth",
+                "Yin"
+            ],
+            "stats": {
+                "power": "68/100",
+                "chakra": "65/100",
+                "intelligence": "92/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 105,
+            "name": "Choza Akimichi",
+            "village": "Hidden Leaf Village",
+            "clan": "Akimichi",
+            "powerLevel": 76,
+            "description": "Choji's father and head of the Akimichi clan. A beloved giant of a man who fought alongside the Ino-Shika-Cho formation.",
+            "extendedDescription": "The head of the Akimichi clan and a towering pillar of the classic Ino-Shika-Cho formation alongside Shikaku and Inoichi, Choza is a warm, generous man whose size matches his heart. His Multi-Size and Partial Multi-Size techniques allow him to expand to colossal proportions, overwhelming enemies with sheer physical mass. He fought and nearly died against Asuma during the latter's reanimation, a battle that tested every limit of his body and his loyalty. His gentleness with Choji, always choosing encouragement over criticism, helped shape his son into the kind-hearted warrior he became.",
+            "images": {
+                "profile": "/assets/characters/105.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Yang"
+            ],
+            "stats": {
+                "power": "75/100",
+                "chakra": "70/100",
+                "intelligence": "62/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 106,
+            "name": "Rasa (Fourth Kazekage)",
+            "village": "Hidden Sand Village",
+            "clan": null,
+            "powerLevel": 85,
+            "description": "The Fourth Kazekage and father of Gaara, Temari, and Kankuro. Wielder of the Gold Dust kekkei genkai.",
+            "extendedDescription": "The Fourth Kazekage of Hidden Sand Village and the father who turned his own infant son into a weapon of war, Rasa wielded a rare Gold Dust kekkei genkai that allowed him to control heavy gold powder with greater density and stopping power than Gaara's sand. His decision to seal Shukaku into Gaara before birth and then attempt to assassinate the child he deemed a failed experiment haunted both of them for years. Killed and impersonated by Orochimaru during the Chunin Exams invasion, Rasa was later reanimated, and his final words to Gaara constituted a genuine acknowledgement of his failures as a father.",
+            "images": {
+                "profile": "/assets/characters/106.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Wind",
+                "Lightning"
+            ],
+            "stats": {
+                "power": "83/100",
+                "chakra": "78/100",
+                "intelligence": "80/100",
+                "rank": "Kage"
+            }
+        },
+        {
+            "id": 107,
+            "name": "Yashamaru",
+            "village": "Hidden Sand Village",
+            "clan": null,
+            "powerLevel": 40,
+            "description": "Gaara's maternal uncle and the person assigned to care for him as a child. His betrayal broke Gaara's last hope for love.",
+            "extendedDescription": "A medical ninja from Hidden Sand Village and the younger brother of Gaara's mother Karura, Yashamaru was assigned by the Fourth Kazekage to care for the young jinchuriki. Gaara genuinely loved him — perhaps the only person he believed loved him in return. In truth, Yashamaru secretly resented Gaara for his mother's death and, on orders from Rasa, attempted to assassinate him. His final words, claiming he never loved Gaara, were the event that shattered the last warmth in the boy's heart and completed his transformation into the bloodthirsty monster he became before meeting Naruto.",
+            "images": {
+                "profile": "/assets/characters/107.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind",
+                "Earth"
+            ],
+            "stats": {
+                "power": "41/100",
+                "chakra": "42/100",
+                "intelligence": "48/100",
+                "rank": "Chunin"
+            }
+        },
+        {
+            "id": 108,
+            "name": "Ibiki Morino",
+            "village": "Hidden Leaf Village",
+            "clan": "Morino",
+            "powerLevel": 74,
+            "description": "Head of Konoha's Torture and Interrogation Force. Proctor of the Chunin Exam's first written test.",
+            "extendedDescription": "The scarred and imposing head of Konoha's Torture and Interrogation Force, Ibiki Morino is a master of psychological warfare who can break the most hardened enemy simply through the architecture of fear and uncertainty. His infamous first Chunin Exam test was designed not to assess knowledge but to measure the psychological resilience needed to survive real missions under impossible pressure. The scars covering his skull are evidence of his own survival under enemy torture — interrogation methods he endured without breaking, cementing his legend.",
+            "images": {
+                "profile": "/assets/characters/108.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Earth",
+                "Yin"
+            ],
+            "stats": {
+                "power": "70/100",
+                "chakra": "60/100",
+                "intelligence": "92/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 109,
+            "name": "Hayate Gekko",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 65,
+            "description": "The jonin proctor of the Chunin Exam preliminary matches. A skilled swordsman with a chronic cough.",
+            "extendedDescription": "A jonin of Hidden Leaf Village who served as the proctor for the one-on-one preliminary matches of the Chunin Exams, perpetually coughing in a manner that belied his genuine combat ability. He overheard a plot between Sand and Sound shinobi to invade Konoha and was killed by Baki while attempting to report it. Despite his brief appearance, he was known among his peers as a master of Dance of the Crescent Moon, a high-speed triple-feint sword technique that was exceptionally difficult to read or counter.",
+            "images": {
+                "profile": "/assets/characters/109.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning",
+                "Wind"
+            ],
+            "stats": {
+                "power": "62/100",
+                "chakra": "58/100",
+                "intelligence": "65/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 110,
+            "name": "Izumo Kamizuki",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 58,
+            "description": "A chunin gate guard of Hidden Leaf Village and partner to Kotetsu Hagane. Reliable support operative.",
+            "extendedDescription": "One half of Konoha's most recognisable chunin duo alongside Kotetsu Hagane, Izumo is a dependable and loyal shinobi who staffed the village gates, participated in the Chunin Exam administration, and served in the Fourth Shinobi World War. His Water-style jutsu and Sticky Water technique complement Kotetsu's style, and the two have developed near-seamless teamwork through years of partnership. Though never a headline combatant, he represents the reliable backbone of Konoha's operational shinobi corps.",
+            "images": {
+                "profile": "/assets/characters/110.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Earth"
+            ],
+            "stats": {
+                "power": "52/100",
+                "chakra": "50/100",
+                "intelligence": "58/100",
+                "rank": "Chunin"
+            }
+        },
+        {
+            "id": 111,
+            "name": "Kotetsu Hagane",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 58,
+            "description": "A chunin of Hidden Leaf Village and Izumo's inseparable partner. Often seen manning the village gate.",
+            "extendedDescription": "The boisterous and occasionally hot-headed partner of Izumo Kamizuki, Kotetsu Hagane is a reliable chunin who has appeared in nearly every significant event in Konoha's history as a background operative — guarding the gate, serving in the war, attending every important briefing. His Earth-style ninjutsu and bladed chain weapon complement Izumo's style in a duo that has operated together so long they no longer need to communicate during battle. His enthusiasm and loyalty make him a dependable, if unspectacular, pillar of the village.",
+            "images": {
+                "profile": "/assets/characters/111.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Lightning"
+            ],
+            "stats": {
+                "power": "52/100",
+                "chakra": "50/100",
+                "intelligence": "55/100",
+                "rank": "Chunin"
+            }
+        },
+        {
+            "id": 112,
+            "name": "Hizashi Hyuga",
+            "village": "Hidden Leaf Village",
+            "clan": "Hyuga",
+            "powerLevel": 75,
+            "description": "Neji's father and Hiashi's twin brother. Sacrificed his life to protect his brother and the Hyuga clan's secrets.",
+            "extendedDescription": "The twin brother of Hiashi Hyuga and the father Neji never truly knew, Hizashi was born into the Hyuga clan's branch family and branded with the curse seal that would allow the main branch to destroy his memories upon death. When a Hidden Cloud assassin was killed after attempting to kidnap Hinata, the Cloud Village demanded Hiashi's life as reparation. Hizashi volunteered to die in his brother's place — not out of obedience to the main branch, but as a genuine act of love, ensuring his son would grow up in a village protected by his father's sacrifice. His true feelings were only revealed to Neji by Hiashi years later.",
+            "images": {
+                "profile": "/assets/characters/112.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Fire"
+            ],
+            "stats": {
+                "power": "74/100",
+                "chakra": "72/100",
+                "intelligence": "68/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 113,
+            "name": "Dan Kato",
+            "village": "Hidden Leaf Village",
+            "clan": "Kato",
+            "powerLevel": 74,
+            "description": "Tsunade's former lover who died in battle. His death, alongside Nawaki's, broke Tsunade's spirit for years.",
+            "extendedDescription": "A talented jonin and Tsunade's great love, Dan Kato shared her dream of a world where medical ninja could save every life, and he planned to become Hokage to make it real. He died from blood loss in battle despite Tsunade's desperate attempts to save him, triggering in her an acute haemophobia and a despair so deep she abandoned the shinobi world entirely. He entrusted his necklace — the very necklace she later gave Naruto — to her in his final moments. Reanimated in the Fourth Shinobi World War, he fought the Allied Forces before being released by Tsunade's words.",
+            "images": {
+                "profile": "/assets/characters/113.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind",
+                "Earth",
+                "Yang"
+            ],
+            "stats": {
+                "power": "72/100",
+                "chakra": "68/100",
+                "intelligence": "70/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 114,
+            "name": "Nawaki",
+            "village": "Hidden Leaf Village",
+            "clan": "Senju",
+            "powerLevel": 45,
+            "description": "Tsunade's younger brother and grandson of Hashirama Senju. Dreamed of becoming Hokage before dying young.",
+            "extendedDescription": "Tsunade's beloved younger brother and a grandson of Hashirama Senju, Nawaki was a cheerful, energetic boy who dreamed of becoming Hokage one day. Tsunade gave him Hashirama's necklace as a birthday gift to mark the start of that dream. He died the very next day on his first major mission, becoming the first of the two losses that would haunt Tsunade for decades. His death is short but devastating — a reminder that in the shinobi world, dreams and the people who carry them can be extinguished without warning.",
+            "images": {
+                "profile": "/assets/characters/114.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Water"
+            ],
+            "stats": {
+                "power": "38/100",
+                "chakra": "42/100",
+                "intelligence": "40/100",
+                "rank": "Genin"
+            }
+        },
+        {
+            "id": 115,
+            "name": "Hanzo of the Salamander",
+            "village": "Hidden Rain Village",
+            "clan": null,
+            "powerLevel": 92,
+            "description": "The legendary leader of Hidden Rain Village. The only shinobi to defeat all three Sannin simultaneously and survive.",
+            "extendedDescription": "One of the most feared shinobi of his era, Hanzo defeated Jiraiya, Tsunade, and Orochimaru simultaneously in battle — and then spared them, granting them the title Sannin as a recognition of their remarkable survival. He ruled Hidden Rain Village with an iron paranoia, poisoning himself with the venom of his salamander summon Ibuse to make himself permanently toxic to anyone who breathed his breath. As years passed his once-legendary strength hardened into tyranny, and Nagato ultimately ended his rule — and his life — in an act that signalled the birth of Pain's new world order.",
+            "images": {
+                "profile": "/assets/characters/115.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Wind",
+                "Earth"
+            ],
+            "stats": {
+                "power": "88/100",
+                "chakra": "82/100",
+                "intelligence": "85/100",
+                "rank": "Kage"
+            }
+        },
+        {
+            "id": 116,
+            "name": "Kimimaro",
+            "village": "Hidden Sound Village",
+            "clan": "Kaguya",
+            "powerLevel": 84,
+            "description": "The last survivor of the Kaguya clan and Orochimaru's most powerful subordinate. Wielder of the bone-manipulating Shikotsumyaku.",
+            "extendedDescription": "The last survivor of the bloodthirsty Kaguya clan, which was wiped out after launching a suicidal assault on Hidden Mist Village for the sheer joy of battle, Kimimaro was captured by Orochimaru and became his most devoted servant. His Shikotsumyaku kekkei genkai allowed him to manipulate his own skeletal structure — extracting and weaponising his bones as blades, bullets, and spears harder than steel. Terminally ill, he pushed his dying body beyond every physical limit in his final battle against Rock Lee and Gaara, and was killed not by his opponents but by the disease that consumed him mid-fight.",
+            "images": {
+                "profile": "/assets/characters/116.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Yang"
+            ],
+            "stats": {
+                "power": "85/100",
+                "chakra": "75/100",
+                "intelligence": "65/100",
+                "rank": "Missing-nin"
+            }
+        },
+        {
+            "id": 117,
+            "name": "Tayuya",
+            "village": "Hidden Sound Village",
+            "clan": null,
+            "powerLevel": 74,
+            "description": "One of Orochimaru's Sound Four. A genjutsu specialist who uses a flute to control powerful demon-like creatures.",
+            "extendedDescription": "The foul-mouthed and aggressive female member of Orochimaru's elite Sound Four bodyguard squad, Tayuya wielded a small flute that generated sound-wave genjutsu powerful enough to trap opponents in inescapable illusions and summon three Doki — large demon-like creatures she controlled through her music. Her Cursed Seal of Heaven elevated her already considerable power to formidable heights. She was ultimately defeated by Temari, whose wind-style technique destroyed the forest around them before Tayuya could recover.",
+            "images": {
+                "profile": "/assets/characters/117.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Yin",
+                "Wind"
+            ],
+            "stats": {
+                "power": "72/100",
+                "chakra": "70/100",
+                "intelligence": "75/100",
+                "rank": "Missing-nin"
+            }
+        },
+        {
+            "id": 118,
+            "name": "Kidomaru",
+            "village": "Hidden Sound Village",
+            "clan": null,
+            "powerLevel": 75,
+            "description": "One of Orochimaru's Sound Four. A six-armed spider-like ninja who fights from long range using webs and arrows.",
+            "extendedDescription": "A member of Orochimaru's Sound Four who possessed six arms and the ability to produce chakra-infused webbing and golden armour from his body, Kidomaru preferred to fight from a distance — luring opponents into his web-covered terrain and firing bone arrows with pinpoint accuracy. His analytical mind made him uniquely dangerous: he studied opponents relentlessly until he identified a weakness, then exploited it with cold precision. His battle with Neji remains one of the most tactically intricate in the series, as both fighters were simultaneously hunting each other's blind spots.",
+            "images": {
+                "profile": "/assets/characters/118.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Yang"
+            ],
+            "stats": {
+                "power": "73/100",
+                "chakra": "68/100",
+                "intelligence": "78/100",
+                "rank": "Missing-nin"
+            }
+        },
+        {
+            "id": 119,
+            "name": "Jirobo",
+            "village": "Hidden Sound Village",
+            "clan": null,
+            "powerLevel": 72,
+            "description": "One of Orochimaru's Sound Four. The physically strongest member who uses Earth Release and absorbs enemies' chakra.",
+            "extendedDescription": "The largest and physically strongest member of the Sound Four, Jirobo was a chakra absorber whose Earth Release techniques could imprison entire groups in a dome of earth while he drained their chakra from within. Despite his brutish appearance, he was calm and methodical in battle, taking satisfaction in overpowering opponents through attrition rather than speed. His encounter with Choji was a battle of physical dominance that pushed Choji to consume the Akimichi clan's forbidden red pills, ending in Jirobo's decisive defeat at the hands of someone he had repeatedly underestimated.",
+            "images": {
+                "profile": "/assets/characters/119.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth"
+            ],
+            "stats": {
+                "power": "73/100",
+                "chakra": "65/100",
+                "intelligence": "58/100",
+                "rank": "Missing-nin"
+            }
+        },
+        {
+            "id": 120,
+            "name": "Sakon and Ukon",
+            "village": "Hidden Sound Village",
+            "clan": null,
+            "powerLevel": 76,
+            "description": "Twin brothers among Orochimaru's Sound Four. Can merge with other people's bodies at a cellular level.",
+            "extendedDescription": "The leaders of Orochimaru's Sound Four, Sakon and Ukon were twin brothers whose unique kekkei genkai allowed them to merge at the cellular level — with each other and with enemy bodies, decomposing hosts from the inside. Sakon was the dominant personality, with Ukon emerging from his back to assist or attack independently. Their combination of merging technique, physical speed, and the enhanced power of their Cursed Seals made them the most dangerous members of the Sound Four. Their battle with Kiba and Akamaru pushed both sides to their absolute limits.",
+            "images": {
+                "profile": "/assets/characters/120.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Yang"
+            ],
+            "stats": {
+                "power": "76/100",
+                "chakra": "72/100",
+                "intelligence": "70/100",
+                "rank": "Missing-nin"
+            }
+        },
+        {
+            "id": 121,
+            "name": "Dosu Kinuta",
+            "village": "Hidden Sound Village",
+            "clan": null,
+            "powerLevel": 65,
+            "description": "A Sound genin from the Chunin Exams who uses sound-wave attacks through a device on his arm.",
+            "extendedDescription": "One of Orochimaru's three Sound genin entered in the Chunin Exams, Dosu wore a large sound-amplifying device over his arm that transmitted destructive sound waves through physical contact, disrupting the fluid of the inner ear to cause pain, disorientation, and collapse. Unlike his volatile companions, Dosu was calculating and pragmatic — he even turned against Orochimaru's plans when he deduced he was meant to die as a test subject rather than a participant. He was killed by Gaara before the preliminary matches ended, a brief but chilling preview of what the demon of the Sand was capable of.",
+            "images": {
+                "profile": "/assets/characters/121.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning",
+                "Earth"
+            ],
+            "stats": {
+                "power": "60/100",
+                "chakra": "58/100",
+                "intelligence": "72/100",
+                "rank": "Genin"
+            }
+        },
+        {
+            "id": 122,
+            "name": "Guren",
+            "village": "Hidden Sound Village",
+            "clan": null,
+            "powerLevel": 76,
+            "description": "One of Orochimaru's most loyal subordinates. Possesses the rare Crystal Release kekkei genkai.",
+            "extendedDescription": "One of Orochimaru's most devoted followers, Guren desperately sought to prove herself worthy of becoming his next vessel by mastering her extraordinarily rare Crystal Release kekkei genkai, which could crystallise almost any substance — including living matter — into brittle, lifeless crystal. Her ruthlessness in service of this ambition gradually softened through her reluctant bond with a young jinchuriki named Yukimaru, whose ability to partially control the Three-Tails she had been assigned to exploit. Her arc is one of the most quietly affecting in the filler episodes, tracing the transformation of a weapon into someone who chooses to protect.",
+            "images": {
+                "profile": "/assets/characters/122.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Water",
+                "Crystal"
+            ],
+            "stats": {
+                "power": "74/100",
+                "chakra": "70/100",
+                "intelligence": "72/100",
+                "rank": "Missing-nin"
+            }
+        },
+        {
+            "id": 123,
+            "name": "Tsume Inuzuka",
+            "village": "Hidden Leaf Village",
+            "clan": "Inuzuka",
+            "powerLevel": 72,
+            "description": "Kiba's fierce mother and head of the Inuzuka clan. Fights alongside her wolf partner Kuromaru.",
+            "extendedDescription": "The head of the Inuzuka clan and Kiba's outspoken, rough-edged mother, Tsume fights alongside her wolf partner Kuromaru in the same beast-ninja style she passed on to her children. Fiercely loyal and protective of her clan, she is both intimidating and deeply caring — a combination her daughter Hana and son Kiba both inherited in different measures. She fought in the defence of Konoha against Pain and later in the Fourth Shinobi World War, her feral combat style and enhanced senses making her a formidable operator in any terrain.",
+            "images": {
+                "profile": "/assets/characters/123.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Yang",
+                "Fire"
+            ],
+            "stats": {
+                "power": "70/100",
+                "chakra": "65/100",
+                "intelligence": "68/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 124,
+            "name": "Hana Inuzuka",
+            "village": "Hidden Leaf Village",
+            "clan": "Inuzuka",
+            "powerLevel": 65,
+            "description": "Kiba's older sister and a veterinarian-ninja of Hidden Leaf Village who fights with her three ninken.",
+            "extendedDescription": "Kiba's older sister and a skilled veterinarian-shinobi who serves as the primary medical caretaker of the ninja dogs of Hidden Leaf Village, Hana Inuzuka fights alongside her three Haimaru Brothers — identical triplet ninken who move in perfect formation. Her medical knowledge and beast-combat style make her a versatile operator, and her calm, composed personality is a notable contrast to her more impulsive younger brother. She keeps the Inuzuka clan's traditions of beast-bonded fighting alive through both combat and the care of every shinobi's animal partner.",
+            "images": {
+                "profile": "/assets/characters/124.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Yang"
+            ],
+            "stats": {
+                "power": "62/100",
+                "chakra": "60/100",
+                "intelligence": "72/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 125,
+            "name": "Third Kazekage",
+            "village": "Hidden Sand Village",
+            "clan": null,
+            "powerLevel": 89,
+            "description": "Widely considered the most powerful Kazekage in history. Wielded the rare Iron Sand kekkei genkai.",
+            "extendedDescription": "Regarded by Hidden Sand Village as the most powerful Kazekage who ever lived, the Third Kazekage unlocked the Iron Sand kekkei genkai after studying the sand-manipulation abilities of Shukaku's jinchuriki, then went further — developing the ability to magnetise iron powder and shape it into any weapon or defensive formation with his Magnet Release. He was captured and killed by Sasori, who used his body as the centrepiece of his puppet collection, the Iron Sand incorporated into the most dangerous puppet in existence. His reanimated form remained terrifyingly powerful even centuries after his death.",
+            "images": {
+                "profile": "/assets/characters/125.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Wind",
+                "Magnet"
+            ],
+            "stats": {
+                "power": "88/100",
+                "chakra": "82/100",
+                "intelligence": "75/100",
+                "rank": "Kage"
+            }
+        },
+        {
+            "id": 126,
+            "name": "Toneri Otsutsuki",
+            "village": null,
+            "clan": "Otsutsuki",
+            "powerLevel": 88,
+            "description": "A descendant of Hamura Otsutsuki who lived on the moon. The antagonist of The Last: Naruto the Movie.",
+            "extendedDescription": "The last surviving descendant of Hamura Otsutsuki, Toneri grew up alone on the moon carrying out what he believed was his ancestor's mandate — to destroy the shinobi world for misusing chakra as a weapon. He awakened the Tenseigan, the most powerful form of Hamura's ocular jutsu, and used it to attempt to crash the moon into the Earth. His obsession with Hinata stemmed from a desire to revive the Otsutsuki bloodline using Hamura's legacy. Naruto's intervention and Hinata's refusal to abandon hope broke through his isolation, and he was ultimately redeemed by choosing to use his power to stop the moon himself.",
+            "images": {
+                "profile": "/assets/characters/126.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Yin",
+                "Yang",
+                "Yin-Yang"
+            ],
+            "stats": {
+                "power": "85/100",
+                "chakra": "88/100",
+                "intelligence": "80/100",
+                "rank": "Otsutsuki"
+            }
+        },
+        {
+            "id": 127,
+            "name": "Delta",
+            "village": null,
+            "clan": null,
+            "powerLevel": 84,
+            "description": "A scientific ninja tool-enhanced inner member of Kara. Fought Naruto directly and survived longer than most opponents.",
+            "extendedDescription": "An inner member of Kara who has been extensively modified with scientific ninja tools, Delta's body incorporates absorption cores in her eyes that can devour any ninjutsu and fire it back at amplified output, making conventional jutsu useless against her. Her high-speed physical combat ability and durable mechanically-enhanced frame allowed her to push Naruto in Sage Mode to a serious level of effort during their direct confrontation. Cold, contemptuous, and utterly devoted to Jigen's vision, she represents the intersection of traditional shinobi skill and the technological augmentation that defines the Kara organisation.",
+            "images": {
+                "profile": "/assets/characters/127.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Lightning"
+            ],
+            "stats": {
+                "power": "82/100",
+                "chakra": "78/100",
+                "intelligence": "72/100",
+                "rank": "Unknown"
+            }
+        },
+        {
+            "id": 128,
+            "name": "Koji Kashin",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 88,
+            "description": "A Kara inner member and clone of Jiraiya created by Amado. Uses the same toad-summoning and Sage techniques.",
+            "extendedDescription": "An inner member of Kara who was secretly a clone of Jiraiya created by Amado specifically to kill Isshiki Otsutsuki, Koji Kashin possesses Jiraiya's exact skills — Toad Sage Mode, Rasengan, toad summoning, and the same formidable tactical mind. He infiltrated Kara, patiently waiting for the right moment to make his move, before directly engaging Jigen in a brutal fight that nearly succeeded in eliminating Isshiki before his resurrection. His existence as a living weapon with Jiraiya's memories and instincts raises profound questions about identity and purpose that he himself grapples with.",
+            "images": {
+                "profile": "/assets/characters/128.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Earth",
+                "Water",
+                "Wind",
+                "Lightning"
+            ],
+            "stats": {
+                "power": "85/100",
+                "chakra": "78/100",
+                "intelligence": "90/100",
+                "rank": "Missing-nin"
+            }
+        },
+        {
+            "id": 129,
+            "name": "Code",
+            "village": null,
+            "clan": null,
+            "powerLevel": 92,
+            "description": "Isshiki Otsutsuki's most loyal subordinate in Kara. Bears white karma marks and possesses limitless latent power.",
+            "extendedDescription": "The most fanatically devoted servant of Isshiki Otsutsuki among Kara's inner members, Code failed to become Isshiki's vessel because his body could not fully absorb the karma — leaving him with white karma marks that sealed away power described as exceeding even Isshiki's own. With those limiters removed he becomes the most powerful being currently active in the shinobi world. After Isshiki's death, Code designated himself the avenger of the Otsutsuki and the new force driving the plan to cultivate a chakra fruit from Earth, making him the primary antagonist of the later Boruto arc.",
+            "images": {
+                "profile": "/assets/characters/129.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Yin",
+                "Yang",
+                "Yin-Yang"
+            ],
+            "stats": {
+                "power": "90/100",
+                "chakra": "88/100",
+                "intelligence": "75/100",
+                "rank": "Unknown"
+            }
+        },
+        {
+            "id": 130,
+            "name": "Eida",
+            "village": null,
+            "clan": null,
+            "powerLevel": 87,
+            "description": "A cyborg created by Amado who possesses omniscience and an irresistible charm that affects all but Otsutsuki.",
+            "extendedDescription": "A scientific ninja tool cyborg created by Amado with two extraordinary abilities: Senrigan, an omniscient eye that can observe any event in the past or present anywhere in the world except the future; and an involuntary charm that causes everyone who is not an Otsutsuki or blood relative to fall helplessly in love with her on sight. Amado created her to be so dangerous that even Isshiki feared her and ordered her eliminated. Her powers make her arguably the most strategically valuable entity in the Boruto world, and her involvement fundamentally reshapes the balance of power between all factions.",
+            "images": {
+                "profile": "/assets/characters/130.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ],
+            "stats": {
+                "power": "78/100",
+                "chakra": "72/100",
+                "intelligence": "88/100",
+                "rank": "Unknown"
+            }
+        },
+        {
+            "id": 131,
+            "name": "Daemon",
+            "village": null,
+            "clan": null,
+            "powerLevel": 90,
+            "description": "Eida's younger brother and a cyborg created by Amado. Possesses a reflection ability that mirrors all killing intent back at the attacker.",
+            "extendedDescription": "Eida's younger brother and another of Amado's scientific ninja tool cyborgs, Daemon possesses a passive ability that automatically reflects any intent to kill directed at him back onto the attacker — making him effectively impossible to harm as long as the opponent wishes him dead. The only way to defeat him is to attack without intent, which is essentially impossible in real combat. Combined with his formidable physical power, he is arguably one of the most conceptually undefeatable fighters in the entire Naruto universe, and his playful, childlike personality makes him all the more unsettling.",
+            "images": {
+                "profile": "/assets/characters/131.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Yin",
+                "Yang"
+            ],
+            "stats": {
+                "power": "88/100",
+                "chakra": "75/100",
+                "intelligence": "60/100",
+                "rank": "Unknown"
+            }
+        },
+        {
+            "id": 132,
+            "name": "Moegi Kazamatsuri",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 65,
+            "description": "A former member of Konohamaru's childhood team. Grew up to become a jonin and team leader in the Boruto era.",
+            "extendedDescription": "One of three children who formed Konohamaru's original childhood group alongside Udon, Moegi was the sensible, level-headed presence balancing Konohamaru's recklessness. She grew into a jonin squad leader in the Boruto era, demonstrating that her steady temperament translated into genuine leadership ability. Her Wood Release kekkei genkai — a rare ability she developed as an adult — gives her a connection to the First Hokage's legendary power, making her a significant combatant despite her unassuming background.",
+            "images": {
+                "profile": "/assets/characters/132.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Water",
+                "Wood"
+            ],
+            "stats": {
+                "power": "63/100",
+                "chakra": "60/100",
+                "intelligence": "65/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 133,
+            "name": "Udon Ise",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 60,
+            "description": "A former member of Konohamaru's childhood team. Became a jonin and squad leader in the Boruto era.",
+            "extendedDescription": "The bookish, perpetually sniffling member of Konohamaru's childhood trio, Udon was the most studious and technically minded of the group. He matured into a composed and methodical jonin squad leader, his analytical nature making him a reliable tactical thinker in the field. His Lava Release kekkei genkai — manifesting as a corrosive mucus-based variant — is unusual enough to catch opponents completely off guard. He and Moegi represent the quiet success stories of the generation that grew up in Naruto and Konohamaru's shadow.",
+            "images": {
+                "profile": "/assets/characters/133.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Fire",
+                "Lava"
+            ],
+            "stats": {
+                "power": "58/100",
+                "chakra": "55/100",
+                "intelligence": "70/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 134,
+            "name": "Pakkun",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 22,
+            "description": "Kakashi's most trusted summoned pug. Possesses an extraordinary sense of smell and a gruff, deadpan personality.",
+            "extendedDescription": "Kakashi's most frequently summoned ninja dog and arguably the most recognisable summon in the series, Pakkun is a small, wrinkled pug with a permanently bored expression and a surprisingly deep voice that has been commenting wryly on shinobi affairs for years. His sense of smell rivals any tracking-type ninja, capable of following trails that have gone cold and identifying chakra signatures others miss entirely. Despite his diminutive size, Pakkun's calm competence and dry humour have made him one of the most beloved support characters in the franchise.",
+            "images": {
+                "profile": "/assets/characters/134.webp",
+                "others": []
+            },
+            "chakraType": [],
+            "stats": {
+                "power": "15/100",
+                "chakra": "20/100",
+                "intelligence": "75/100",
+                "rank": "Summon"
+            }
+        },
+        {
+            "id": 135,
+            "name": "Gamabunta",
+            "village": "Mount Myoboku",
+            "clan": null,
+            "powerLevel": 88,
+            "description": "The chief toad of Mount Myoboku and Jiraiya's most powerful summon. A massive battle toad with a short temper.",
+            "extendedDescription": "The chief toad of Mount Myoboku and the most powerful of the toads that can be summoned, Gamabunta is a titanic battle toad who fights with an equally titanic short temper and grudging respect for only the strongest summoners. He agreed to fight alongside the Fourth Hokage on the night of the Nine-Tails attack, and later alongside Naruto against Shukaku during the Chunin Exam finals — a bond he offered reluctantly but maintained loyally. His signature toad oil and great sword can overwhelm most opponents, and his sheer size makes him a battlefield-reshaping presence.",
+            "images": {
+                "profile": "/assets/characters/135.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Fire"
+            ],
+            "stats": {
+                "power": "85/100",
+                "chakra": "80/100",
+                "intelligence": "65/100",
+                "rank": "Summon"
+            }
+        },
+        {
+            "id": 136,
+            "name": "Katsuyu",
+            "village": "Shikkotsu Forest",
+            "clan": null,
+            "powerLevel": 85,
+            "description": "The chief slug of Shikkotsu Forest and Tsunade's most powerful summon. Can split into countless smaller slugs.",
+            "extendedDescription": "The chief slug of Shikkotsu Forest and Tsunade's primary summon, Katsuyu is an immense creature of extraordinary healing ability who can split her body into an unlimited number of smaller fragments, each one capable of attaching to an injured shinobi and channelling Tsunade's medical chakra directly to them. During Pain's attack on Konoha, Katsuyu blanketed the entire village with her smaller bodies and kept every surviving resident alive simultaneously through Tsunade's chakra — a feat of healing on a scale never seen before or since.",
+            "images": {
+                "profile": "/assets/characters/136.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Earth",
+                "Yang"
+            ],
+            "stats": {
+                "power": "80/100",
+                "chakra": "88/100",
+                "intelligence": "75/100",
+                "rank": "Summon"
+            }
+        },
+        {
+            "id": 137,
+            "name": "Manda",
+            "village": "Ryuchi Cave",
+            "clan": null,
+            "powerLevel": 86,
+            "description": "The chief snake of Ryuchi Cave and Orochimaru's most powerful summon. The most powerful snake in the world.",
+            "extendedDescription": "Described as the most powerful of all snake summons, Manda is a colossal serpent of terrifying size and an equally massive ego — he required human sacrifices in exchange for his service and made no secret of his contempt even for Orochimaru. His scales could repel most conventional attacks and his speed and crushing strength made him one of the most dangerous summons ever deployed in battle. Sasuke used him as a living shield against Deidara's final explosion without consent, teleporting him into the blast — an act that killed Manda and demonstrated the cold ruthlessness Sasuke was capable of.",
+            "images": {
+                "profile": "/assets/characters/137.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Wind"
+            ],
+            "stats": {
+                "power": "83/100",
+                "chakra": "78/100",
+                "intelligence": "70/100",
+                "rank": "Summon"
+            }
+        },
+        {
+            "id": 138,
+            "name": "Fukasaku",
+            "village": "Mount Myoboku",
+            "clan": null,
+            "powerLevel": 72,
+            "description": "One of the two Great Sage Toads of Mount Myoboku. Jiraiya's Sage Mode partner and teacher.",
+            "extendedDescription": "One of the two eldest and wisest toads of Mount Myoboku, Fukasaku is Jiraiya's partner in Sage Mode — perching on Jiraiya's shoulders and gathering natural energy to maintain his Sage transformation during battle. Considered by Naruto and Jiraiya as a surrogate father figure, Pa Frog carries immense knowledge of senjutsu, the toad prophecies, and the history of the shinobi world. He decoded Jiraiya's final dying message to Naruto, an act of love from a teacher ensuring his student would have the information needed to survive.",
+            "images": {
+                "profile": "/assets/characters/138.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Wind",
+                "Earth",
+                "Water",
+                "Lightning"
+            ],
+            "stats": {
+                "power": "68/100",
+                "chakra": "80/100",
+                "intelligence": "90/100",
+                "rank": "Summon"
+            }
+        },
+        {
+            "id": 139,
+            "name": "Shima",
+            "village": "Mount Myoboku",
+            "clan": null,
+            "powerLevel": 70,
+            "description": "One of the two Great Sage Toads of Mount Myoboku. Fukasaku's wife and an equally powerful sage toad.",
+            "extendedDescription": "The wife of Fukasaku and the other half of the Great Sage Toad pair of Mount Myoboku, Shima is equally wise and powerful — and considerably more abrasive, with a sharp tongue that she aims freely at anyone including her husband. She partners with Fukasaku in Sage Mode fusion techniques, and the pair's combined Frog Song genjutsu is powerful enough to freeze the Six Paths of Pain in place simultaneously. Her cooking is legendarily terrible, a recurring joke that humanises her amid her formidable abilities.",
+            "images": {
+                "profile": "/assets/characters/139.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Wind",
+                "Water"
+            ],
+            "stats": {
+                "power": "65/100",
+                "chakra": "78/100",
+                "intelligence": "88/100",
+                "rank": "Summon"
+            }
+        },
+        {
+            "id": 140,
+            "name": "Gamakichi",
+            "village": "Mount Myoboku",
+            "clan": null,
+            "powerLevel": 72,
+            "description": "Gamabunta's son and Naruto's personal toad summon. Grew from a small frog into a formidable battle toad.",
+            "extendedDescription": "The son of Gamabunta and Naruto's primary personal toad summon, Gamakichi began their partnership as a small frog barely useful in combat and grew alongside Naruto into a large, capable battle toad who fought in the Fourth Shinobi World War. His Starch Syrup Gun can immobilise opponents in sticky viscous matter, and in his adult form he is large enough to serve as a mount and a genuine combatant. His casual, slightly sardonic friendship with Naruto reflects the bonds formed between summoner and summon when respect and affection replace the transactional relationship most ninja maintain with their contracts.",
+            "images": {
+                "profile": "/assets/characters/140.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Yang"
+            ],
+            "stats": {
+                "power": "68/100",
+                "chakra": "65/100",
+                "intelligence": "60/100",
+                "rank": "Summon"
+            }
+        },
+        {
+            "id": 141,
+            "name": "Gengetsu Hozuki (Second Mizukage)",
+            "village": "Hidden Mist Village",
+            "clan": "Hozuki",
+            "powerLevel": 90,
+            "description": "The Second Mizukage of Hidden Mist Village and eternal rival of the Second Tsuchikage. Uses powerful water-based techniques.",
+            "extendedDescription": "The Second Mizukage of Hidden Mist Village, Gengetsu Hozuki was the eternal rival of Mu, the Second Tsuchikage — the two killed each other in their final battle, a fact the reanimated Gengetsu recounts with almost cheerful nostalgia. His Hydrification Technique lineage is the same as the Hozuki clan's, and his most fearsome ability is the Giant Clam genjutsu that generates a mirage so realistic it fools sensor-type shinobi. Even while reanimated, he guided the Allied Forces on how to defeat him, finding the battle more entertaining when his opponents had a fighting chance.",
+            "images": {
+                "profile": "/assets/characters/141.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Fire"
+            ],
+            "stats": {
+                "power": "87/100",
+                "chakra": "82/100",
+                "intelligence": "80/100",
+                "rank": "Kage"
+            }
+        },
+        {
+            "id": 142,
+            "name": "Mu (Second Tsuchikage)",
+            "village": "Hidden Stone Village",
+            "clan": null,
+            "powerLevel": 91,
+            "description": "The Second Tsuchikage of Hidden Stone Village. Known as the Non-Person for his ability to become invisible and weightless.",
+            "extendedDescription": "The Second Tsuchikage of Hidden Stone Village, Mu earned the moniker Non-Person for his ability to erase his presence entirely — becoming invisible, odourless, and undetectable to chakra sensors through a mastery of particle-level concealment. His Dust Release kekkei tota, the same nature Onoki later mastered, reduces anything within its geometric forms to dust at the molecular level. He personally trained Onoki in Dust Release and Onoki inherited the mantle of Tsuchikage after Mu's death — killed by his rival the Second Mizukage in their legendary final duel.",
+            "images": {
+                "profile": "/assets/characters/142.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Fire",
+                "Wind",
+                "Dust"
+            ],
+            "stats": {
+                "power": "88/100",
+                "chakra": "85/100",
+                "intelligence": "82/100",
+                "rank": "Kage"
+            }
+        },
+        {
+            "id": 143,
+            "name": "Kurotsuchi",
+            "village": "Hidden Stone Village",
+            "clan": null,
+            "powerLevel": 78,
+            "description": "Onoki's granddaughter and the Fourth Tsuchikage. A powerful kunoichi who uses Lava Release.",
+            "extendedDescription": "Onoki's granddaughter and one of Hidden Stone Village's most talented young shinobi, Kurotsuchi combines Earth and Fire natures into a Lava Release that she can deploy as scalding quicklime that hardens on contact with water. She participated in the Five Kage Summit escort and fought in the Fourth Shinobi World War under her grandfather's command before eventually succeeding him as the Fourth Tsuchikage. Her sharp temperament and direct fighting style reflect the no-nonsense tradition of Hidden Stone's Kage lineage.",
+            "images": {
+                "profile": "/assets/characters/143.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Fire",
+                "Lava",
+                "Water"
+            ],
+            "stats": {
+                "power": "76/100",
+                "chakra": "72/100",
+                "intelligence": "70/100",
+                "rank": "Kage"
+            }
+        },
+        {
+            "id": 144,
+            "name": "Akatsuchi",
+            "village": "Hidden Stone Village",
+            "clan": null,
+            "powerLevel": 70,
+            "description": "Onoki's loyal bodyguard from Hidden Stone Village. A large, good-natured ninja who uses golem techniques.",
+            "extendedDescription": "Onoki's cheerful and enormous bodyguard from Hidden Stone Village, Akatsuchi is a gentle giant whose size and affable nature mask a solid combat capability centred on summoning massive rock golems from earth. He accompanied Onoki to the Five Kage Summit and remained at his side through the Fourth Shinobi World War, his loyalty and protectiveness toward the elderly Tsuchikage making him one of the most reliable support figures from Hidden Stone. His relaxed demeanour and warm personality are a striking contrast to the grim operatives around him.",
+            "images": {
+                "profile": "/assets/characters/144.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth"
+            ],
+            "stats": {
+                "power": "68/100",
+                "chakra": "62/100",
+                "intelligence": "58/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 145,
+            "name": "Omoi",
+            "village": "Hidden Cloud Village",
+            "clan": null,
+            "powerLevel": 70,
+            "description": "A shinobi from Hidden Cloud Village known for his overthinking habit. A skilled swordsman who uses lightning chakra.",
+            "extendedDescription": "A skilled swordsman from Hidden Cloud Village with an endearing habit of spinning catastrophic worst-case scenarios from the most minor situations, Omoi's anxiety-prone mind is in constant tension with his genuine combat ability. He infuses his blade with lightning chakra for precise, cutting strikes and has enough raw talent to have been trusted with major missions from a young age. His partnership with Karui provides a natural counterbalance — her impulsive aggression against his overthought caution — and together they form one of the most effective two-person teams Hidden Cloud deployed during the war.",
+            "images": {
+                "profile": "/assets/characters/145.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning"
+            ],
+            "stats": {
+                "power": "68/100",
+                "chakra": "65/100",
+                "intelligence": "70/100",
+                "rank": "Chunin"
+            }
+        },
+        {
+            "id": 146,
+            "name": "Karui",
+            "village": "Hidden Cloud Village",
+            "clan": null,
+            "powerLevel": 69,
+            "description": "A kunoichi from Hidden Cloud Village and Omoi's partner. Fiercely loyal and hot-tempered. Later marries Choji.",
+            "extendedDescription": "A hot-tempered and fiercely loyal kunoichi from Hidden Cloud Village, Karui is Omoi's impulsive counterpart — quick to act where he hesitates, driven by emotion where he overthinks. She arrived in Konoha demanding information about Sasuke after Killer Bee's capture and physically assaulted Naruto when he refused to give it up, a moment that speaks to both her passion and her devotion to her teacher. She later married Choji Akimichi and settled in Konoha, becoming the mother of Chocho — one of the most unexpected and endearing pairings the series produced.",
+            "images": {
+                "profile": "/assets/characters/146.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning",
+                "Fire"
+            ],
+            "stats": {
+                "power": "66/100",
+                "chakra": "62/100",
+                "intelligence": "60/100",
+                "rank": "Chunin"
+            }
+        },
+        {
+            "id": 147,
+            "name": "Metal Lee",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 66,
+            "description": "Rock Lee's son and a taijutsu specialist who trains under his father's strict regime. Struggles with performance anxiety.",
+            "extendedDescription": "The son of Rock Lee and a graduate of the same taijutsu-first philosophy his father pioneered, Metal Lee carries on the tradition of the green jumpsuit and bowl haircut while struggling with a crippling performance anxiety that causes him to lock up under the pressure of observation. When he overcomes this block — or when his friends are in danger — he unlocks his true taijutsu potential, which already rivals genin considerably older and more experienced than himself. His friendship with Boruto and Inojin grounds him emotionally in ways pure training cannot.",
+            "images": {
+                "profile": "/assets/characters/147.webp",
+                "others": []
+            },
+            "chakraType": [],
+            "stats": {
+                "power": "65/100",
+                "chakra": "55/100",
+                "intelligence": "58/100",
+                "rank": "Genin"
+            }
+        },
+        {
+            "id": 148,
+            "name": "Inojin Yamanaka",
+            "village": "Hidden Leaf Village",
+            "clan": "Yamanaka",
+            "powerLevel": 65,
+            "description": "Ino and Sai's son. Inherited his father's ink-style jutsu and his mother's mind-transfer abilities.",
+            "extendedDescription": "The son of Sai and Ino Yamanaka, Inojin inherited both his father's Super Beast Scroll ink-animation techniques and his mother's Yamanaka mind-transfer abilities, giving him an unusually versatile toolkit for his age. His calm, analytical temperament — more Sai than Ino — makes him effective under pressure but occasionally distant in team dynamics. He is part of the next-generation Ino-Shika-Cho formation alongside Shikadai and Chocho, continuing a trio tradition that has run through at least three generations of Konoha's history.",
+            "images": {
+                "profile": "/assets/characters/148.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Earth",
+                "Yin"
+            ],
+            "stats": {
+                "power": "63/100",
+                "chakra": "60/100",
+                "intelligence": "72/100",
+                "rank": "Genin"
+            }
+        },
+        {
+            "id": 149,
+            "name": "Shikadai Nara",
+            "village": "Hidden Leaf Village",
+            "clan": "Nara",
+            "powerLevel": 67,
+            "description": "Shikamaru and Temari's son. Combines Nara shadow techniques with Wind Release inherited from his mother.",
+            "extendedDescription": "The son of Shikamaru Nara and Temari, Shikadai inherited his father's shadow manipulation and his mother's Wind Release, giving his shadow techniques a broader and faster reach than the previous generation. Like every Nara before him, he carries an IQ that makes combat almost too easy — and a preference for the path of least effort that requires constant prodding from his teammates. He leads the new Ino-Shika-Cho formation and has already demonstrated a strategic composure beyond his years, drawing direct comparisons to the father he is clearly destined to surpass.",
+            "images": {
+                "profile": "/assets/characters/149.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Yin",
+                "Wind"
+            ],
+            "stats": {
+                "power": "65/100",
+                "chakra": "62/100",
+                "intelligence": "90/100",
+                "rank": "Genin"
+            }
+        },
+        {
+            "id": 150,
+            "name": "Chocho Akimichi",
+            "village": "Hidden Leaf Village",
+            "clan": "Akimichi",
+            "powerLevel": 66,
+            "description": "Choji and Karui's daughter. A confident girl who embraces the Akimichi clan's size-changing techniques with no hesitation.",
+            "extendedDescription": "The daughter of Choji and Karui, Chocho is one of the most self-assured characters in the Boruto generation — utterly uninterested in the insecurities about her size that plagued her father and enthusiastically wielding the Akimichi expansion techniques that previous generations treated as a last resort. Her confidence borders on vanity but it is earned: she fights effectively, thinks independently, and contributes meaningfully to every mission. Her partnership with Sarada is one of the Boruto era's most entertaining dynamics, built on mutual respect masked by good-natured bickering.",
+            "images": {
+                "profile": "/assets/characters/150.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Yang"
+            ],
+            "stats": {
+                "power": "64/100",
+                "chakra": "60/100",
+                "intelligence": "62/100",
+                "rank": "Genin"
+            }
+        },
+        {
+            "id": 151,
+            "name": "Himawari Uzumaki",
+            "village": "Hidden Leaf Village",
+            "clan": "Uzumaki",
+            "powerLevel": 60,
+            "description": "Naruto and Hinata's daughter and Boruto's younger sister. Already awakened the Byakugan as a small child.",
+            "extendedDescription": "The younger child of Naruto and Hinata, Himawari Uzumaki is a gentle, sweet-natured girl who awakened the Byakugan at an extraordinarily young age — much younger than even the most precocious Hyuga clan members. In a frightening moment of distress, she channelled her awakened chakra unconsciously and struck Naruto with a Gentle Fist hit that knocked him out cold on the day of his Hokage inauguration, giving a brief and alarming preview of what she is capable of. Her combination of Uzumaki chakra reserves and Hyuga dojutsu lineage suggests a formidable future shinobi.",
+            "images": {
+                "profile": "/assets/characters/151.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Lightning"
+            ],
+            "stats": {
+                "power": "55/100",
+                "chakra": "65/100",
+                "intelligence": "60/100",
+                "rank": "Academy Student"
+            }
+        },
+        {
+            "id": 152,
+            "name": "Kurama (Nine-Tails)",
+            "village": null,
+            "clan": null,
+            "powerLevel": 97,
+            "description": "The Nine-Tailed Fox sealed within Naruto. One of the most powerful tailed beasts, who ultimately became Naruto's ally.",
+            "extendedDescription": "The most powerful of the nine tailed beasts and a being of near-divine chakra born from the body of the Sage of Six Paths, Kurama spent centuries as an instrument of war and destruction, manipulated by powerful dojutsu and used as a weapon by those who feared his power. Sealed within Naruto at birth, his hatred and distrust gradually gave way to a grudging partnership and eventually a genuine friendship as Naruto refused to treat him as a tool. In the Fourth Shinobi World War, Kurama willingly shared his full power with Naruto, an act of trust that had never been extended to any previous host. He died giving Naruto the chakra needed to survive Isshiki's assault — a sacrifice made freely.",
+            "images": {
+                "profile": "/assets/characters/152.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Wind",
+                "Lightning",
+                "Earth",
+                "Water",
+                "Yin",
+                "Yang"
+            ],
+            "stats": {
+                "power": "95/100",
+                "chakra": "98/100",
+                "intelligence": "85/100",
+                "rank": "Tailed Beast"
+            }
+        },
+        {
+            "id": 153,
+            "name": "Shukaku (One-Tail)",
+            "village": null,
+            "clan": null,
+            "powerLevel": 78,
+            "description": "The One-Tailed Tanuki sealed within Gaara. A proud and fierce tailed beast who uses sand and wind chakra.",
+            "extendedDescription": "The One-Tailed Tanuki, Shukaku, is the smallest of the nine tailed beasts but no less fierce for it — proud, aggressive, and deeply resentful of the treatment he received at the hands of humans who saw him as a weapon rather than a living being. Sealed within Gaara from before birth, his influence shaped the Sand Jinchuriki into a killing machine before Naruto broke through the isolation. After Gaara lost the beast during Akatsuki's extraction, Shukaku was eventually freed and later participated in the Alliance against Kaguya, his sand manipulation and ancient sealing techniques providing a pivotal contribution in the final battle.",
+            "images": {
+                "profile": "/assets/characters/153.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind",
+                "Earth"
+            ],
+            "stats": {
+                "power": "75/100",
+                "chakra": "80/100",
+                "intelligence": "72/100",
+                "rank": "Tailed Beast"
+            }
+        },
+        {
+            "id": 154,
+            "name": "Matatabi (Two-Tails)",
+            "village": null,
+            "clan": null,
+            "powerLevel": 80,
+            "description": "The Two-Tailed Cat tailed beast who was sealed within Yugito Nii of Hidden Cloud Village.",
+            "extendedDescription": "Matatabi, the Two-Tailed Monster Cat, is a tailed beast who takes the form of a massive flaming feline wreathed in blue-white ghost fire hot enough to burn through almost any material. Unlike some of her siblings, Matatabi possesses a relatively formal and polite manner of speaking — a striking contrast to her destructive appearance. She was sealed within Yugito Nii of Hidden Cloud Village, who achieved complete synchronisation with her. After being freed from the Gedo Statue, Matatabi was eventually resealed in a new host as part of Hagoromo's effort to restore balance to the tailed beasts.",
+            "images": {
+                "profile": "/assets/characters/154.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Lightning"
+            ],
+            "stats": {
+                "power": "78/100",
+                "chakra": "82/100",
+                "intelligence": "68/100",
+                "rank": "Tailed Beast"
+            }
+        },
+        {
+            "id": 155,
+            "name": "Isobu (Three-Tails)",
+            "village": null,
+            "clan": null,
+            "powerLevel": 82,
+            "description": "The Three-Tailed Giant Turtle tailed beast. Formerly sealed within Yagura of Hidden Mist Village.",
+            "extendedDescription": "Isobu, the Three-Tailed Giant Turtle, is a tailed beast unique among his siblings for his exceptional speed in water — despite his lumbering appearance on land, he can move through aquatic environments with terrifying agility. His coral-generating abilities can form defensive structures and entrap opponents, and his Tailed Beast Ball fired underwater creates destructive shockwave tsunamis. He was previously sealed within Yagura, the Fourth Mizukage, before being found roaming free in a lake and becoming the target of both Akatsuki's extraction and Orochimaru's subordinate Guren's mission to capture him.",
+            "images": {
+                "profile": "/assets/characters/155.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Earth"
+            ],
+            "stats": {
+                "power": "80/100",
+                "chakra": "82/100",
+                "intelligence": "65/100",
+                "rank": "Tailed Beast"
+            }
+        },
+        {
+            "id": 156,
+            "name": "Son Goku (Four-Tails)",
+            "village": null,
+            "clan": null,
+            "powerLevel": 85,
+            "description": "The Four-Tailed Great Sage Monkey tailed beast. A proud and wise beast who was sealed within Roshi of Hidden Stone Village.",
+            "extendedDescription": "Son Goku, the Four-Tailed Great Sage Monkey, is one of the prouder and more articulate tailed beasts — deeply offended by the history of shinobi treating his kind as tools and referring to himself and his siblings by their proper names rather than numbered designations. His Lava Release, a combination of Earth and Fire natures, allows him to breathe magma and hurl molten rock with volcanic force. He was sealed within Roshi of Hidden Stone Village and later freed from the Gedo Statue, becoming one of the first tailed beasts to assist Naruto once his communication with all nine beasts was established.",
+            "images": {
+                "profile": "/assets/characters/156.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Fire",
+                "Lava"
+            ],
+            "stats": {
+                "power": "83/100",
+                "chakra": "84/100",
+                "intelligence": "78/100",
+                "rank": "Tailed Beast"
+            }
+        },
+        {
+            "id": 157,
+            "name": "Kokuo (Five-Tails)",
+            "village": null,
+            "clan": null,
+            "powerLevel": 83,
+            "description": "The Five-Tailed Dolphin Horse tailed beast. Sealed within Han of Hidden Stone Village.",
+            "extendedDescription": "Kokuo, the Five-Tailed Dolphin Horse, is a tailed beast with a quiet and reserved personality who prefers solitude to the constant conflict his power attracts. His Steam Release — a combination of Water and Fire — superheats water vapour to scalding pressures that dramatically amplify the physical impact of any attack, turning ordinary strikes into devastating blows. He was sealed within Han of Hidden Stone Village, the massive armoured steam-ninja, and fought alongside the other reanimated jinchuriki against the Allied Forces before eventually being freed and joining Naruto's alliance.",
+            "images": {
+                "profile": "/assets/characters/157.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Fire",
+                "Steam"
+            ],
+            "stats": {
+                "power": "81/100",
+                "chakra": "83/100",
+                "intelligence": "70/100",
+                "rank": "Tailed Beast"
+            }
+        },
+        {
+            "id": 158,
+            "name": "Saiken (Six-Tails)",
+            "village": null,
+            "clan": null,
+            "powerLevel": 82,
+            "description": "The Six-Tailed Slug tailed beast. Sealed within Utakata of Hidden Mist Village.",
+            "extendedDescription": "Saiken, the Six-Tailed Slug, is a tailed beast of surprisingly gentle disposition who was sealed within Utakata of Hidden Mist Village. His Soap Bubble jutsu generates enormous pressurised spheres of corrosive chakra-infused foam that expand and detonate with tremendous force. His mucus and bubble-based abilities give him a uniquely versatile toolkit — capable of creating defensive barriers, dissolving materials with alkaline secretions, or overwhelming areas with expanding foam. He was extracted by Akatsuki and later freed, eventually finding a new host as part of the restoration of balance among the tailed beasts.",
+            "images": {
+                "profile": "/assets/characters/158.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Wind"
+            ],
+            "stats": {
+                "power": "80/100",
+                "chakra": "82/100",
+                "intelligence": "65/100",
+                "rank": "Tailed Beast"
+            }
+        },
+        {
+            "id": 159,
+            "name": "Chomei (Seven-Tails)",
+            "village": null,
+            "clan": null,
+            "powerLevel": 83,
+            "description": "The Seven-Tailed Horned Beetle tailed beast. Sealed within Fu of Hidden Waterfall Village.",
+            "extendedDescription": "Chomei, the Seven-Tailed Horned Beetle, is a cheerful and energetic tailed beast who considers herself lucky — her seven tails corresponding to the lucky number seven in Japanese tradition. Her flight ability, armoured carapace, and luminescent scales that blind opponents make her a uniquely mobile and resilient combatant among the tailed beasts. She was sealed within Fu of Hidden Waterfall Village, a girl who shared her host's enthusiasm for life. Like her siblings, she was extracted by Akatsuki and later freed, contributing her unique beetle-based abilities to the alliance against Kaguya.",
+            "images": {
+                "profile": "/assets/characters/159.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind",
+                "Lightning",
+                "Earth"
+            ],
+            "stats": {
+                "power": "81/100",
+                "chakra": "82/100",
+                "intelligence": "68/100",
+                "rank": "Tailed Beast"
+            }
+        },
+        {
+            "id": 160,
+            "name": "Gyuki (Eight-Tails)",
+            "village": null,
+            "clan": null,
+            "powerLevel": 93,
+            "description": "The Eight-Tailed Giant Ox tailed beast and Killer Bee's partner. One of the most powerful tailed beasts.",
+            "extendedDescription": "Gyuki, the Eight-Tailed Giant Ox, is the second most powerful tailed beast and one of the most unique — having forged a genuine partnership with his jinchuriki Killer Bee built on mutual respect rather than the forced coexistence that defined most jinchuriki relationships. His tentacles can pierce armour, his ink can create clones, and his chakra output is near-equivalent to Kurama's. After Killer Bee's apparent capture, Gyuki severed one of his own tentacles to create a clone and buy his host an escape — a sacrifice driven by the same loyalty Bee had shown him over years of trust.",
+            "images": {
+                "profile": "/assets/characters/160.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning",
+                "Wind",
+                "Water",
+                "Earth",
+                "Fire",
+                "Yang"
+            ],
+            "stats": {
+                "power": "91/100",
+                "chakra": "93/100",
+                "intelligence": "78/100",
+                "rank": "Tailed Beast"
+            }
+        },
+        {
+            "id": 161,
+            "name": "Raido Namiashi",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 68,
+            "description": "A jonin from Hidden Leaf Village with a scar across his face. Serves as a personal bodyguard to the Hokage.",
+            "extendedDescription": "A veteran jonin of Hidden Leaf Village immediately recognisable by the large scar running across his face, Raido Namiashi has served as a Hokage escort and ANBU-adjacent operative across multiple administrations. His reliability and discretion in high-stakes diplomatic situations made him the kind of operative Konoha trusted to be present when its most sensitive business was conducted. He participated in the escort during the Five Kage Summit and served in the Fourth Shinobi World War, a consistent presence in the background of Konoha's most important moments.",
+            "images": {
+                "profile": "/assets/characters/161.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning",
+                "Earth"
+            ],
+            "stats": {
+                "power": "65/100",
+                "chakra": "60/100",
+                "intelligence": "68/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 162,
+            "name": "Aoba Yamashiro",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 65,
+            "description": "A jonin from Hidden Leaf Village who wears distinctive sunglasses. A competent operative and skilled genjutsu user.",
+            "extendedDescription": "A consistently present Konoha jonin recognisable by his dark sunglasses and spiky hair, Aoba Yamashiro is a capable genjutsu user and intelligence operative whose demeanour combines professional competence with an oddly casual manner. He participated in the attempt to extract information from Kisame and has appeared in the background of significant village events across both series. His ability to read and manipulate memories through genjutsu makes him a valuable intelligence asset, even if his profile never rose to the level of the village's most celebrated jonin.",
+            "images": {
+                "profile": "/assets/characters/162.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Yin",
+                "Fire"
+            ],
+            "stats": {
+                "power": "62/100",
+                "chakra": "58/100",
+                "intelligence": "72/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 163,
+            "name": "Shizune",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 70,
+            "description": "Tsunade's loyal assistant and student. A skilled medical ninja and the niece of Dan Kato.",
+            "extendedDescription": "Tsunade's devoted personal assistant, student, and closest companion during the years she spent away from Konoha, Shizune is the niece of Dan Kato — connecting her to Tsunade's most painful loss in a deeply personal way. A talented medical ninja in her own right who developed numerous poison-based techniques alongside her medical training, Shizune followed Tsunade back to Konoha and served as her right hand throughout the Fifth Hokage's administration. Her medical expertise and administrative competence kept Tsunade's office functioning through some of the most turbulent years in Konoha's history.",
+            "images": {
+                "profile": "/assets/characters/163.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Earth",
+                "Yang"
+            ],
+            "stats": {
+                "power": "68/100",
+                "chakra": "65/100",
+                "intelligence": "80/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 164,
+            "name": "Yugao Uzuki",
+            "village": "Hidden Leaf Village",
+            "clan": "Uzuki",
+            "powerLevel": 70,
+            "description": "An ANBU kunoichi from Hidden Leaf Village and former lover of Hayate Gekko. A skilled swordswoman.",
+            "extendedDescription": "An elite ANBU kunoichi of Hidden Leaf Village and the lover of Hayate Gekko, whose death at Baki's hands left her devastated. Yugao's grief drove her into a consuming darkness that she had to consciously pull herself out of, and the series treats her mourning with unusual emotional weight for a secondary character. Her sword skills are among the finest in Konoha's ANBU division, and she was later forced to fight Hayate's reanimated corpse during the Fourth Shinobi World War — a battle that required her to confront her loss directly and choose to move forward.",
+            "images": {
+                "profile": "/assets/characters/164.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Wind"
+            ],
+            "stats": {
+                "power": "68/100",
+                "chakra": "62/100",
+                "intelligence": "70/100",
+                "rank": "ANBU"
+            }
+        },
+        {
+            "id": 165,
+            "name": "Izumi Uchiha",
+            "village": "Hidden Leaf Village",
+            "clan": "Uchiha",
+            "powerLevel": 62,
+            "description": "Itachi's childhood friend and first love. One of the victims of the Uchiha Clan Massacre.",
+            "extendedDescription": "A kind-hearted Uchiha kunoichi and Itachi's childhood friend who harboured deep feelings for him, Izumi possessed a single Sharingan and genuine shinobi talent despite being considered ordinary by Uchiha standards. On the night of the massacre, Itachi spared her the horror of violence — instead trapping her in a Tsukuyomi illusion in which she lived an entire long, peaceful lifetime with him at her side, dying of old age in his arms. She died without suffering, having experienced a life they could never have in reality, a mercy so painful it stands as one of Itachi's most defining acts.",
+            "images": {
+                "profile": "/assets/characters/165.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire"
+            ],
+            "stats": {
+                "power": "55/100",
+                "chakra": "52/100",
+                "intelligence": "60/100",
+                "rank": "Genin"
+            }
+        },
+        {
+            "id": 166,
+            "name": "Rin Nohara",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 58,
+            "description": "Kakashi and Obito's teammate on Team Minato. A medical ninja whose death shattered Obito and set the series' tragedy in motion.",
+            "extendedDescription": "A warm, caring medical ninja on Team Minato alongside Kakashi and Obito, Rin Nohara was the emotional centre of their team — the person both boys cared for and the reason their friendship remained bonded despite every difference. Hidden Mist shinobi forcibly sealed the Three-Tails within her so that she would return to Konoha and the beast would rampage there upon release. To prevent that, Rin deliberately placed herself in the path of Kakashi's Raikiri and chose to die rather than become a weapon against her village. Obito witnessed this from the shadows and broke completely — her death is the single event that created the catastrophe of the entire Naruto timeline.",
+            "images": {
+                "profile": "/assets/characters/166.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Earth",
+                "Yang"
+            ],
+            "stats": {
+                "power": "48/100",
+                "chakra": "52/100",
+                "intelligence": "65/100",
+                "rank": "Chunin"
+            }
+        },
+        {
+            "id": 167,
+            "name": "Shin Uchiha",
+            "village": null,
+            "clan": "Uchiha",
+            "powerLevel": 78,
+            "description": "A former test subject of Orochimaru who idolises Itachi and seeks to revive the Akatsuki. Has numerous Sharingan implanted across his body.",
+            "extendedDescription": "A former test subject of Orochimaru who developed a unique body capable of accepting any tissue transplant without rejection, Shin covered himself with transplanted Sharingan eyes up to and including his arm, each one active and perceiving. His obsession with Itachi Uchiha and the ideal of conflict as evolution led him to attempt to revive the Akatsuki and target Sasuke as an obstacle. He raised numerous clones of himself to serve as a family unit, yet his philosophy of power and conflict was so thoroughly his clones' entire world that when they turned on him, it registered as nothing more than a natural expression of his own beliefs.",
+            "images": {
+                "profile": "/assets/characters/167.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Lightning",
+                "Yin"
+            ],
+            "stats": {
+                "power": "76/100",
+                "chakra": "72/100",
+                "intelligence": "70/100",
+                "rank": "Missing-nin"
+            }
+        },
+        {
+            "id": 168,
+            "name": "Tazuna",
+            "village": "Land of Waves",
+            "clan": null,
+            "powerLevel": 5,
+            "description": "The master bridge builder of the Land of Waves. His quest to complete the Great Naruto Bridge sets off the series' first major arc.",
+            "extendedDescription": "A master bridge builder from the impoverished Land of Waves who lied about the danger of his escort mission to afford Konoha's protection fees, Tazuna was the catalyst for Team 7's first truly dangerous mission and their first encounter with death, sacrifice, and the consequences of the shinobi world's brutality. His determination to complete the bridge that would free his country from Gato's stranglehold despite every threat against him gave Naruto an early model of civilian courage that matched any ninja's. The bridge was named the Great Naruto Bridge upon its completion — the first landmark to bear his name.",
+            "images": {
+                "profile": "/assets/characters/168.webp",
+                "others": []
+            },
+            "chakraType": [],
+            "stats": {
+                "power": "5/100",
+                "chakra": "5/100",
+                "intelligence": "55/100",
+                "rank": "Civilian"
+            }
+        },
+        {
+            "id": 169,
+            "name": "Gato",
+            "village": "Land of Waves",
+            "clan": null,
+            "powerLevel": 4,
+            "description": "The corrupt shipping magnate who terrorised the Land of Waves. The primary antagonist of the Land of Waves arc.",
+            "extendedDescription": "A corrupt and cruel shipping magnate who had strangled the Land of Waves economically by monopolising all trade routes and hiring shinobi mercenaries to suppress anyone who threatened his control, Gato was the first genuinely civilian villain of the series — a man whose power came not from chakra but from money and fear. He double-crossed Zabuza, planning to eliminate both the missing-nin and Team 7 after they had worn each other down. His death at the hands of the very townspeople he had oppressed demonstrated an early series theme: that ordinary people fighting for their homes can find courage no hired blade can match.",
+            "images": {
+                "profile": "/assets/characters/169.webp",
+                "others": []
+            },
+            "chakraType": [],
+            "stats": {
+                "power": "3/100",
+                "chakra": "2/100",
+                "intelligence": "70/100",
+                "rank": "Civilian"
+            }
+        },
+        {
+            "id": 170,
+            "name": "Inari",
+            "village": "Land of Waves",
+            "clan": null,
+            "powerLevel": 8,
+            "description": "Tazuna's young grandson who had lost all hope before Naruto restored his courage.",
+            "extendedDescription": "Tazuna's young grandson, Inari had given up on hope after watching his beloved stepfather Kaiza be publicly executed by Gato's men as a lesson to anyone who resisted. His cynicism and despair were a direct challenge to Naruto's philosophy of never giving up, and the two clashed before Naruto's genuine conviction slowly broke through. When Gato's thugs came to his village, Inari rallied the townspeople to fight back — a child who had stopped believing in heroes choosing to become one instead. He represents the civilian heart at the centre of the Land of Waves arc's emotional message.",
+            "images": {
+                "profile": "/assets/characters/170.webp",
+                "others": []
+            },
+            "chakraType": [],
+            "stats": {
+                "power": "6/100",
+                "chakra": "5/100",
+                "intelligence": "45/100",
+                "rank": "Civilian"
+            }
+        },
+        {
+            "id": 171,
+            "name": "Mirai Sarutobi",
+            "village": "Hidden Leaf Village",
+            "clan": "Sarutobi",
+            "powerLevel": 70,
+            "description": "The daughter of Asuma and Kurenai. A kunoichi who inherited both genjutsu and combat abilities from her legendary parents.",
+            "extendedDescription": "The posthumous daughter of Asuma Sarutobi and Kurenai Yuhi, Mirai was born after her father's death in battle and named by Shikamaru in a profound moment of grief and hope. She grew up in the shadow of a father she never knew but whose memory permeated every part of her life in the Sarutobi clan. As a young kunoichi she serves as a guard escort and has demonstrated proficiency in both genjutsu inherited from her mother and a chakra blade style reminiscent of her father's trench knives. Her journey is one of identity — becoming her own person while carrying two immense legacies.",
+            "images": {
+                "profile": "/assets/characters/171.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Yin"
+            ],
+            "stats": {
+                "power": "68/100",
+                "chakra": "65/100",
+                "intelligence": "70/100",
+                "rank": "Chunin"
+            }
+        },
+        {
+            "id": 172,
+            "name": "Might Duy",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 72,
+            "description": "Might Guy's father. A self-taught shinobi who mastered the Eight Gates and died protecting his son from the Seven Swordsmen of the Mist.",
+            "extendedDescription": "Might Duy was a shinobi of no natural talent who failed the jonin exams repeatedly yet refused to quit, dedicating himself entirely to taijutsu and physical training. Mocked as the Eternal Genin, he became the first person to independently develop the Eighth Gate technique outside any formal lineage — achieving through pure will what most shinobi considered impossible. He died opening all Eight Gates to fight the Seven Ninja Swordsmen of the Mist, killing four of them to protect his son Guy and his teammates. His conviction that hard work transcends talent became the philosophy Guy passed to Rock Lee, echoing through two generations of the series' most emotionally resonant battles.",
+            "images": {
+                "profile": "/assets/characters/172.webp",
+                "others": []
+            },
+            "chakraType": [],
+            "stats": {
+                "power": "80/100",
+                "chakra": "65/100",
+                "intelligence": "55/100",
+                "rank": "Genin"
+            }
+        },
+        {
+            "id": 173,
+            "name": "Sakumo Hatake",
+            "village": "Hidden Leaf Village",
+            "clan": "Hatake",
+            "powerLevel": 93,
+            "description": "Kakashi's father, known as the White Fang of Konoha. Considered more powerful than the Legendary Sannin in his prime.",
+            "extendedDescription": "Known as the White Fang of Konoha, Sakumo Hatake was considered by the shinobi world to surpass even the Legendary Sannin in raw ability during his prime — a warrior of exceptional renown whose white chakra blade became a symbol of unmatched skill. He chose to abandon a crucial mission to save the lives of his teammates, a decision that cost Konoha dearly and led the very teammates he saved to turn on him in shame. Broken by the condemnation of his village and family, he took his own life, leaving behind a young Kakashi who carried the trauma of his father's disgrace for decades before learning the truth of the choice he had made.",
+            "images": {
+                "profile": "/assets/characters/173.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning",
+                "Wind"
+            ],
+            "stats": {
+                "power": "90/100",
+                "chakra": "85/100",
+                "intelligence": "88/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 174,
+            "name": "Izuna Uchiha",
+            "village": "Hidden Leaf Village",
+            "clan": "Uchiha",
+            "powerLevel": 88,
+            "description": "Madara's younger brother and one of the first Uchiha to awaken the Mangekyo Sharingan.",
+            "extendedDescription": "Madara Uchiha's younger brother and one of the first to awaken the Mangekyo Sharingan, Izuna was Madara's closest companion and an exceptionally powerful warrior in his own right during the era of warring clans. He fought alongside Madara in countless battles and his rivalry with Tobirama Senju was one of the most dangerous single matchups of that era. Fatally wounded by Tobirama in battle, Izuna died from his injuries — and it was to restore his own fading eyesight following this loss that Madara took Izuna's eyes, awakening the Eternal Mangekyo Sharingan that would reshape the entire shinobi world.",
+            "images": {
+                "profile": "/assets/characters/174.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Lightning",
+                "Yin"
+            ],
+            "stats": {
+                "power": "85/100",
+                "chakra": "80/100",
+                "intelligence": "80/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 175,
+            "name": "Kagami Uchiha",
+            "village": "Hidden Leaf Village",
+            "clan": "Uchiha",
+            "powerLevel": 78,
+            "description": "A loyal Uchiha shinobi who served under Tobirama Senju. An ancestor of Shisui Uchiha and the model of Uchiha devotion to the village.",
+            "extendedDescription": "A member of the Uchiha clan who served under Tobirama Senju as part of his handpicked Escort Guard — a deliberately provocative choice given Tobirama's distrust of the Uchiha — Kagami earned Tobirama's genuine respect through his absolute devotion to the village above clan interests. He gave his life to protect Tobirama when they were surrounded by enemies, refusing to flee and standing until the end. He is considered an ancestor of Shisui Uchiha, passing down a lineage of Uchiha who chose the village over the clan at the highest personal cost.",
+            "images": {
+                "profile": "/assets/characters/175.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Lightning"
+            ],
+            "stats": {
+                "power": "76/100",
+                "chakra": "72/100",
+                "intelligence": "75/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 176,
+            "name": "Gamatatsu",
+            "village": "Mount Myoboku",
+            "clan": null,
+            "powerLevel": 58,
+            "description": "Gamabunta's younger son and a toad summon who loves snacks and often fights alongside Naruto and Gamakichi.",
+            "extendedDescription": "The younger son of Gamabunta and Gamakichi's little brother, Gamatatsu is a cheerful, candy-obsessed toad who frequently appears alongside his brother when Naruto calls upon his toad summons. His childlike enthusiasm and near-constant requests for candy create most of his scenes' comedy, but he fights genuinely when needed, using Water Release techniques in coordination with his brother. His growth from a small comic relief summon to a dependable battlefield companion mirrors Naruto's own journey from underestimated outcast to celebrated hero.",
+            "images": {
+                "profile": "/assets/characters/176.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water"
+            ],
+            "stats": {
+                "power": "52/100",
+                "chakra": "55/100",
+                "intelligence": "42/100",
+                "rank": "Summon"
+            }
+        },
+        {
+            "id": 177,
+            "name": "Ayame",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 5,
+            "description": "Teuchi's daughter and co-owner of Ichiraku Ramen. One of the few people who always treated Naruto with warmth.",
+            "extendedDescription": "The daughter of Teuchi and a co-owner of Ichiraku Ramen, Ayame grew up alongside Naruto as one of the constants in his otherwise lonely childhood — a person who always greeted him warmly without hesitation or judgement. Her friendly, teasing relationship with Naruto provided him a sense of belonging that went beyond transactions, and her presence in the ramen shop meant that even on his worst days, there was always somewhere Naruto could go and feel at home. Like her father, her impact on the series is emotional rather than martial — the human warmth that kept a boy's spirit alive.",
+            "images": {
+                "profile": "/assets/characters/177.webp",
+                "others": []
+            },
+            "chakraType": [],
+            "stats": {
+                "power": "5/100",
+                "chakra": "5/100",
+                "intelligence": "58/100",
+                "rank": "Civilian"
+            }
+        },
+        {
+            "id": 178,
+            "name": "Sumire Kakei",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 64,
+            "description": "A kunoichi in Boruto's era who was raised as a sleeper agent. Possesses a summoning contract with Nue.",
+            "extendedDescription": "Raised by her father — a Root operative devastated by Danzo's death — as a living weapon intended to activate a Gozu Tenno seal and unleash the creature Nue upon the Hidden Leaf Village, Sumire spent her childhood believing her purpose was destruction. She built genuine friendships at the Academy that she believed she did not deserve, carrying her mission as a secret burden. When Boruto and his friends refused to let her go down the path her father had set, she chose to abandon the mission and reclaim her own life. She later joined the Scientific Ninja Weapons Team, redirecting her abilities toward protecting the village she once threatened.",
+            "images": {
+                "profile": "/assets/characters/178.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Earth"
+            ],
+            "stats": {
+                "power": "62/100",
+                "chakra": "60/100",
+                "intelligence": "68/100",
+                "rank": "Genin"
+            }
+        },
+        {
+            "id": 179,
+            "name": "Denki Kaminarimon",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 55,
+            "description": "A tech-savvy student at the Academy and son of a wealthy entrepreneur. One of Boruto's earliest friends.",
+            "extendedDescription": "The son of the head of the Kaminarimon Company and one of Boruto's first genuine friends at the Academy, Denki arrived as a timid non-combatant whose family wealth made him a target for bullying. His interest in scientific ninja tools and technology reflects the Boruto era's central tension between traditional jutsu and technological advancement. He worked diligently to improve his physical ninja skills while also bringing his technological knowledge to bear on problems his more conventional teammates could not solve, making him one of the era's clearest examples of a new kind of shinobi.",
+            "images": {
+                "profile": "/assets/characters/179.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning"
+            ],
+            "stats": {
+                "power": "50/100",
+                "chakra": "48/100",
+                "intelligence": "80/100",
+                "rank": "Genin"
+            }
+        },
+        {
+            "id": 180,
+            "name": "Iwabe Yuino",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 65,
+            "description": "An older Academy student who was held back due to poor exam performance. A powerful natural combatant.",
+            "extendedDescription": "An Academy student older than his classmates because he repeatedly failed the written exams despite exceptional physical aptitude, Iwabe's frustration with the gap between his combat talent and academic performance made him aggressive and dismissive toward peers he saw as weaker. His Earth Release techniques and natural physical ability were already at genin level by the time Boruto met him. Being shown genuine respect by Boruto — who challenged him seriously rather than dismissing him — was the catalyst for his attitude shift. He eventually graduated and became a member of the next generation of Konoha shinobi.",
+            "images": {
+                "profile": "/assets/characters/180.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth"
+            ],
+            "stats": {
+                "power": "63/100",
+                "chakra": "58/100",
+                "intelligence": "52/100",
+                "rank": "Genin"
+            }
+        },
+        {
+            "id": 181,
+            "name": "Reto (First Kazekage)",
+            "village": "Hidden Sand Village",
+            "clan": null,
+            "powerLevel": 84,
+            "description": "The founder and First Kazekage of Hidden Sand Village. Pioneered the use of wind chakra in organised military shinobi.",
+            "extendedDescription": "The founder of Hidden Sand Village and its first Kazekage, Reto unified the wind-country's shinobi clans under a single banner through a combination of vision and raw power. He pioneered the use of wind-nature chakra as a signature discipline of Sand's shinobi, establishing a tradition of wind mastery that persisted through every subsequent generation. As one of the earliest Kage, he participated in the founding negotiations alongside the Hokages and Raikages, helping to build the five-village system that defined the shinobi world's political structure for centuries.",
+            "images": {
+                "profile": "/assets/characters/181.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind",
+                "Earth"
+            ],
+            "stats": {
+                "power": "82/100",
+                "chakra": "78/100",
+                "intelligence": "80/100",
+                "rank": "Kage"
+            }
+        },
+        {
+            "id": 182,
+            "name": "A (First Raikage)",
+            "village": "Hidden Cloud Village",
+            "clan": null,
+            "powerLevel": 86,
+            "description": "The founder and First Raikage of Hidden Cloud Village. Established Hidden Cloud's tradition of lightning-based combat.",
+            "extendedDescription": "The founder of Hidden Cloud Village and first to hold the title of Raikage, the First A unified the lightning-country's shinobi under a single military command and established the lightning-natured combat doctrine that became Hidden Cloud's defining identity across generations. His willingness to participate in the five-village peace negotiations while maintaining the fierce independence that characterised his nation created the delicate balance that held Cloud's political relationships together for decades. He is the origin of the power lineage that produced both the Third and Fourth Raikage.",
+            "images": {
+                "profile": "/assets/characters/182.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Lightning",
+                "Wind"
+            ],
+            "stats": {
+                "power": "84/100",
+                "chakra": "80/100",
+                "intelligence": "78/100",
+                "rank": "Kage"
+            }
+        },
+        {
+            "id": 183,
+            "name": "Byakuren (First Mizukage)",
+            "village": "Hidden Mist Village",
+            "clan": null,
+            "powerLevel": 83,
+            "description": "The founder and First Mizukage of Hidden Mist Village. Established the foundation of the Mist's brutal shinobi tradition.",
+            "extendedDescription": "The First Mizukage and founder of Hidden Mist Village, Byakuren established the village that would become one of the most feared in the shinobi world — a place whose graduation exam once required students to kill each other and whose seven swordsmen were known across all five nations. Whether the blood-soaked traditions that defined the Blood Mist era were his legacy or a corruption of his original vision is unclear, but the village he founded endured through every generation and eventually reformed under Mei Terumi into something better than the darkness it had been.",
+            "images": {
+                "profile": "/assets/characters/183.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Earth"
+            ],
+            "stats": {
+                "power": "82/100",
+                "chakra": "80/100",
+                "intelligence": "78/100",
+                "rank": "Kage"
+            }
+        },
+        {
+            "id": 184,
+            "name": "Ishikawa (First Tsuchikage)",
+            "village": "Hidden Stone Village",
+            "clan": null,
+            "powerLevel": 84,
+            "description": "The founder and First Tsuchikage of Hidden Stone Village. Established the stone-hard tradition of Hidden Stone's shinobi.",
+            "extendedDescription": "The First Tsuchikage and founder of Hidden Stone Village, Ishikawa established a military tradition characterised by endurance, stubbornness, and the earth-moving techniques that became Hidden Stone's signature combat style. His negotiations during the founding of the five-village system were conducted with the same unmovable firmness that would come to define every Tsuchikage after him, including Onoki whose century of stubbornness was practically a family trait. He was eventually succeeded by Mu, the Second Tsuchikage, who added the devastating Dust Release to Hidden Stone's arsenal.",
+            "images": {
+                "profile": "/assets/characters/184.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Fire"
+            ],
+            "stats": {
+                "power": "83/100",
+                "chakra": "80/100",
+                "intelligence": "80/100",
+                "rank": "Kage"
+            }
+        },
+        {
+            "id": 185,
+            "name": "Amado",
+            "village": null,
+            "clan": null,
+            "powerLevel": 40,
+            "description": "Kara's chief scientist and the creator of Delta, Eida, Daemon, and Koji Kashin. Defected to Konoha with crucial intelligence.",
+            "extendedDescription": "Kara's brilliant and utterly amoral chief scientist, Amado created the organisation's most dangerous assets — the cyborgs Delta, Eida, and Daemon; the Jiraiya clone Koji Kashin; and the Karma vessel modification process itself. His true motivation was never Isshiki's vision but a private obsession with resurrecting his deceased daughter, driving every scientific advance as a means toward that personal end. He defected to Konoha carrying intelligence that proved crucial to the fight against Isshiki, trading his knowledge for sanctuary — though his loyalty to Konoha is entirely conditional on whether it serves his purposes.",
+            "images": {
+                "profile": "/assets/characters/185.webp",
+                "others": []
+            },
+            "chakraType": [],
+            "stats": {
+                "power": "20/100",
+                "chakra": "15/100",
+                "intelligence": "99/100",
+                "rank": "Civilian"
+            }
+        },
+        {
+            "id": 186,
+            "name": "Homura Mitokado",
+            "village": "Hidden Leaf Village",
+            "clan": "Mitokado",
+            "powerLevel": 68,
+            "description": "One of the two elders of Konoha's advisory council alongside Koharu. A former teammate of Hiruzen Sarutobi.",
+            "extendedDescription": "One of the two civilian advisors on Konoha's ruling council alongside Koharu Utatane, Homura Mitokado was a former teammate of Hiruzen Sarutobi who wielded significant political influence within the village for decades. His conservative, security-first approach to village policy frequently brought him into conflict with more idealistic Hokages, and his quiet support for Danzo's Root organisation reflected the same ruthless pragmatism. By the time of the Fourth Shinobi World War he remained an administrative presence, his battlefield days long behind him but his political instincts still sharp.",
+            "images": {
+                "profile": "/assets/characters/186.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Earth"
+            ],
+            "stats": {
+                "power": "60/100",
+                "chakra": "55/100",
+                "intelligence": "80/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 187,
+            "name": "Koharu Utatane",
+            "village": "Hidden Leaf Village",
+            "clan": "Utatane",
+            "powerLevel": 68,
+            "description": "One of the two elders of Konoha's advisory council alongside Homura. A former teammate of Hiruzen Sarutobi.",
+            "extendedDescription": "The female half of Konoha's long-serving advisory council duo, Koharu Utatane was another former teammate of Hiruzen Sarutobi who rose to political influence as the village's institutional memory rather than its active military power. Like Homura, she advocated for security over sentiment and supported the existence of Root as a necessary shadow instrument of the village's survival. Her decades of experience gave her insight into Konoha's political history that no Hokage could ignore, even when her advice conflicted with their values.",
+            "images": {
+                "profile": "/assets/characters/187.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Fire",
+                "Yin"
+            ],
+            "stats": {
+                "power": "60/100",
+                "chakra": "55/100",
+                "intelligence": "80/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 188,
+            "name": "Urashiki Otsutsuki",
+            "village": null,
+            "clan": "Otsutsuki",
+            "powerLevel": 88,
+            "description": "An Otsutsuki clan member who travels with Momoshiki and Kinshiki to harvest the Earth's chakra. An antagonist in the Boruto era.",
+            "extendedDescription": "A member of the Otsutsuki clan who accompanied Momoshiki and Kinshiki to Earth and observed their failure before beginning his own separate operation to harvest chakra. His eyes grant him the ability to steal chakra from opponents and absorb their techniques to add to his own arsenal over time, making extended battles increasingly dangerous as he accumulates power. His most terrifying ability sends him backwards through time, letting him grow stronger with the knowledge of how each battle unfolded. He was ultimately defeated by the combined effort of a young Naruto, Boruto, and Sasuke after an extended chase through the timeline.",
+            "images": {
+                "profile": "/assets/characters/188.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Wind",
+                "Water",
+                "Yin",
+                "Yang"
+            ],
+            "stats": {
+                "power": "86/100",
+                "chakra": "88/100",
+                "intelligence": "82/100",
+                "rank": "Otsutsuki"
+            }
+        },
+        {
+            "id": 189,
+            "name": "Mebuki Haruno",
+            "village": "Hidden Leaf Village",
+            "clan": "Haruno",
+            "powerLevel": 12,
+            "description": "Sakura's mother. A civilian woman who raised the future's greatest medical ninja.",
+            "extendedDescription": "Sakura's civilian mother, Mebuki is a proud, somewhat boastful woman who nonetheless raised her daughter with genuine love and fierce protectiveness. Her reaction to learning Sakura had grown to become one of the most powerful kunoichi in history is a quiet, deeply satisfying arc of parental pride — she never understood the shinobi world, but she supported her daughter's place in it. She and her husband Kizashi represent the civilian perspective on the shinobi life: parents who can only watch and hope, while their child fights battles they cannot imagine.",
+            "images": {
+                "profile": "/assets/characters/189.webp",
+                "others": []
+            },
+            "chakraType": [],
+            "stats": {
+                "power": "10/100",
+                "chakra": "8/100",
+                "intelligence": "55/100",
+                "rank": "Civilian"
+            }
+        },
+        {
+            "id": 190,
+            "name": "Kizashi Haruno",
+            "village": "Hidden Leaf Village",
+            "clan": "Haruno",
+            "powerLevel": 12,
+            "description": "Sakura's father. A cheerful civilian man who loves puns and is quietly proud of his extraordinary daughter.",
+            "extendedDescription": "Sakura's cheerful, pun-loving civilian father, Kizashi Haruno is the kind of presence that fills a room with warmth rather than power. His relationship with Sakura is easy and affectionate, with an undercurrent of awe at the distance she has traveled from the ordinary household she grew up in. In a filler arc, he and Mebuki are shown to have had prior shinobi contact of their own — adding a small layer of depth to parents who otherwise exist primarily to ground Sakura's extraordinary life in an ordinary origin. His persistent terrible puns are a recurring source of Sakura's embarrassment.",
+            "images": {
+                "profile": "/assets/characters/190.webp",
+                "others": []
+            },
+            "chakraType": [],
+            "stats": {
+                "power": "10/100",
+                "chakra": "8/100",
+                "intelligence": "55/100",
+                "rank": "Civilian"
+            }
+        },
+        {
+            "id": 191,
+            "name": "Tonton",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 8,
+            "description": "Shizune's pet pig and a beloved companion at the Hokage's office. Possesses a remarkable sense of smell.",
+            "extendedDescription": "Shizune's small pet pig and a constant presence in Tsunade's office during the Fifth Hokage's administration, Tonton is perhaps the most beloved animal companion in the series who is definitively not a ninja. Her sense of smell is acute enough that she has been used to track targets, and her calm presence in chaotic situations is a minor but genuine comfort to the humans around her. She has witnessed more secret meetings of Konoha's leadership than most jonin and carries them all with the dignified discretion of a pig who has absolutely no intention of talking.",
+            "images": {
+                "profile": "/assets/characters/191.webp",
+                "others": []
+            },
+            "chakraType": [],
+            "stats": {
+                "power": "5/100",
+                "chakra": "5/100",
+                "intelligence": "30/100",
+                "rank": "Civilian"
+            }
+        },
+        {
+            "id": 192,
+            "name": "Enma",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 78,
+            "description": "Hiruzen Sarutobi's monkey summon and the Monkey King. Can transform into an adamantine staff of extraordinary hardness.",
+            "extendedDescription": "The Monkey King and Hiruzen Sarutobi's most powerful summon, Enma is a white-bearded great ape whose most fearsome ability is transforming into the Adamantine Staff — a weapon of extraordinary hardness that even Orochimaru's Living Corpse Reincarnation-empowered swords struggled to cut. His centuries of life and battle experience gave him a wisdom and tactical awareness that matched Hiruzen's own, and the two fought as a seamlessly unified duo. He was present at Hiruzen's death, a final battle Enma considered a warrior's fitting end even as it grieved him.",
+            "images": {
+                "profile": "/assets/characters/192.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Yang"
+            ],
+            "stats": {
+                "power": "75/100",
+                "chakra": "70/100",
+                "intelligence": "80/100",
+                "rank": "Summon"
+            }
+        },
+        {
+            "id": 193,
+            "name": "Biwako Sarutobi",
+            "village": "Hidden Leaf Village",
+            "clan": "Sarutobi",
+            "powerLevel": 55,
+            "description": "Hiruzen's wife and the midwife who delivered Naruto on the night of the Nine-Tails attack. Killed by Tobi.",
+            "extendedDescription": "The wife of the Third Hokage and a respected midwife who was trusted to deliver the child of the Fourth Hokage on the most dangerous night in Konoha's history, Biwako Sarutobi was killed alongside the attending jonin by Obito Uchiha when he arrived to seize the newborn Naruto. Her death was one of the first acts of violence in the Nine-Tails attack and it happened in a moment of complete vulnerability — a midwife holding a newborn. She represents the cost paid by ordinary people caught in the centre of forces far beyond their involvement.",
+            "images": {
+                "profile": "/assets/characters/193.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Yang"
+            ],
+            "stats": {
+                "power": "48/100",
+                "chakra": "45/100",
+                "intelligence": "60/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 194,
+            "name": "Victor",
+            "village": null,
+            "clan": null,
+            "powerLevel": 72,
+            "description": "A Kara inner member who posed as the president of a pharmaceutical company. Uses a variant of the Wood Release.",
+            "extendedDescription": "A Kara inner member who operated under the cover identity of a powerful pharmaceutical executive, Victor conducted research into tailed beast cells and the God Tree in secret while publicly presenting as a wealthy and influential businessman. His access to Hashirama's cells granted him a degraded but functional Wood Release, which he combined with significant combat ability. He was ultimately eliminated by Delta after he was deemed a liability, his cover blown by Boruto's team — another example of Kara's ruthless operational security, where inner members were expendable the moment their usefulness ended.",
+            "images": {
+                "profile": "/assets/characters/194.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Water",
+                "Wood"
+            ],
+            "stats": {
+                "power": "70/100",
+                "chakra": "65/100",
+                "intelligence": "80/100",
+                "rank": "Unknown"
+            }
+        },
+        {
+            "id": 195,
+            "name": "Deepa",
+            "village": null,
+            "clan": null,
+            "powerLevel": 80,
+            "description": "A Kara outer member with a body hardened to near impenetrability. Defeated Sasuke's student team single-handedly.",
+            "extendedDescription": "A Kara outer member with a unique physiology that allows him to harden his body's carbon cells to a density that deflects virtually any conventional attack, making him extraordinarily difficult to harm through standard ninjutsu or physical strikes. His ability to fire compressed carbon cubes at lethal velocity turns him into a living cannon, and his calm, almost philosophical attitude toward violence makes him deeply unsettling. He defeated Boruto, Sarada, and Mitsuki together — along with Team 10 — in a single engagement, representing one of the clearest demonstrations of the power gap between the Boruto era's threats and its young protagonists.",
+            "images": {
+                "profile": "/assets/characters/195.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Lightning"
+            ],
+            "stats": {
+                "power": "78/100",
+                "chakra": "72/100",
+                "intelligence": "70/100",
+                "rank": "Unknown"
+            }
+        },
+        {
+            "id": 196,
+            "name": "Mugino",
+            "village": "Hidden Leaf Village",
+            "clan": null,
+            "powerLevel": 68,
+            "description": "A Konoha jonin who served as team leader for missions in the Boruto era. Sacrificed himself protecting his team.",
+            "extendedDescription": "A reliable and experienced Konoha jonin who served as team leader on dangerous missions during the Boruto era, Mugino was the kind of senior shinobi who mentored younger ninja through example rather than lecture — steady under pressure, willing to take calculated risks, and genuinely invested in the lives of the people under his command. He died during a mission protecting his team, a sacrifice in the tradition of the series' most honoured shinobi: people who put their bodies between danger and those they care for without hesitation or regret.",
+            "images": {
+                "profile": "/assets/characters/196.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Earth",
+                "Wind"
+            ],
+            "stats": {
+                "power": "66/100",
+                "chakra": "62/100",
+                "intelligence": "70/100",
+                "rank": "Jonin"
+            }
+        },
+        {
+            "id": 197,
+            "name": "Idate Morino",
+            "village": "Land of Tea",
+            "clan": "Morino",
+            "powerLevel": 30,
+            "description": "Ibiki's younger brother who failed the Chunin Exams and became a runner in the Land of Tea.",
+            "extendedDescription": "The younger brother of Ibiki Morino who failed the Chunin Exam due to fear and was manipulated by Aoi Rokusho into abandoning Konoha, Idate spent years as a competitive runner in the Land of Tea, bitter and haunted by what he saw as his own cowardice. His arc — the Idate Morino Escorting Mission — has him face his failures with Naruto's support and ultimately choose courage over survival in a boat race that determined his village's political fate. A non-ninja protagonist arc, it explores redemption and the meaning of failure through one of the series' more unusual lenses.",
+            "images": {
+                "profile": "/assets/characters/197.webp",
+                "others": []
+            },
+            "chakraType": [],
+            "stats": {
+                "power": "28/100",
+                "chakra": "25/100",
+                "intelligence": "52/100",
+                "rank": "Civilian"
+            }
+        },
+        {
+            "id": 198,
+            "name": "Nagato's Parents",
+            "village": "Hidden Rain Village",
+            "clan": "Uzumaki",
+            "powerLevel": 20,
+            "description": "Nagato's unnamed civilian parents who were killed by Konoha ninja during the Second Shinobi World War. Their deaths awakened Nagato's Rinnegan.",
+            "extendedDescription": "Nagato's unnamed parents were ordinary civilians in Hidden Rain Village who were killed during the Second Shinobi World War when two Konoha ninja — mistaking them for enemy combatants — cut them down in their own home. Nagato witnessed their deaths as a child and the overwhelming grief and rage of that moment caused his Rinnegan to awaken involuntarily, killing both soldiers. Their deaths were the origin point of the entire Akatsuki story: the grief that Jiraiya tried to heal, that became Pain's philosophy, that drove the destruction of Konoha, and that Naruto ultimately answered with forgiveness rather than vengeance.",
+            "images": {
+                "profile": "/assets/characters/198.webp",
+                "others": []
+            },
+            "chakraType": [],
+            "stats": {
+                "power": "15/100",
+                "chakra": "12/100",
+                "intelligence": "40/100",
+                "rank": "Civilian"
+            }
+        },
+        {
+            "id": 200,
+            "name": "Kushimaru Kuriarare (Reanimated)",
+            "village": "Hidden Mist Village",
+            "clan": null,
+            "powerLevel": 74,
+            "description": "The reanimated form of the Nuibari-wielding Swordsman of the Mist during the Fourth Shinobi World War.",
+            "extendedDescription": "See Kushimaru Kuriarare (id 98) for the full character profile. This entry represents his reanimated state during the Fourth Shinobi World War, when Kabuto deployed him alongside the other Swordsmen of the Mist against the Allied Shinobi Forces. Freed from the limits of a living body, his thread-and-needle technique operated with even greater precision, stitching together groups of enemies at terrifying speed before they could react.",
+            "images": {
+                "profile": "/assets/characters/200.webp",
+                "others": []
+            },
+            "chakraType": [
+                "Water",
+                "Wind"
+            ],
+            "stats": {
+                "power": "73/100",
+                "chakra": "66/100",
+                "intelligence": "70/100",
+                "rank": "Jonin"
+            }
         }
     ]
 }
